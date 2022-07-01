@@ -79,12 +79,3 @@ Soon I will add more... <br />
 - [How to get StakeDrop from Persistence using Keple and Ledger](https://youtu.be/tiJGu4_2ZPo)
 
 Soon I will add more... <br />
-
-## Contacts: <br />
-- [Web-page](https://posthuman.digital/) <br />
-- [GitHub](https://github.com/Antropocosmist/my_competencies) <br />
-- [InterPlanetary Community Chat](https://t.me/posthumanchat)
-- [Telegram](https://t.me/antropocosmist) <br />
-- [Twitter](https://twitter.com/POSTHUMAN_DVS) <br />
-- [Medium](https://antropocosmist.medium.com/) <br />
-- Email: validator@posthuman.digital <br />
