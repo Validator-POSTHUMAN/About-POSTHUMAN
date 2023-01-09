@@ -2,7 +2,7 @@
 
 [Web-page](https://posthuman.digital) <br />
 
-## POSTHUMAN validate 25 different Main-nets
+## POSTHUMAN validate 27 different Main-nets
 
 - [Solana](https://www.validators.app/validators/9PViHDmiezXQfeYDveJrcfkXCQVCcsfhpo32cjHUeZVj)
 - [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw)
@@ -29,6 +29,8 @@
 - [Crescent Network](https://www.mintscan.io/crescent/validators/crevaloper12yudzhed4cqjpwkv52hwut7a5xn8h7j97gqhaq)
 - [EVMOS](https://www.mintscan.io/evmos/validators/evmosvaloper1jk7umxyky5m5dul46t8nxneavlg7eysjr6lfj7)
 - [Tgrade](https://tgrade.aneka.io/validators/tgrade1kcdne83mkvygg7guueswnfyfwtsdmewywvnq5q)
+- [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper14ftwwcfvhnp3qvxawesjan5duh8rmrkrzdvquy)
+- [Quickailver](https://www.mintscan.io/quicksilver/validators/quickvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fe7umkd)
 
 ## POSTHUMAN validates 2 Networks as part of the [DVS validator](https://validators.network/)
 
