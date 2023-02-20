@@ -2,7 +2,7 @@
 
 [Web-page](https://posthuman.digital) <br />
 
-## POSTHUMAN validate 28 different Main-nets
+## POSTHUMAN validate 29 different Main-nets
 
 - [Solana](https://www.validators.app/validators/9PViHDmiezXQfeYDveJrcfkXCQVCcsfhpo32cjHUeZVj)
 - [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw)
@@ -32,6 +32,7 @@
 - [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper14ftwwcfvhnp3qvxawesjan5duh8rmrkrzdvquy)
 - [QuickSilver](https://www.mintscan.io/quicksilver/validators/quickvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fe7umkd)
 - [HoneyWood]()
+- [Injective Protocol](https://www.mintscan.io/injective/validators/injvaloper1e84fr6cxgcflv3fc9ey6n8425au7zx6wsztrle)
 
 ## POSTHUMAN validates 2 Networks as part of the [DVS validator](https://validators.network/)
 
