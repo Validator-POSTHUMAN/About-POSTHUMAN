@@ -2,7 +2,7 @@
 
 [Web-page](https://posthuman.digital) <br />
 
-## POSTHUMAN validate 30 different Main-nets
+## POSTHUMAN validate 29 different Main-nets
 
 - [Solana](https://www.validators.app/validators/9PViHDmiezXQfeYDveJrcfkXCQVCcsfhpo32cjHUeZVj)
 - [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw)
@@ -24,7 +24,6 @@
 - [Gravity Bridge](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1epfpvqsc34sfserdx8x4t3aszdkar3w684fwr6)
 - [Chihuahua](https://www.mintscan.io/chihuahua/validators/chihuahuavaloper1fm68jvjpk0g7dvdq75czjynyszeaduxt5lc0a8)
 - [OmniFlix](https://www.skynetexplorers.com/omniflix/staking/omniflixvaloper1s3achxs70ysg8pf9xqyytu0m4had60khpuccxl)
-- [Cerberus Zone](https://www.mintscan.io/cerberus/validators/cerberusvaloper1td92z5qwl39f407gxf6lu2x80enat7t3jfefnf)
 - [AssetMantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1xrvhlxasg3duvmz82gn5gggpc8wwry7luclvx9)
 - [Crescent Network](https://www.mintscan.io/crescent/validators/crevaloper12yudzhed4cqjpwkv52hwut7a5xn8h7j97gqhaq)
 - [EVMOS](https://www.mintscan.io/evmos/validators/evmosvaloper1jk7umxyky5m5dul46t8nxneavlg7eysjr6lfj7)
@@ -45,4 +44,8 @@
 - [Solana](https://www.validators.app/validators/HZX4MWsSDzRerGuV6kgtj5sGM3dcX9doaiN7qr5y9MAw)
 - [SSV Network](https://explorer.ssv.network/operators/a2a4abaa495ed8b81230750ba59a9617b52af23587670a3b939bc41cc4943570)
 - [OmniFlix Network](https://www.omniflix.network/)
+
+## ARCHIVE OF NETWORKS
+
+- [Cerberus Zone](https://www.mintscan.io/cerberus/validators/cerberusvaloper1td92z5qwl39f407gxf6lu2x80enat7t3jfefnf)
 
