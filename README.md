@@ -49,3 +49,6 @@
 
 - [Cerberus Zone](https://www.mintscan.io/cerberus/validators/cerberusvaloper1td92z5qwl39f407gxf6lu2x80enat7t3jfefnf)
 
+## EXAMPLE
+
+[Celestia](https://celestia.explorers.guru/validator/celestiavaloper1p0ff86fxzaem3xtlz8r2ymwa2elj2awurunlhu)
