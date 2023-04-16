@@ -2,7 +2,7 @@
 
 [Web-page](https://posthuman.digital) <br />
 
-## POSTHUMAN validate 30 different Main-nets
+## POSTHUMAN validate 32 different Main-nets
 
 - [Solana](https://www.validators.app/validators/9PViHDmiezXQfeYDveJrcfkXCQVCcsfhpo32cjHUeZVj)
 - [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw)
@@ -34,6 +34,8 @@
 - [Injective Protocol](https://www.mintscan.io/injective/validators/injvaloper1e84fr6cxgcflv3fc9ey6n8425au7zx6wsztrle)
 - [KYVE Network](https://www.mintscan.io/kyve/validators/kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7)
 - [Aura Network](https://aurascan.io/validators/auravaloper15pzl0s6ym85qx4yeq29rflp702wtx3dntle05a)
+- [Stride](https://www.mintscan.io/stride/validators/stridevaloper1yqc0eg2ntxj2lnw99hgl0egaw27cp3f2kwa94q)
+- [Akash Network](https://www.mintscan.io/akash/validators/akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk)
 
 ## POSTHUMAN validates 2 Networks as part of the [DVS validator](https://validators.network/)
 
