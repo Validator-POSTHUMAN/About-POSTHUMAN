@@ -49,5 +49,5 @@ Also, the POSTHUMAN validator is actively involved in developing its own communi
 - [Medium](https://medium.com/@anthropocosmist)
 - [English YouTube channel](https://www.youtube.com/@POSTHUMANDVS)
 - [Russian YouTube channel](https://www.youtube.com/@CRYPTOBASED)
-- [Information about the community on the website](https://posthuman.digital/community)
+- [Information about the community on the website](https://posthuman.digital/community) <br />
 More information can be found on [GitHub](https://github.com/Validator-POSTHUMAN)
