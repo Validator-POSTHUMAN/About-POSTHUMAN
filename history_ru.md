@@ -49,5 +49,5 @@
 - [Медиум](https://medium.com/@antropocosmist)
 - [Англоязычный канал YouTube](https://www.youtube.com/@POSTHUMANDVS)
 - [Русскоязычный канал YouTube](https://www.youtube.com/@CRYPTOBASED)
-- [Информация о сообществе на сайте](https://posthuman.digital/community)
+- [Информация о сообществе на сайте](https://posthuman.digital/community) <br />
 Более полную информацию вы можете найти на [GitHub](https://github.com/Validator-POSTHUMAN)
