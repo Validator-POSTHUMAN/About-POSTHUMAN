@@ -43,12 +43,12 @@
 С выступлением POSTHUMAN об эволюции децентрализованного управления вы можете ознакомиться [тут](https://youtu.be/delHKrRYZJA?si=vbCD0rpaHBHUI5G-) <br />
  <br />
 Также, валидатор POSTHUMAN, активно занимается развитием собственного сообщества: <br />
-- [Англоязычное сообщество в Телеграм](https://t.me/posthumanchat)
-- [Русскоязычное сообщество в Телеграм](https://t.me/Crypto_Base_Chat)
-- [Твиттер](https://twitter.com/POSTHUMAN_DVS)
-- [Дискорд](https://discord.gg/zZJXWnzKnP)
-- [Медиум](https://medium.com/@antropocosmist)
-- [Англоязычный канал YouTube](https://www.youtube.com/@POSTHUMANDVS)
-- [Русскоязычный канал YouTube](https://www.youtube.com/@CRYPTOBASED)
+- [Англоязычное сообщество в Телеграм](https://t.me/posthumanchat) <br />
+- [Русскоязычное сообщество в Телеграм](https://t.me/Crypto_Base_Chat) <br />
+- [Твиттер](https://twitter.com/POSTHUMAN_DVS) <br />
+- [Дискорд](https://discord.gg/zZJXWnzKnP) <br />
+- [Медиум](https://medium.com/@antropocosmist) <br />
+- [Англоязычный канал YouTube](https://www.youtube.com/@POSTHUMANDVS) <br />
+- [Русскоязычный канал YouTube](https://www.youtube.com/@CRYPTOBASED) <br />
 - [Информация о сообществе на сайте](https://posthuman.digital/community) <br />
 Более полную информацию вы можете найти на [GitHub](https://github.com/Validator-POSTHUMAN)
