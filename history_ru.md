@@ -31,6 +31,7 @@
 - Поддержка и развитие [русскоговорящего сообщества Экосистемы Космос](https://t.me/CosmosEcosystem_ru)
 - Проведение еженедельных видео-встреч сообщества, которые проходят уже на протяжении более 80 недель! Со всеми записями можно ознакомится [тут](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G&si=mYej3AHwTx6460dt)
 - Создание видео-образовательного курса [Космическая Академия](https://youtube.com/playlist?list=PLgQFzABJoJYwqcsFHZx0icgcYOZRgao3d&si=Y3fHWvpW8rokK5cq) <br />
+
 Список сервисов, которые валидатор POSTHUMAN предоставляет сетям, можно найти [тут](https://posthuman.digital/contributions). <br />
 Ознакомится с уже совершёнными контрибьюциями, можно [тут](https://github.com/Validator-POSTHUMAN/contributions) (этот список постоянно пополняется). <br />
 
