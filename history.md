@@ -31,6 +31,7 @@ The POSTHUMAN team creates educational video content in English and Russian, org
 - Support and development of the [Russian-speaking community of the Cosmos Ecosystem](https://t.me/CosmosEcosystem_ru) <br />
 - Hosting weekly community video meetings that have been running for over 80 weeks! All recordings can be found [here](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G&si=mYej3AHwTx6460dt) <br />
 - Creation of a video educational course [Cosmos Academy](https://youtube.com/playlist?list=PLgQFzABJoJYwqcsFHZx0icgcYOZRgao3d&si=Y3fHWvpW8rokK5cq) <br />
+
 A list of services that the POSTHUMAN validator provides to networks can be found [here](https://posthuman.digital/contributions). <br />
 You can get acquainted with already made contributions [here](https://github.com/Validator-POSTHUMAN/contributions) (this list is constantly updated). <br />
 
