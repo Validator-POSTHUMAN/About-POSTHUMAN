@@ -41,7 +41,7 @@
 - [Nomic](https://app.nomic.io/staking?validator=nomic19k66uuramzvll98f6r4ayqmvugats3e5l6zxj8&modal=info)
 - [Archway](https://www.mintscan.io/archway/validators/archwayvaloper1jy9kqql29lefyddmha9xla39qwqv8zxdzep27p)
 
-## POSTHUMAN validate 33 different Main-nets
+## POSTHUMAN validate 3 different Test-nets
 
 - [Cascadia](https://validator.cascadia.foundation/validators/cascadiavaloper19kefsurq6dfrcrg0cmt0dljmmkwlsgdgj7edfu)
 - [QWOYN](https://explorer.nodestake.top/qwoyn/staking/qwoynvaloper107f9lr00cnsn7tl0v7mvqqrygwqtqw3le8uyra)
