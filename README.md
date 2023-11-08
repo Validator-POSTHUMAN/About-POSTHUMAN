@@ -43,12 +43,6 @@
 - [Celestia](https://www.mintscan.io/celestia/validators/celestiavaloper1snun9qqk9eussvyhkqm03lz6f265ekhnnlw043)
 - [dYdX](https://www.mintscan.io/dydx/validators/dydxvaloper1f4gntzm5cygqtc988syynfyqjfyz5vf4g32xp0)
 
-## POSTHUMAN validate 3 different Test-nets
-
-- [Cascadia](https://validator.cascadia.foundation/validators/cascadiavaloper19kefsurq6dfrcrg0cmt0dljmmkwlsgdgj7edfu)
-- [QWOYN](https://explorer.nodestake.top/qwoyn/staking/qwoynvaloper107f9lr00cnsn7tl0v7mvqqrygwqtqw3le8uyra)
-- [OKP4](https://okp4.explorers.guru/validator/okp4valoper1mvcjm24q7j70709j4nk0r6uc07n6wc098k224q)
-
 ## POSTHUMAN validates 2 Networks as part of the [DVS validator](https://validators.network/)
 
 - [Comdex](https://www.mintscan.io/comdex/validators/comdexvaloper1963hcznh439kspqmjj5hv5h4nk2kphvats5ujk)
@@ -56,6 +50,9 @@
 
 ## POSTHUMAN validate several different test-nets (list not full and always changes)
 
+- [Cascadia](https://validator.cascadia.foundation/validators/cascadiavaloper19kefsurq6dfrcrg0cmt0dljmmkwlsgdgj7edfu)
+- [QWOYN](https://explorer.nodestake.top/qwoyn/staking/qwoynvaloper107f9lr00cnsn7tl0v7mvqqrygwqtqw3le8uyra)
+- [OKP4](https://okp4.explorers.guru/validator/okp4valoper1mvcjm24q7j70709j4nk0r6uc07n6wc098k224q)
 - [Solana](https://www.validators.app/validators/HZX4MWsSDzRerGuV6kgtj5sGM3dcX9doaiN7qr5y9MAw)
 - [SSV Network](https://explorer.ssv.network/operators/a2a4abaa495ed8b81230750ba59a9617b52af23587670a3b939bc41cc4943570)
 - [OmniFlix Network](https://www.omniflix.network/)
