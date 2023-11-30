@@ -2,7 +2,7 @@
 
 [Web-page](https://posthuman.digital) <br />
 
-## POSTHUMAN validate 38 different Main-nets
+## POSTHUMAN validate 36 different Main-nets
 
 - [Solana](https://www.validators.app/validators/9PViHDmiezXQfeYDveJrcfkXCQVCcsfhpo32cjHUeZVj)
 - [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw)
@@ -40,8 +40,6 @@
 - [Secret Network](https://www.mintscan.io/secret/validators/secretvaloper1f8chr3y3s9h8g4vc5pg8wvzzhfy3hcxm0re5zc)
 - [Nomic](https://app.nomic.io/staking?validator=nomic19k66uuramzvll98f6r4ayqmvugats3e5l6zxj8&modal=info)
 - [Archway](https://www.mintscan.io/archway/validators/archwayvaloper1jy9kqql29lefyddmha9xla39qwqv8zxdzep27p)
-- [Celestia](https://www.mintscan.io/celestia/validators/celestiavaloper1snun9qqk9eussvyhkqm03lz6f265ekhnnlw043)
-- [dYdX](https://www.mintscan.io/dydx/validators/dydxvaloper1f4gntzm5cygqtc988syynfyqjfyz5vf4g32xp0)
 
 ## POSTHUMAN validates 2 Networks as part of the [DVS validator](https://validators.network/)
 
