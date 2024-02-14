@@ -14,16 +14,18 @@ Information about POSTHUMAN DAS can be found [here](https://medium.com/@antropoc
 Information about tokenomics can be found [here](https://medium.com/@anthropocosmist/phmn-tokenomics-f3b7116331e6) <br />
 Information on how a decentralized validator works can be found [here](https://medium.com/@antropocosmist/presentation-of-the-decentralized-validator-1d7062210c90) <br />
 
-The core team is responsible for developing the validator and contributing to the development of networks and communities. <br />
+The core team is responsible for developing the validator and contributing to the development of networks and communities <br />
 At the moment, the POSTHUMAN core team consists of 10 people: <br />
-Initially, there was only one person behind the POSTHUMAN validator - [Vladi](https://github.com/Antropocosmist). <br />
-After the number of validated main networks reached 13, [Albert](https://github.com/albertandrejev) joined Vladi, taking on the technical side of validation. <br />
-The third member of the team was [Vova](https://twitter.com/vova_synthetic), taking on the responsibility of creating video content. <br />
-Afterwards, [Valentin](https://github.com/Medniyy) joined the team to help with community development, organizing and holding events. <br />
-The fifth participant, as an advisor and programmer, was [Mikhail](https://github.com/krogla). <br />
-Afterwards, one after another, [Evgeniy](https://github.com/evgen3000) joined the team - to work with big data, and [Daniil](https://github.com/saloonn) - as a designer . <br />
-Further, two people immediately joined the core team to help with the development of the community: [Ekaterina](https://twitter.com/LooMay1913) and [Sergey](https://twitter.com/s__orion). <br />
-The tenth member of the team was [Nikita](https://github.com/web3validator/web34ever-identity/blob/main/web34ever-self-identity.md), taking responsibility for participating in testnets. <br />
+Initially, there was only one person behind the POSTHUMAN validator - [Vladi](https://github.com/Antropocosmist) <br />
+After the number of validated main networks reached 13, [Albert](https://github.com/albertandrejev) joined Vladi, taking on the technical side of validation <br />
+The third member of the team was [Vova](https://twitter.com/vova_synthetic), taking on the responsibility of creating video content <br />
+Afterwards, [Valentin](https://github.com/Medniyy) joined the team to help with community development, organizing and holding events <br />
+The fifth participant, as an advisor and programmer, was [Mikhail](https://github.com/krogla) <br />
+Afterwards, one after another, [Evgeniy](https://github.com/evgen3000) joined the team - to work with big data, and [Daniil](https://github.com/saloonn) - as a designer <br />
+Further, two people immediately joined the core team to help with the development of the community: [Ekaterina](https://twitter.com/LooMay1913) and [Sergey](https://twitter.com/s__orion) <br />
+The tenth member of the team was [Nikita](https://github.com/web3validator/web34ever-identity/blob/main/web34ever-self-identity.md), taking responsibility for participating in testnets <br />
+[Vadim](https://github.com/Vgk88) joined POSTHUMAN as test-net developer, and became 11th member of core-team <br />
+And 12th member of POSTHUMAN core-team is [Sergey](https://github.com/stribulsergey) - full-stack developer, who is responsible for tools and dApps development <br />
 
 Throughout its history, the POSTHUMAN validator has been actively involved in the development of networks and communities, making its contribution both in technical and humanitarian terms. <br />
 The POSTHUMAN team creates educational video content in English and Russian, organizes events, creates and develops communities, and provides information and technical support for projects at all levels. From the numerous list of contributions, we would like to highlight the following: <br />
