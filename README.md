@@ -1,6 +1,6 @@
 ![Logo3-512](https://user-images.githubusercontent.com/38581319/171294493-bf8b243c-94b5-4492-82bd-a1e9aed93420.png)
 
-[Web-page](https://posthuman.digital) <br />
+[Web-page](https://posthuman.digital) | [History](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/history.md) <br />
 
 ## POSTHUMAN validate 39 different Main-nets
 
