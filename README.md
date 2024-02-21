@@ -58,7 +58,4 @@
 - [OmniFlix Network](https://www.omniflix.network/)
 - [Aura](https://aurascan.io/validators/auravaloper15pzl0s6ym85qx4yeq29rflp702wtx3dntle05a)
 
-## ARCHIVE OF NETWORKS
-
-- [Cerberus Zone](https://www.mintscan.io/cerberus/validators/cerberusvaloper1td92z5qwl39f407gxf6lu2x80enat7t3jfefnf)
 
