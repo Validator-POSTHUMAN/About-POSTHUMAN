@@ -40,7 +40,7 @@
 - [Archway](https://www.mintscan.io/archway/validators/archwayvaloper1jy9kqql29lefyddmha9xla39qwqv8zxdzep27p)
 - [Comdex](https://www.mintscan.io/comdex/validators/comdexvaloper1963hcznh439kspqmjj5hv5h4nk2kphvats5ujk)
 - [Lambda Network](https://mainnet.manticore.team/lambda/staking/lambvaloper15kvgg5y9v2dwhnssjmye2nq966jksjq82phkn5)
-- [Dymention](https://www.mintscan.io/dymension/validators/dymvaloper1lsjs7pwll7pqm40namkyx3e5qdwg0v0swrshud)
+- [Dymension](https://www.mintscan.io/dymension/validators/dymvaloper1lsjs7pwll7pqm40namkyx3e5qdwg0v0swrshud)
 - [Source Protocol](https://ping.pub/source/staking/sourcevaloper1srwjhdup98l35vruhyagvmyqpu6cgrhmqystgp)
 - [ZetaChain](https://ping.pub/zetachain/staking/zetavaloper1mj5uvv4703fwvna0t622yj9386cfwavr2hl6q4)
 - [Furya](https://explorer.furya.wtf/furya/staking/furyavaloper1efptgq00hngrlgz2gc66g53jslw5eqknd55m02)
@@ -49,7 +49,7 @@
 
 - [Umee](https://www.mintscan.io/umee/validators/umeevaloper1qa5gkv8a4rzpncgkguv2szh5s83kh69l082zz3)
 
-## POSTHUMAN validate several different test-nets (list not full and always changes)
+## POSTHUMAN validate several different test-nets (list is not full and always changes)
 
 - [Cascadia](https://validator.cascadia.foundation/validators/cascadiavaloper19kefsurq6dfrcrg0cmt0dljmmkwlsgdgj7edfu)
 - [QWOYN](https://explorer.nodestake.top/qwoyn/staking/qwoynvaloper107f9lr00cnsn7tl0v7mvqqrygwqtqw3le8uyra)
