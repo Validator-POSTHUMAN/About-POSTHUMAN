@@ -58,7 +58,7 @@
 - [SSV Network](https://explorer.ssv.network/operators/a2a4abaa495ed8b81230750ba59a9617b52af23587670a3b939bc41cc4943570)
 - [OmniFlix Network](https://www.omniflix.network/)
 - [Aura](https://aurascan.io/validators/auravaloper15pzl0s6ym85qx4yeq29rflp702wtx3dntle05a)
-- [ZetaChain](https://testnet.itrocket.net/zetachain/staking/zetavaloper18gp6693a3rdhh9dvuhpj6u3xa5a62ddw23dquk)
+- [ZetaChain](https://testnet.itrocket.net/zetachain/staking/zetavaloper15lshcgxztgmtyg8uv93827ywtswf7jg8qu2upq)
 
 ## Archive of Main-nets
 
