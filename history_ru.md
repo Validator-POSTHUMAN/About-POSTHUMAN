@@ -9,7 +9,7 @@
 
 На даннай момент, валидатор POSTHUMAN находится под децентрализованным управлением сообщества делегаторов POSTHUMAN. <br />
 Децентрализованное управление происходит при помощи DAS (Decentralized Autonomous Synchronization), путём создания и голосования по предложениям. <br />
-Делегаторы POSTHUMAN могут принять любое решение по развитию валидатора POSTHUMAN, а также иззменить любые параметры валидатора в любой сети. <br />
+Делегаторы POSTHUMAN могут принять любое решение по развитию валидатора POSTHUMAN, а также изменить любые параметры валидатора в любой сети. <br />
 Информацию о POSTHUMAN DAS можно найти [тут](https://medium.com/@antropocosmist/posthuman-das-is-created-578253c8e226) <br />
 Информацию о токеномике можно найти [тут](https://medium.com/@antropocosmist/phmn-tokenomics-f3b7116331e6) <br />
 Информацию о том как устроен децентрализованный валидатор можно найти [тут](https://medium.com/@antropocosmist/presentation-of-the-decentralized-validator-1d7062210c90) <br />
