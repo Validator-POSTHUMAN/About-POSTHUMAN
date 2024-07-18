@@ -46,7 +46,7 @@
 
 ## POSTHUMAN validates 1 Network as part of the [DVS validator](https://validators.network/)
 
-- [Umee](https://www.mintscan.io/umee/validators/umeevaloper1qa5gkv8a4rzpncgkguv2szh5s83kh69l082zz3)
+- [UX](https://www.mintscan.io/umee/validators/umeevaloper1qa5gkv8a4rzpncgkguv2szh5s83kh69l082zz3)
 
 ## POSTHUMAN validate several different test-nets (list is not full and always changes)
 
