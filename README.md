@@ -51,7 +51,6 @@
 
 ## POSTHUMAN validate several different test-nets (list is not full and always changes)
 
-- [Cascadia](https://validator.cascadia.foundation/validators/cascadiavaloper19kefsurq6dfrcrg0cmt0dljmmkwlsgdgj7edfu)
 - [QWOYN](https://explorer.nodestake.top/qwoyn/staking/qwoynvaloper107f9lr00cnsn7tl0v7mvqqrygwqtqw3le8uyra)
 - [OKP4](https://okp4.explorers.guru/validator/okp4valoper1mvcjm24q7j70709j4nk0r6uc07n6wc098k224q)
 - [Solana](https://www.validators.app/validators/HZX4MWsSDzRerGuV6kgtj5sGM3dcX9doaiN7qr5y9MAw)
