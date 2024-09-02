@@ -10,8 +10,6 @@
 - [Cosmos Network](https://www.mintscan.io/cosmos/validators/cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv)
 - [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam)
 - [Juno Network](https://www.mintscan.io/juno/validators/junovaloper1e8238v24qccht9mqc2w0r4luq462yxttjzn7qt)
-- [Ki Chain](https://www.mintscan.io/ki-chain/validators/kivaloper1g2sr6x8hrtwwsaaqu8p8r7dzdfugdcsal08gq8)
-- [LikeCoin](https://ping.pub/likecoin/staking/likevaloper13shmgwhlhw36sv6yfqz9llpcynu7pkqngh9sqk)
 - [Cyber](https://cyb.ai/network/bostrom/hero/bostromvaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zt56fhc)
 - [SifChain](https://ping.pub/sifchain/staking/sifvaloper1lkctf0y8stlvshdkhra0lqcafd5hsq9aad35nm)
 - [ODIN Protocol](https://look.chillvalidation.com/odin/staking/odinvaloper1wuwhanclwh9ckpe6z6480t3pjjpk7dsj2trk9p)
@@ -23,10 +21,8 @@
 - [AssetMantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1xrvhlxasg3duvmz82gn5gggpc8wwry7luclvx9)
 - [EVMOS](https://www.mintscan.io/evmos/validators/evmosvaloper1jk7umxyky5m5dul46t8nxneavlg7eysjr6lfj7)
 - [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper14ftwwcfvhnp3qvxawesjan5duh8rmrkrzdvquy)
-- [QuickSilver](https://ping.pub/quicksilver/staking/quickvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fe7umkd)
 - [HoneyWood]()
 - [Injective Protocol](https://www.mintscan.io/injective/validators/injvaloper1e84fr6cxgcflv3fc9ey6n8425au7zx6wsztrle)
-- [KYVE Network](https://www.mintscan.io/kyve/validators/kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7)
 - [Aura Network](https://aurascan.io/validators/auravaloper15pzl0s6ym85qx4yeq29rflp702wtx3dntle05a)
 - [Stride](https://www.mintscan.io/stride/ics-validators/stridevaloper157v7tczs40axfgejp2m43kwuzqe0wsy0xxh5gk)
 - [Akash Network](https://www.mintscan.io/akash/validators/akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk)
@@ -34,17 +30,11 @@
 - [Axelar](https://www.mintscan.io/axelar/validators/axelarvaloper1ftqma496np33y054x6gjeh2maxy00e00p2nl9l)
 - [Secret Network](https://www.mintscan.io/secret/validators/secretvaloper1f8chr3y3s9h8g4vc5pg8wvzzhfy3hcxm0re5zc)
 - [Nomic](https://app.nomic.io/staking?validator=nomic19k66uuramzvll98f6r4ayqmvugats3e5l6zxj8&modal=info)
-- [Archway](https://www.mintscan.io/archway/validators/archwayvaloper1jy9kqql29lefyddmha9xla39qwqv8zxdzep27p)
-- [Comdex](https://www.mintscan.io/comdex/validators/comdexvaloper1963hcznh439kspqmjj5hv5h4nk2kphvats5ujk)
 - [Dymension](https://www.mintscan.io/dymension/validators/dymvaloper1lsjs7pwll7pqm40namkyx3e5qdwg0v0swrshud)
 - [Source Protocol](https://ping.pub/source/staking/sourcevaloper1srwjhdup98l35vruhyagvmyqpu6cgrhmqystgp)
 - [ZetaChain](https://ping.pub/zetachain/staking/zetavaloper1mj5uvv4703fwvna0t622yj9386cfwavr2hl6q4)
 - [Furya](https://ping.pub/Furya/staking/furyavaloper1efptgq00hngrlgz2gc66g53jslw5eqknd55m02)
 - [Nolus Protocol](https://nolus.explorers.guru/validator/nolusvaloper108wunsvlzm7l6pf456ntw9e84gp3zkv23mydme)
-
-## POSTHUMAN validates 1 Network as part of the [DVS validator](https://validators.network/)
-
-- [UX](https://www.mintscan.io/umee/validators/umeevaloper1qa5gkv8a4rzpncgkguv2szh5s83kh69l082zz3)
 
 ## POSTHUMAN validate several different test-nets (list is not full and always changes)
 
@@ -64,3 +54,10 @@
 - [Starname](https://www.mintscan.io/starname/validators/starvaloper1euslp8c2qadgs6jy6klwv6f332mj426qje6vsn) - on the maintenance
 - [Tgrade](https://tgrade.aneka.io/validators/tgrade1kcdne83mkvygg7guueswnfyfwtsdmewywvnq5q) - on the maintenance
 - [Lambda Network](https://mainnet.manticore.team/lambda/staking/lambvaloper15kvgg5y9v2dwhnssjmye2nq966jksjq82phkn5)
+- [Archway](https://www.mintscan.io/archway/validators/archwayvaloper1jy9kqql29lefyddmha9xla39qwqv8zxdzep27p)
+- [Comdex](https://www.mintscan.io/comdex/validators/comdexvaloper1963hcznh439kspqmjj5hv5h4nk2kphvats5ujk)
+- [Ki Chain](https://www.mintscan.io/ki-chain/validators/kivaloper1g2sr6x8hrtwwsaaqu8p8r7dzdfugdcsal08gq8)
+- [KYVE Network](https://www.mintscan.io/kyve/validators/kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7)
+- [LikeCoin](https://ping.pub/likecoin/staking/likevaloper13shmgwhlhw36sv6yfqz9llpcynu7pkqngh9sqk)
+- [QuickSilver](https://ping.pub/quicksilver/staking/quickvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fe7umkd)
+- [UX](https://www.mintscan.io/umee/validators/umeevaloper1qa5gkv8a4rzpncgkguv2szh5s83kh69l082zz3)
