@@ -27,6 +27,7 @@ At the moment, the POSTHUMAN core team consists of 13 people: <br />
 - [Vadim](https://github.com/Vgk88) joined POSTHUMAN as test-net developer, and became 11th member of core-team <br />
 - 12th member of POSTHUMAN core-team is [Sergey](https://github.com/stribulsergey) - full-stack developer, who is responsible for tools and dApps development <br />
 - Lucky 13th member of POSTHUMAN core-team is [Asa](https://twitter.com/AsankaKasum) - community developer, who is responsible for english-speaking community development <br />
+- In August 2024, Evgen left the core-tem, but [Olim](https://github.com/olimdzhon) and [Ann](https://github.com/mobius080) joined the core-team
 
 Throughout its history, the POSTHUMAN validator has been actively involved in the development of networks and communities, making its contribution both in technical and humanitarian terms. <br />
 The POSTHUMAN team creates educational video content in English and Russian, organizes events, creates and develops communities, and provides information and technical support for projects at all levels. From the numerous list of contributions, we would like to highlight the following: <br />
