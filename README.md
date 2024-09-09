@@ -13,6 +13,7 @@
 - [Cyber](https://cyb.ai/network/bostrom/hero/bostromvaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zt56fhc)
 - [SifChain](https://ping.pub/sifchain/staking/sifvaloper1lkctf0y8stlvshdkhra0lqcafd5hsq9aad35nm)
 - [ODIN Protocol](https://look.chillvalidation.com/odin/staking/odinvaloper1wuwhanclwh9ckpe6z6480t3pjjpk7dsj2trk9p)
+- [LioxSSV](https://explorer.ssv.network/operators/618)
 - [Lum Network](https://www.mintscan.io/lum/validators/lumvaloper1z7ss5slnpjfkceahl323ag9tkf3a6yrs88h4ng)
 - [FirmaChain](https://explorer.firmachain.dev/validators/firmavaloper143v9wpr870kt22gmtxgl7tc72twkd6z48h5yaj)
 - [Gravity Bridge](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1epfpvqsc34sfserdx8x4t3aszdkar3w684fwr6)
@@ -38,12 +39,16 @@
 
 ## POSTHUMAN validate several different test-nets (list is not full and always changes)
 
-- [QWOYN](https://explorer.nodestake.top/qwoyn/staking/qwoynvaloper107f9lr00cnsn7tl0v7mvqqrygwqtqw3le8uyra)
-- [OKP4](https://okp4.explorers.guru/validator/okp4valoper1mvcjm24q7j70709j4nk0r6uc07n6wc098k224q)
+- [0G](https://testnet.0g.explorers.guru/validator/0gvaloper1559d4r6kdjj4unqaz8stsx7lqryu34nmf6aqse)
+- [Crossfi](https://explorer.nodestake.org/crossfi-testnet/staking/mxvaloper1x22ux2emc3jawqvvyjv7qt2sjxc4p6w2rcr2gs)
+- [Elys](https://explorer.stavr.tech/Elys-Testnet/staking/elysvaloper1w6phv0xwya5p2sql4qzlh7h2hdeszf49d9t2gr)
+- [Galactica](https://explorer.nodestake.org/galactica-testnet/staking/galavaloper18e8zes2y0n33esjhz0y7uqwurl83phht7r7fhn)
+- [LioxObol](https://operators-holesky.testnet.fi/module/2/23)
+- [Soarchain](https://explorer.soarchain.com/soarchain/staking/soarvaloper1fdwdehgnqeyz5kxak7ga0xgtwrpsad759zgn09)
 - [Solana](https://www.validators.app/validators/HZX4MWsSDzRerGuV6kgtj5sGM3dcX9doaiN7qr5y9MAw?locale=en&network=testnet)
-- [SSV Network](https://explorer.ssv.network/operators/a2a4abaa495ed8b81230750ba59a9617b52af23587670a3b939bc41cc4943570)
-- [OmniFlix Network](https://www.omniflix.network/)
-- [Aura](https://aurascan.io/validators/auravaloper15pzl0s6ym85qx4yeq29rflp702wtx3dntle05a)
+- [Story](https://testnet.storyscan.app/validators/storyvaloper1daxk0lukad4950ga6t2nc939gjvpwranre5dd4)
+- [Sunrise](https://explorer.nodestake.org/sunrise-testnet/staking/sunrisevaloper1a5t392uyw8x0dmul48lfrt6n7emvmzt0svc82e)
+- [Warden](https://testnet.warden.explorers.guru/validator/wardenvaloper18hkkq5y24fep775npury9m7ydda00a7chjwg9p)
 - [ZetaChain](https://testnet.itrocket.net/zetachain/staking/zetavaloper15lshcgxztgmtyg8uv93827ywtswf7jg8qu2upq)
 
 ## Archive of Main-nets
