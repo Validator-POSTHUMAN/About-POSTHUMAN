@@ -34,12 +34,12 @@
 - [ZetaChain](https://ping.pub/zetachain/staking/zetavaloper1mj5uvv4703fwvna0t622yj9386cfwavr2hl6q4)
 - [Furya](https://ping.pub/Furya/staking/furyavaloper1efptgq00hngrlgz2gc66g53jslw5eqknd55m02)
 - [Nolus Protocol](https://nolus.explorers.guru/validator/nolusvaloper108wunsvlzm7l6pf456ntw9e84gp3zkv23mydme)
-- Lava Network
+- [Lava Network](https://lava-explorer.mellifera.network/lava/staking/lava@valoper1kwk34225f9eq3sklaf7xws8mc9lhu6sxhh57pj)
+- [Lava Network](https://lava-explorer.mellifera.network/lava/providers/LAVA/lava@1tq00pyf4z324rsmv7yawlf0750la8wnj5znm5m) RPC provider
 - Prenumba
 - [Archway](https://www.mintscan.io/archway/validators/archwayvaloper1jy9kqql29lefyddmha9xla39qwqv8zxdzep27p)
 - [Starname](https://www.mintscan.io/starname/validators/starvaloper1euslp8c2qadgs6jy6klwv6f332mj426qje6vsn) - on the maintenance
 - [Tgrade](https://tgrade.aneka.io/validators/tgrade1kcdne83mkvygg7guueswnfyfwtsdmewywvnq5q) - on the maintenance
-- [Lambda Network](https://mainnet.manticore.team/lambda/staking/lambvaloper15kvgg5y9v2dwhnssjmye2nq966jksjq82phkn5)
 - [Comdex](https://www.mintscan.io/comdex/validators/comdexvaloper1963hcznh439kspqmjj5hv5h4nk2kphvats5ujk)
 - [Ki Chain](https://www.mintscan.io/ki-chain/validators/kivaloper1g2sr6x8hrtwwsaaqu8p8r7dzdfugdcsal08gq8)
 - [KYVE Network](https://www.mintscan.io/kyve/validators/kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7)
@@ -77,3 +77,4 @@
 - [Crescent Network](https://www.mintscan.io/crescent/validators/crevaloper12yudzhed4cqjpwkv52hwut7a5xn8h7j97gqhaq) - network was halt by the proposal in Crescent Network
 - [HoneyWood]() -  we stoped to validate Gravity Bridge at 17th of September 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A45)
 - [Gravity Bridge](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1epfpvqsc34sfserdx8x4t3aszdkar3w684fwr6) - we stoped to validate Gravity Bridge at 17th of September 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A44)
+- [Lambda Network](https://mainnet.manticore.team/lambda/staking/lambvaloper15kvgg5y9v2dwhnssjmye2nq966jksjq82phkn5) migrated to Ethereum L2
