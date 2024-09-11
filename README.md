@@ -39,7 +39,7 @@
 - [Penumbra](https://penumbra.today/validator/penumbravalid1lt6083d99s0phj44wd45stgu2juasu582sc02j2w7qqcqfkg5qxsz0vmu5)
 - [Archway](https://www.mintscan.io/archway/validators/archwayvaloper1jy9kqql29lefyddmha9xla39qwqv8zxdzep27p)
 - [Starname](https://www.mintscan.io/starname/validators/starvaloper1euslp8c2qadgs6jy6klwv6f332mj426qje6vsn) - on the maintenance
-- [Tgrade](https://tgrade.aneka.io/validators/tgrade1kcdne83mkvygg7guueswnfyfwtsdmewywvnq5q) - on the maintenance
+- [Tgrade](https://tgrade.provable.dev/tgrade/staking/tgrade1kcdne83mkvygg7guueswnfyfwtsdmewywvnq5q)
 - [Comdex](https://www.mintscan.io/comdex/validators/comdexvaloper1963hcznh439kspqmjj5hv5h4nk2kphvats5ujk)
 - [Ki Chain](https://www.mintscan.io/ki-chain/validators/kivaloper1g2sr6x8hrtwwsaaqu8p8r7dzdfugdcsal08gq8)
 - [KYVE Network](https://www.mintscan.io/kyve/validators/kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7)
