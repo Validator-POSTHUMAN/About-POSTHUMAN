@@ -36,7 +36,7 @@
 - [Nolus Protocol](https://nolus.explorers.guru/validator/nolusvaloper108wunsvlzm7l6pf456ntw9e84gp3zkv23mydme)
 - [Lava Network](https://lava-explorer.mellifera.network/lava/staking/lava@valoper1kwk34225f9eq3sklaf7xws8mc9lhu6sxhh57pj)
 - [Lava Network](https://lava-explorer.mellifera.network/lava/providers/LAVA/lava@1tq00pyf4z324rsmv7yawlf0750la8wnj5znm5m) RPC provider
-- Prenumba
+- [Penumbra](https://penumbra.today/validator/penumbravalid1lt6083d99s0phj44wd45stgu2juasu582sc02j2w7qqcqfkg5qxsz0vmu5)
 - [Archway](https://www.mintscan.io/archway/validators/archwayvaloper1jy9kqql29lefyddmha9xla39qwqv8zxdzep27p)
 - [Starname](https://www.mintscan.io/starname/validators/starvaloper1euslp8c2qadgs6jy6klwv6f332mj426qje6vsn) - on the maintenance
 - [Tgrade](https://tgrade.aneka.io/validators/tgrade1kcdne83mkvygg7guueswnfyfwtsdmewywvnq5q) - on the maintenance
