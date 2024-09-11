@@ -57,7 +57,7 @@
 - [Galactica](https://explorer.nodestake.org/galactica-testnet/staking/galavaloper18e8zes2y0n33esjhz0y7uqwurl83phht7r7fhn)
 - [Initia](https://scan.testnet.initia.xyz/initiation-1/validators/initvaloper1kzs47dd6jhkx68wcjquv5z4g3wn2x5rhv3kz7v)
 - [Lava](https://explorer.kjnodes.com/lava-testnet/staking/lava@valoper1a6jlhfkm6ry53v2pn8kjq9ftvc656hegl9e3s0)
-- [LioxObol](https://operators-holesky.testnet.fi/module/2/23)
+- [LidoxObol](https://operators-holesky.testnet.fi/module/2/23)
 - [Namada]()
 - [Nillion]()
 - [Nubit]()
