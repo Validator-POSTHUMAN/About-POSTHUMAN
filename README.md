@@ -50,6 +50,7 @@
 ## POSTHUMAN validate several different test-nets (list is not full and always changes)
 
 - [0G](https://testnet.0g.explorers.guru/validator/0gvaloper1559d4r6kdjj4unqaz8stsx7lqryu34nmf6aqse)
+- [0G](https://chainscan-newton.0g.ai/address/0xa50ada8f566ca55e4c1d11e0b81bdf00c9c8d67b) storage node
 - [Crossfi](https://explorer.nodestake.org/crossfi-testnet/staking/mxvaloper1x22ux2emc3jawqvvyjv7qt2sjxc4p6w2rcr2gs)
 - [Dill]()
 - [Elys](https://explorer.stavr.tech/Elys-Testnet/staking/elysvaloper1w6phv0xwya5p2sql4qzlh7h2hdeszf49d9t2gr)
