@@ -69,6 +69,7 @@
 - [Story](https://testnet.storyscan.app/validators/storyvaloper1daxk0lukad4950ga6t2nc939gjvpwranre5dd4)
 - [Sunrise](https://explorer.nodestake.org/sunrise-testnet/staking/sunrisevaloper1a5t392uyw8x0dmul48lfrt6n7emvmzt0svc82e)
 - [Warden](https://testnet.warden.explorers.guru/validator/wardenvaloper18hkkq5y24fep775npury9m7ydda00a7chjwg9p)
+- [Xion](https://testnet.xion.explorers.guru/validator/xionvaloper1crq50flkuw2tkahagwvddzptcdfeq45j3m6yhf)
 - [ZetaChain](https://testnet.itrocket.net/zetachain/staking/zetavaloper15lshcgxztgmtyg8uv93827ywtswf7jg8qu2upq)
 
 ## Archive of Main-nets
