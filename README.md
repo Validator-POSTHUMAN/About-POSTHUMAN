@@ -44,7 +44,7 @@
 - [Ki Chain](https://www.mintscan.io/ki-chain/validators/kivaloper1g2sr6x8hrtwwsaaqu8p8r7dzdfugdcsal08gq8)
 - [KYVE Network](https://www.mintscan.io/kyve/validators/kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7)
 - [LikeCoin](https://ping.pub/likecoin/staking/likevaloper13shmgwhlhw36sv6yfqz9llpcynu7pkqngh9sqk)
-- [QuickSilver](https://ping.pub/quicksilver/staking/quickvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fe7umkd)
+- [QuickSilver](https://quicksilver.explorers.guru/validator/quickvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fe7umkd)
 - [UX](https://www.mintscan.io/umee/validators/umeevaloper1qa5gkv8a4rzpncgkguv2szh5s83kh69l082zz3)
 
 ## POSTHUMAN validate several different test-nets (list is not full and always changes)
