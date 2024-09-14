@@ -51,6 +51,7 @@
 
 - [0G](https://testnet.0g.explorers.guru/validator/0gvaloper1559d4r6kdjj4unqaz8stsx7lqryu34nmf6aqse)
 - [0G](https://chainscan-newton.0g.ai/address/0xa50ada8f566ca55e4c1d11e0b81bdf00c9c8d67b) storage node
+- [Allora](https://testnet.allora.explorers.guru/validator/allovaloper1vndxm2lgkkdn3wnadzcy0v8agauz7fpcv73hap)
 - [Crossfi](https://explorer.nodestake.org/crossfi-testnet/staking/mxvaloper1x22ux2emc3jawqvvyjv7qt2sjxc4p6w2rcr2gs)
 - [Dill](https://alps.dill.xyz/validators?p=20&ps=25&pubkey=0xb1e8c3611a36ea3ad69c8e7831c95284ced4d27f6ea7d28037b63214d9004a5303ea19c3767ed3d95307c7d4e7212142)
 - [Elys](https://explorer.stavr.tech/Elys-Testnet/staking/elysvaloper1w6phv0xwya5p2sql4qzlh7h2hdeszf49d9t2gr)
