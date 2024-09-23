@@ -56,6 +56,7 @@
 - [Lava](https://explorer.kjnodes.com/lava-testnet/staking/lava@valoper1a6jlhfkm6ry53v2pn8kjq9ftvc656hegl9e3s0)
 - [LidoxObol](https://operators-holesky.testnet.fi/module/2/23)
 - [Namada]()
+- [Nesa](https://node.nesa.ai/nodes/X49iGTpnivAwb1cG8q9nSx53Aby1T1YeQCwmpU1Lqkv)
 - [Nillion]()
 - [Nubit]()
 - [Redbelly]()
