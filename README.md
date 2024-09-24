@@ -59,6 +59,7 @@
 - [Nesa](https://node.nesa.ai/nodes/X49iGTpnivAwb1cG8q9nSx53Aby1T1YeQCwmpU1Lqkv)
 - [Nillion]()
 - [Nubit]()
+- [Pactus](https://pacviewer.com/address/pc1peyvmy274pdjlhfdvl6m50s29u96na9lqsphpph#txs)
 - [Redbelly]()
 - [Side](https://explorer.side.exchange/testnet/staking/sidevaloper1xlk5h47u9e5jdr528jf56c0a34wechaq5qfz9q)
 - [Soarchain](https://explorer.soarchain.com/soarchain/staking/soarvaloper1fdwdehgnqeyz5kxak7ga0xgtwrpsad759zgn09)
