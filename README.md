@@ -57,7 +57,7 @@
 - [LidoxObol](https://operators-holesky.testnet.fi/module/2/23)
 - [Namada]()
 - [Nesa](https://node.nesa.ai/nodes/X49iGTpnivAwb1cG8q9nSx53Aby1T1YeQCwmpU1Lqkv)
-- [Nillion]()
+- [Nillion](https://testnet.nillion.explorers.guru/account/nillion19tp8h2789nd6kl620f6ghsfxxhuefs3vzf23rj)
 - [Nubit]()
 - [Pactus](https://pacviewer.com/address/pc1peyvmy274pdjlhfdvl6m50s29u96na9lqsphpph#txs)
 - [Redbelly]()
