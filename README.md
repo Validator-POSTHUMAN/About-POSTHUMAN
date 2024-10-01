@@ -61,7 +61,7 @@
 - [Nubit]()
 - [Pactus](https://pacviewer.com/address/pc1peyvmy274pdjlhfdvl6m50s29u96na9lqsphpph#txs)
 - [Redbelly]()
-- [Side](https://explorer.side.exchange/testnet/staking/sidevaloper1xlk5h47u9e5jdr528jf56c0a34wechaq5qfz9q)
+- [Side](https://explorer.side.exchange/testnet/staking/sidevaloper1qqwp68scpqz3qrq3ru8p5rsuzsy3w9caqgqp2zchpqf32zsdqgt3z75w685)
 - [Soarchain](https://explorer.soarchain.com/soarchain/staking/soarvaloper1fdwdehgnqeyz5kxak7ga0xgtwrpsad759zgn09)
 - [Solana](https://www.validators.app/validators/HZX4MWsSDzRerGuV6kgtj5sGM3dcX9doaiN7qr5y9MAw?locale=en&network=testnet)
 - [Story](https://testnet.storyscan.app/validators/storyvaloper1daxk0lukad4950ga6t2nc939gjvpwranre5dd4)
