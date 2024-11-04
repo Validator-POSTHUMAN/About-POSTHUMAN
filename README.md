@@ -29,7 +29,7 @@
 - [Nomic](https://app.nomic.io/staking?validator=nomic19k66uuramzvll98f6r4ayqmvugats3e5l6zxj8&modal=info)
 - [Dymension](https://www.mintscan.io/dymension/validators/dymvaloper1lsjs7pwll7pqm40namkyx3e5qdwg0v0swrshud)
 - [Source Protocol](https://ping.pub/source/staking/sourcevaloper1srwjhdup98l35vruhyagvmyqpu6cgrhmqystgp)
-- [ZetaChain](https://ping.pub/zetachain/staking/zetavaloper1mj5uvv4703fwvna0t622yj9386cfwavr2hl6q4)
+- [ZetaChain](https://www.mintscan.io/zeta/validators/zetavaloper1mj5uvv4703fwvna0t622yj9386cfwavr2hl6q4)
 - [Furya](https://ping.pub/Furya/staking/furyavaloper1efptgq00hngrlgz2gc66g53jslw5eqknd55m02)
 - [Nolus Protocol](https://nolus.explorers.guru/validator/nolusvaloper108wunsvlzm7l6pf456ntw9e84gp3zkv23mydme)
 - [Lava Network](https://lava-explorer.mellifera.network/lava/staking/lava@valoper1kwk34225f9eq3sklaf7xws8mc9lhu6sxhh57pj)
