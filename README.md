@@ -86,7 +86,6 @@
 - [Dill](https://alps.dill.xyz/validators?p=20&ps=25&pubkey=0xb1e8c3611a36ea3ad69c8e7831c95284ced4d27f6ea7d28037b63214d9004a5303ea19c3767ed3d95307c7d4e7212142)
 - [Elixir](https://testnet-3.elixir.xyz/validator/0x75a7639D739Da585e61190FED8f222C26A558f6d)
 - [Fiamma]()
-- [Galactica](https://explorer.nodestake.org/galactica-testnet/staking/galavaloper18e8zes2y0n33esjhz0y7uqwurl83phht7r7fhn)
 - [Initia](https://scan.testnet.initia.xyz/initiation-1/validators/initvaloper1kzs47dd6jhkx68wcjquv5z4g3wn2x5rhv3kz7v)
 - [Nubit]()
 - [Redbelly]()
