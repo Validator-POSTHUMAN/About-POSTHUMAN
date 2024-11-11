@@ -37,7 +37,7 @@
 - [Penumbra](https://penumbra.today/validator/penumbravalid1lt6083d99s0phj44wd45stgu2juasu582sc02j2w7qqcqfkg5qxsz0vmu5)
 - [Starname](https://www.mintscan.io/starname/validators/starvaloper1euslp8c2qadgs6jy6klwv6f332mj426qje6vsn) - on the maintenance
 - [KYVE Network](https://www.mintscan.io/kyve/validators/kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7)
-- [KYVE Network](https://app.kyve.network/#/validators/kyve16hnse4c852xg4vxjnqhx648e02z32n72d26nzu)) protocol node
+- [KYVE Network](https://app.kyve.network/#/validators/kyve16hnse4c852xg4vxjnqhx648e02z32n72d26nzu) protocol node
 - [QuickSilver](https://quicksilver.explorers.guru/validator/quickvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fe7umkd)
 - [UX](https://www.mintscan.io/umee/validators/umeevaloper1qa5gkv8a4rzpncgkguv2szh5s83kh69l082zz3)
 - [Namada]()
