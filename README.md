@@ -61,7 +61,7 @@
 - [Story](https://testnet.storyscan.app/validators/storyvaloper1daxk0lukad4950ga6t2nc939gjvpwranre5dd4)
 - [Sunrise](https://explorer.nodestake.org/sunrise-testnet/staking/sunrisevaloper1a5t392uyw8x0dmul48lfrt6n7emvmzt0svc82e)
 - [Vana](https://moksha.vanascan.io/token/0x14e7F5C7B85A3C76184f6bdc749B027DD6e8c70a)
-- [Warden](https://testnet.warden.explorers.guru/validator/wardenvaloper12de4mzezcvhauqxcszrhkdagwv8lwqs9uvla75)
+- [Warden](https://testnet.itrocket.net/warden/staking/wardenvaloper12de4mzezcvhauqxcszrhkdagwv8lwqs9uvla75)
 - [Xion](https://testnet.xion.explorers.guru/validator/xionvaloper1crq50flkuw2tkahagwvddzptcdfeq45j3m6yhf)
 - [ZetaChain](https://testnet.itrocket.net/zetachain/staking/zetavaloper15lshcgxztgmtyg8uv93827ywtswf7jg8qu2upq)
 
