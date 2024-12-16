@@ -5,6 +5,7 @@
 ## POSTHUMAN validate 36 different Main-nets
 
 - [Solana](https://www.validators.app/validators/9PViHDmiezXQfeYDveJrcfkXCQVCcsfhpo32cjHUeZVj)
+- [Avalanche](https://avascan.info/staking/validator/NodeID-5uYQ6R4WF7kmGfraM9LtsUJG2CDmh78Lf)
 - [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw)
 - [Fetch.ai](https://www.mintscan.io/fetchai/validators/fetchvaloper1y02hlwucl6csz4z02ksn46gzdkmref927l4mug)
 - [Cosmos Network](https://www.mintscan.io/cosmos/validators/cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv)
@@ -41,6 +42,9 @@
 - [QuickSilver](https://quicksilver.explorers.guru/validator/quickvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fe7umkd)
 - [UX](https://www.mintscan.io/umee/validators/umeevaloper1qa5gkv8a4rzpncgkguv2szh5s83kh69l082zz3)
 - [Namada](https://namada.valopers.com/validators/tnam1q8azt2cpqmc6tr2gvg5v62e4jr0t9327yupaf595)
+- [Elys Network](https://explorer.stakeandrelax.net/elys/staking/elysvaloper1w6phv0xwya5p2sql4qzlh7h2hdeszf49d9t2gr)
+- [Migaloo](https://ping.pub/Migaloo/staking/migaloovaloper13wargdgtlflxrw2ad4ydy7zrq37crl6f47w6uh)
+
 
 ## POSTHUMAN validate several different test-nets (list is not full and always changes)
 
