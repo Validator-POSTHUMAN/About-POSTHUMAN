@@ -50,7 +50,8 @@
 
 - [0G](https://testnet.0g.explorers.guru/validator/0gvaloper1559d4r6kdjj4unqaz8stsx7lqryu34nmf6aqse)
 - [0G](https://chainscan-newton.0g.ai/address/0xa50ada8f566ca55e4c1d11e0b81bdf00c9c8d67b) storage node
-- [Cosmos Network](https://www.mintscan.io/ics-testnet-provider/validators/cosmosvaloper1qp4y2esacc2jmepxcqlw440p6xas8j6t9g438v?sector=power-events)
+- [Cosmos Network](https://www.mintscan.io/ics-testnet-provider/validators/cosmosvaloper1qp4y2esacc2jmepxcqlw440p6xas8j6t9g438v)
+- [Celestia](https://testnet.celestia.explorers.guru/validator/celestiavaloper1sa5mgyskjzpx6znnd6jxkn59g02hm6c4p8a59v)
 - [Allora](https://testnet.allora.explorers.guru/validator/allovaloper1vndxm2lgkkdn3wnadzcy0v8agauz7fpcv73hap)
 - [Elys](https://explorer.stavr.tech/Elys-Testnet/staking/elysvaloper1w6phv0xwya5p2sql4qzlh7h2hdeszf49d9t2gr)
 - [Galactica](https://explorer.nodestake.org/galactica-testnet/staking/galavaloper18e8zes2y0n33esjhz0y7uqwurl83phht7r7fhn)
