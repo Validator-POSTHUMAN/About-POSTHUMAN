@@ -44,6 +44,7 @@
 - [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper14ftwwcfvhnp3qvxawesjan5duh8rmrkrzdvquy)
 - [Stride](https://www.mintscan.io/stride/ics-validators/stridevaloper157v7tczs40axfgejp2m43kwuzqe0wsy0xxh5gk)
 - [UX](https://www.mintscan.io/umee/validators/umeevaloper1qa5gkv8a4rzpncgkguv2szh5s83kh69l082zz3)
+- [Xion](https://explorer.burnt.com/xion-mainnet-1/staking/xionvaloper1crq50flkuw2tkahagwvddzptcdfeq45j3m6yhf) inactive
 - [ZetaChain](https://www.mintscan.io/zeta/validators/zetavaloper1mj5uvv4703fwvna0t622yj9386cfwavr2hl6q4)
 
 ## POSTHUMAN validate several different test-nets (list is not full and always changes)
