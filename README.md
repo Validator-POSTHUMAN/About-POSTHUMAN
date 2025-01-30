@@ -89,7 +89,7 @@
 - [Starname](https://www.mintscan.io/starname/validators/starvaloper1euslp8c2qadgs6jy6klwv6f332mj426qje6vsn) - on the maintenance
 
 ## Archive of Test-nets
-- [Crossfi](https://explorer.nodestake.org/crossfi-testnet/staking/mxvaloper1x22ux2emc3jawqvvyjv7qt2sjxc4p6w2rcr2gs)
+
 - [Elixir](https://testnet-3.elixir.xyz/validator/0x75a7639D739Da585e61190FED8f222C26A558f6d)
 - [Fiamma]()
 - [Initia](https://scan.testnet.initia.xyz/initiation-1/validators/initvaloper1kzs47dd6jhkx68wcjquv5z4g3wn2x5rhv3kz7v)
@@ -97,7 +97,5 @@
 - [Nillion](https://testnet.nillion.explorers.guru/account/nillion19tp8h2789nd6kl620f6ghsfxxhuefs3vzf23rj)
 - [Nubit]()
 - [Redbelly]()
-- [Side](https://explorer.side.exchange/testnet/staking/sidevaloper1qqwp68scpqz3qrq3ru8p5rsuzsy3w9caqgqp2zchpqf32zsdqgt3z75w685)
 - [Soarchain](https://explorer.soarchain.com/soarchain/staking/soarvaloper1fdwdehgnqeyz5kxak7ga0xgtwrpsad759zgn09)
 - [Vana](https://moksha.vanascan.io/token/0x14e7F5C7B85A3C76184f6bdc749B027DD6e8c70a)
-- [Xion](https://testnet.xion.explorers.guru/validator/xionvaloper1crq50flkuw2tkahagwvddzptcdfeq45j3m6yhf)
