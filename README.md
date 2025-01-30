@@ -58,6 +58,7 @@
 - [Babylon](https://explorer.posthuman.digital/babylon-testnet/staking/bbnvaloper1thsqam9as5sxzj8c8cmkdrgtc5gmlxn0nxuypf)
 - [Cosmos Network](https://www.mintscan.io/ics-testnet-provider/validators/cosmosvaloper1qp4y2esacc2jmepxcqlw440p6xas8j6t9g438v)
 - [Celestia](https://testnet.celestia.explorers.guru/validator/celestiavaloper1sa5mgyskjzpx6znnd6jxkn59g02hm6c4p8a59v)
+- [Dill](https://alps.dill.xyz/validators?p=20&ps=25&pubkey=0xb1e8c3611a36ea3ad69c8e7831c95284ced4d27f6ea7d28037b63214d9004a5303ea19c3767ed3d95307c7d4e7212142)
 - [Elys](https://explorer.stavr.tech/Elys-Testnet/staking/elysvaloper1w6phv0xwya5p2sql4qzlh7h2hdeszf49d9t2gr)
 - [Galactica](https://explorer.nodestake.org/galactica-testnet/staking/galavaloper18e8zes2y0n33esjhz0y7uqwurl83phht7r7fhn)
 - [Lava](https://explorer.kjnodes.com/lava-testnet/staking/lava@valoper1a6jlhfkm6ry53v2pn8kjq9ftvc656hegl9e3s0)
@@ -89,7 +90,6 @@
 
 ## Archive of Test-nets
 - [Crossfi](https://explorer.nodestake.org/crossfi-testnet/staking/mxvaloper1x22ux2emc3jawqvvyjv7qt2sjxc4p6w2rcr2gs)
-- [Dill](https://alps.dill.xyz/validators?p=20&ps=25&pubkey=0xb1e8c3611a36ea3ad69c8e7831c95284ced4d27f6ea7d28037b63214d9004a5303ea19c3767ed3d95307c7d4e7212142)
 - [Elixir](https://testnet-3.elixir.xyz/validator/0x75a7639D739Da585e61190FED8f222C26A558f6d)
 - [Fiamma]()
 - [Initia](https://scan.testnet.initia.xyz/initiation-1/validators/initvaloper1kzs47dd6jhkx68wcjquv5z4g3wn2x5rhv3kz7v)
