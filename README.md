@@ -2,27 +2,28 @@
 
 [Web-page](https://posthuman.digital) | [History](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/history.md) <br />
 
-## POSTHUMAN validate 41 different Main-nets
+## POSTHUMAN validate 43 different Main-nets
 
-- [Agoric](https://www.mintscan.io/agoric/validators/agoricvaloper13yy5mk8ek8p5kk3e8nleucw003nt2vmzxrdx36)
-- [Akash Network](https://www.mintscan.io/akash/validators/akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk)
+- [Agoric](https://explorer.posthuman.digital/agoric/staking/agoricvaloper13yy5mk8ek8p5kk3e8nleucw003nt2vmzxrdx36)
+- [Akash Network](https://explorer.posthuman.digital/akash/staking/akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk)
 - [AssetMantle](https://explorer.posthuman.digital/assetmantle/staking/mantlevaloper1xrvhlxasg3duvmz82gn5gggpc8wwry7luclvx9)
 - [Aura Network](https://explorer.posthuman.digital/aura/staking/auravaloper15pzl0s6ym85qx4yeq29rflp702wtx3dntle05a)
 - [Avalanche](https://avascan.info/staking/validator/NodeID-5uYQ6R4WF7kmGfraM9LtsUJG2CDmh78Lf)
-- [Axelar](https://www.mintscan.io/axelar/validators/axelarvaloper1ftqma496np33y054x6gjeh2maxy00e00p2nl9l)
+- [Axelar](https://explorer.posthuman.digital/axelar/staking/axelarvaloper1ftqma496np33y054x6gjeh2maxy00e00p2nl9l)
 - [Beezee](https://explorer.posthuman.digital/beezee/staking/bzevaloper1xq38qxad2eumdaytrejnmypqaay8dtmukz72re)
-- [Chihuahua](https://www.mintscan.io/chihuahua/validators/chihuahuavaloper1fm68jvjpk0g7dvdq75czjynyszeaduxt5lc0a8)
-- [Cosmos Network](https://www.mintscan.io/cosmos/validators/cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv)
+- [Chihuahua](https://explorer.posthuman.digital/chihuahua/staking/chihuahuavaloper1fm68jvjpk0g7dvdq75czjynyszeaduxt5lc0a8)
+- [Cosmos Network](https://explorer.posthuman.digital/cosmos/staking/cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv)
 - [Cyber](https://cyb.ai/network/bostrom/hero/bostromvaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zt56fhc)
 - [Dymension](https://www.mintscan.io/dymension/validators/dymvaloper1lsjs7pwll7pqm40namkyx3e5qdwg0v0swrshud)
 - [Dungeon Chain](https://explorer.posthuman.digital/dungeon/staking/dungeonvaloper1umkse9yx2w9aw5qam0gffatfht3yerllxcque3)
 - [Elys Network](https://explorer.posthuman.digital/elys/staking/elysvaloper1w6phv0xwya5p2sql4qzlh7h2hdeszf49d9t2gr)
 - [Evmos](https://explorer.posthuman.digital/evmos/staking/evmosvaloper1jk7umxyky5m5dul46t8nxneavlg7eysjr6lfj7)
-- [Fetch.ai](https://www.mintscan.io/fetchai/validators/fetchvaloper1y02hlwucl6csz4z02ksn46gzdkmref927l4mug)
+- [Fetch.ai](https://explorer.posthuman.digital/fetchhub/staking/fetchvaloper1y02hlwucl6csz4z02ksn46gzdkmref927l4mug)
 - [FirmaChain](https://explorer.posthuman.digital/firmachain/staking/firmavaloper143v9wpr870kt22gmtxgl7tc72twkd6z48h5yaj)
 - [Furya](https://explorer.posthuman.digital/furya/staking/furyavaloper1efptgq00hngrlgz2gc66g53jslw5eqknd55m02)
+- [Govgen](https://www.mintscan.io/govgen/validators/govgenvaloper17hkyrkexpzrd2u3erplve4z5am6e0yvhsuyzcn)
 - [Humans.ai](https://explorer.posthuman.digital/humans/staking/humanvaloper1ndnf0cd75nvz56feqy23um3mq22nlhe9ggu0uh)
-- [Injective Protocol](https://www.mintscan.io/injective/validators/injvaloper1e84fr6cxgcflv3fc9ey6n8425au7zx6wsztrle)
+- [Injective Protocol](https://explorer.posthuman.digital/injective/staking/injvaloper1e84fr6cxgcflv3fc9ey6n8425au7zx6wsztrle)
 - [Juno Network](https://explorer.posthuman.digital/juno/staking/junovaloper1e8238v24qccht9mqc2w0r4luq462yxttjzn7qt)
 - [KYVE Network](https://explorer.posthuman.digital/kyve/staking/kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7)
 - [KYVE Network](https://app.kyve.network/#/validators/kyve16hnse4c852xg4vxjnqhx648e02z32n72d26nzu) Protocol node
@@ -34,21 +35,21 @@
 - [Nomic](https://app.nomic.io/staking?validator=nomic19k66uuramzvll98f6r4ayqmvugats3e5l6zxj8&modal=info)
 - [Migaloo](https://explorer.posthuman.digital/migaloo/staking/migaloovaloper13wargdgtlflxrw2ad4ydy7zrq37crl6f47w6uh)
 - [Odin Protocol](https://explorer.posthuman.digital/odin/staking/odinvaloper1wuwhanclwh9ckpe6z6480t3pjjpk7dsj2trk9p)
-- [OmniFlix](https://www.mintscan.io/omniflix/validators/omniflixvaloper1s3achxs70ysg8pf9xqyytu0m4had60khpuccxl)
-- [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam)
+- [OmniFlix](https://explorer.posthuman.digital/omniflixhub/staking/omniflixvaloper1s3achxs70ysg8pf9xqyytu0m4had60khpuccxl)
+- [Osmosis](https://explorer.posthuman.digital/osmosis/staking/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam)
 - [Penumbra](https://penumbra.today/validator/penumbravalid1lt6083d99s0phj44wd45stgu2juasu582sc02j2w7qqcqfkg5qxsz0vmu5)
-- [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw)
+- [Persistence](https://explorer.posthuman.digital/persistence/staking/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw)
 - [QuickSilver](https://explorer.posthuman.digital/quicksilver/staking/quickvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fe7umkd)
-- [Secret Network](https://www.mintscan.io/secret/validators/secretvaloper1f8chr3y3s9h8g4vc5pg8wvzzhfy3hcxm0re5zc)
+- [Secret Network](https://explorer.posthuman.digital/secretnetwork/staking/secretvaloper1f8chr3y3s9h8g4vc5pg8wvzzhfy3hcxm0re5zc)
 - [Side Protocol](https://ping.pub/side/staking/sidevaloper1qqwp68scpqz3qrq3ru8p5rsuzsy3w9caqgqp2zchpqf32zsdqgt3z75w685)
 - [Solana](https://stakewiz.com/validator/F1emDGY23U6YpJj4H4af2CHcHUmiDGgAWs2xvWYZHWdR)
-- [Source Protocol](sourcevaloper1srwjhdup98l35vruhyagvmyqpu6cgrhmqystgp)
-- [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper14ftwwcfvhnp3qvxawesjan5duh8rmrkrzdvquy)
-- [Starknet](https://starkscan.co/validator/0x0327478b645a0c6889e995fe22b1298fae420dba24cc42422f0c066763d08dc9)
+- [Source Protocol](https://ping.pub/source/staking/sourcevaloper1srwjhdup98l35vruhyagvmyqpu6cgrhmqystgp)
+- [Stargaze](https://explorer.posthuman.digital/stargaze/staking/starsvaloper14ftwwcfvhnp3qvxawesjan5duh8rmrkrzdvquy)
+- [Starknet](https://voyager.online/staking?validator=0x0327478b645a0c6889e995fe22b1298fae420dba24cc42422f0c066763d08dc9)
 - [Stride](https://www.mintscan.io/stride/ics-validators/stridevaloper157v7tczs40axfgejp2m43kwuzqe0wsy0xxh5gk)
-- [UX](https://www.mintscan.io/umee/validators/umeevaloper1qa5gkv8a4rzpncgkguv2szh5s83kh69l082zz3)
-- [Xion](https://explorer.burnt.com/xion-mainnet-1/staking/xionvaloper1crq50flkuw2tkahagwvddzptcdfeq45j3m6yhf) inactive
-- [ZetaChain](https://www.mintscan.io/zeta/validators/zetavaloper1mj5uvv4703fwvna0t622yj9386cfwavr2hl6q4)
+- [UX](https://explorer.posthuman.digital/umee/staking/umeevaloper1qa5gkv8a4rzpncgkguv2szh5s83kh69l082zz3)
+- [Xion](https://explorer.posthuman.digital/xion/staking/xionvaloper1crq50flkuw2tkahagwvddzptcdfeq45j3m6yhf) inactive
+- [ZetaChain](https://explorer.posthuman.digital/zetachain/staking/zetavaloper1mj5uvv4703fwvna0t622yj9386cfwavr2hl6q4)
 
 ## POSTHUMAN validate several different test-nets (list is not full and always changes)
 
