@@ -38,7 +38,7 @@
 - [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam)
 - [Penumbra](https://penumbra.today/validator/penumbravalid1lt6083d99s0phj44wd45stgu2juasu582sc02j2w7qqcqfkg5qxsz0vmu5)
 - [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw)
-- [QuickSilver](https://quicksilver.explorers.guru/validator/quickvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fe7umkd)
+- [QuickSilver](https://explorer.posthuman.digital/quicksilver/staking/quickvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fe7umkd)
 - [Secret Network](https://www.mintscan.io/secret/validators/secretvaloper1f8chr3y3s9h8g4vc5pg8wvzzhfy3hcxm0re5zc)
 - [Side Protocol](https://ping.pub/side/staking/sidevaloper1qqwp68scpqz3qrq3ru8p5rsuzsy3w9caqgqp2zchpqf32zsdqgt3z75w685)
 - [Solana](https://www.validators.app/validators/9PViHDmiezXQfeYDveJrcfkXCQVCcsfhpo32cjHUeZVj)
