@@ -24,7 +24,7 @@
 - [Humans.ai](https://explorer.nodestake.top/humans/staking/humanvaloper1ndnf0cd75nvz56feqy23um3mq22nlhe9ggu0uh)
 - [Injective Protocol](https://www.mintscan.io/injective/validators/injvaloper1e84fr6cxgcflv3fc9ey6n8425au7zx6wsztrle)
 - [Juno Network](https://www.mintscan.io/juno/validators/junovaloper1e8238v24qccht9mqc2w0r4luq462yxttjzn7qt)
-- [KYVE Network](https://www.mintscan.io/kyve/validators/kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7)
+- [KYVE Network](https://viewblock.io/kyve/validator/kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7)
 - [KYVE Network](https://app.kyve.network/#/validators/kyve16hnse4c852xg4vxjnqhx648e02z32n72d26nzu) Protocol node
 - [Lava Network](https://lava-explorer.mellifera.network/lava/staking/lava@valoper1kwk34225f9eq3sklaf7xws8mc9lhu6sxhh57pj)
 - [Lava Network](https://info-mainnet.lavanet.xyz/provider/lava@1tq00pyf4z324rsmv7yawlf0750la8wnj5znm5m#health) RPC provider
