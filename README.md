@@ -2,7 +2,7 @@
 
 [Web-page](https://posthuman.digital) | [History](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/history.md) <br />
 
-## POSTHUMAN validate 43 different Main-nets
+## POSTHUMAN validate 44 different Main-nets
 
 - [Agoric](https://explorer.posthuman.digital/agoric/staking/agoricvaloper13yy5mk8ek8p5kk3e8nleucw003nt2vmzxrdx36)
 - [Akash Network](https://explorer.posthuman.digital/akash/staking/akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk)
@@ -40,6 +40,7 @@
 - [Penumbra](https://penumbra.today/validator/penumbravalid1lt6083d99s0phj44wd45stgu2juasu582sc02j2w7qqcqfkg5qxsz0vmu5)
 - [Persistence](https://explorer.posthuman.digital/persistence/staking/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw)
 - [QuickSilver](https://explorer.posthuman.digital/quicksilver/staking/quickvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fe7umkd)
+- [Qwoyn](https://ping.pub/qwoyn/staking/qwoynvaloper107f9lr00cnsn7tl0v7mvqqrygwqtqw3le8uyra)
 - [Secret Network](https://explorer.posthuman.digital/secretnetwork/staking/secretvaloper1f8chr3y3s9h8g4vc5pg8wvzzhfy3hcxm0re5zc)
 - [Side Protocol](https://ping.pub/side/staking/sidevaloper1qqwp68scpqz3qrq3ru8p5rsuzsy3w9caqgqp2zchpqf32zsdqgt3z75w685)
 - [Solana](https://stakewiz.com/validator/F1emDGY23U6YpJj4H4af2CHcHUmiDGgAWs2xvWYZHWdR)
