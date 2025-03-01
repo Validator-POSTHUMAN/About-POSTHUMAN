@@ -68,7 +68,6 @@
 - [Pactus](https://pacviewer.com/address/pc1peyvmy274pdjlhfdvl6m50s29u96na9lqsphpph#txs)
 - [Pell](https://testnet.itrocket.net/pell/staking/pellvaloper1mcstdyw9hwvwwgtxcmpmke6hf8ufes0xkh3wm2)
 - [Solana](https://www.validators.app/validators/HZX4MWsSDzRerGuV6kgtj5sGM3dcX9doaiN7qr5y9MAw?locale=en&network=testnet)
-- [Story](https://testnet.storyscan.app/validators/storyvaloper1daxk0lukad4950ga6t2nc939gjvpwranre5dd4)
 - [Sunrise](https://explorer.nodestake.org/sunrise-testnet/staking/sunrisevaloper1a5t392uyw8x0dmul48lfrt6n7emvmzt0svc82e)
 - [Warden](https://testnet.itrocket.net/warden/staking/wardenvaloper12de4mzezcvhauqxcszrhkdagwv8lwqs9uvla75)
 - [ZetaChain](https://testnet.itrocket.net/zetachain/staking/zetavaloper15lshcgxztgmtyg8uv93827ywtswf7jg8qu2upq)
@@ -100,4 +99,5 @@
 - [Nubit]()
 - [Redbelly]()
 - [Soarchain](https://explorer.soarchain.com/soarchain/staking/soarvaloper1fdwdehgnqeyz5kxak7ga0xgtwrpsad759zgn09)
+- [Story](https://testnet.storyscan.app/validators/storyvaloper1daxk0lukad4950ga6t2nc939gjvpwranre5dd4)
 - [Vana](https://moksha.vanascan.io/token/0x14e7F5C7B85A3C76184f6bdc749B027DD6e8c70a)
