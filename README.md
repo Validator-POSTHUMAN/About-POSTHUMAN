@@ -16,6 +16,7 @@
 - [Cyber](https://cyb.ai/network/bostrom/hero/bostromvaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zt56fhc)
 - [Dymension](https://www.mintscan.io/dymension/validators/dymvaloper1lsjs7pwll7pqm40namkyx3e5qdwg0v0swrshud)
 - [Dungeon Chain](https://explorer.posthuman.digital/dungeon/staking/dungeonvaloper1umkse9yx2w9aw5qam0gffatfht3yerllxcque3)
+- [Elixir](https://www.elixir.xyz/validators/search/0x1d372E100375C83C8C2D0093f3aD51A0d93b9592)
 - [Elys Network](https://explorer.posthuman.digital/elys/staking/elysvaloper1w6phv0xwya5p2sql4qzlh7h2hdeszf49d9t2gr)
 - [Evmos](https://explorer.posthuman.digital/evmos/staking/evmosvaloper1jk7umxyky5m5dul46t8nxneavlg7eysjr6lfj7)
 - [Fetch.ai](https://explorer.posthuman.digital/fetchhub/staking/fetchvaloper1y02hlwucl6csz4z02ksn46gzdkmref927l4mug)
