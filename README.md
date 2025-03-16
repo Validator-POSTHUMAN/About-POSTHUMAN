@@ -21,6 +21,7 @@
 - [Evmos](https://explorer.posthuman.digital/evmos/staking/evmosvaloper1jk7umxyky5m5dul46t8nxneavlg7eysjr6lfj7)
 - [Fetch.ai](https://explorer.posthuman.digital/fetchhub/staking/fetchvaloper1y02hlwucl6csz4z02ksn46gzdkmref927l4mug)
 - [FirmaChain](https://explorer.posthuman.digital/firmachain/staking/firmavaloper143v9wpr870kt22gmtxgl7tc72twkd6z48h5yaj)
+- [Fuel](https://fuel-seq.simplystaking.xyz/fuel-mainnet/staking/fuelsequencervaloper1w8wrpz8n2z08625r63jdc4snznj6h8lxru5lcz)
 - [Furya](https://explorer.posthuman.digital/furya/staking/furyavaloper1efptgq00hngrlgz2gc66g53jslw5eqknd55m02)
 - [Govgen](https://www.mintscan.io/govgen/validators/govgenvaloper17hkyrkexpzrd2u3erplve4z5am6e0yvhsuyzcn)
 - [Humans.ai](https://explorer.posthuman.digital/humans/staking/humanvaloper1ndnf0cd75nvz56feqy23um3mq22nlhe9ggu0uh)
