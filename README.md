@@ -45,7 +45,6 @@
 - [Qwoyn](https://ping.pub/qwoyn/staking/qwoynvaloper107f9lr00cnsn7tl0v7mvqqrygwqtqw3le8uyra)
 - [Secret Network](https://explorer.posthuman.digital/secretnetwork/staking/secretvaloper1f8chr3y3s9h8g4vc5pg8wvzzhfy3hcxm0re5zc)
 - [Side Protocol](https://ping.pub/side/staking/sidevaloper1qqwp68scpqz3qrq3ru8p5rsuzsy3w9caqgqp2zchpqf32zsdqgt3z75w685)
-- [Solana](https://stakewiz.com/validator/F1emDGY23U6YpJj4H4af2CHcHUmiDGgAWs2xvWYZHWdR)
 - [Source Protocol](https://ping.pub/source/staking/sourcevaloper1srwjhdup98l35vruhyagvmyqpu6cgrhmqystgp)
 - [Stargaze](https://explorer.posthuman.digital/stargaze/staking/starsvaloper14ftwwcfvhnp3qvxawesjan5duh8rmrkrzdvquy)
 - [Starknet](https://voyager.online/staking?validator=0x0327478b645a0c6889e995fe22b1298fae420dba24cc42422f0c066763d08dc9)
