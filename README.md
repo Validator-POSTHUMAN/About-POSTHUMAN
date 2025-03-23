@@ -38,6 +38,7 @@
 - [Migaloo](https://explorer.posthuman.digital/migaloo/staking/migaloovaloper13wargdgtlflxrw2ad4ydy7zrq37crl6f47w6uh)
 - [Odin Protocol](https://explorer.posthuman.digital/odin/staking/odinvaloper1wuwhanclwh9ckpe6z6480t3pjjpk7dsj2trk9p)
 - [OmniFlix](https://explorer.posthuman.digital/omniflixhub/staking/omniflixvaloper1s3achxs70ysg8pf9xqyytu0m4had60khpuccxl)
+- [Oraichain](https://scan.orai.io/validators/oraivaloper1gvk3caqtdnwhff60ndm29tp0m7p8e57zgx588h)
 - [Osmosis](https://explorer.posthuman.digital/osmosis/staking/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam)
 - [Penumbra](https://penumbra.today/validator/penumbravalid1lt6083d99s0phj44wd45stgu2juasu582sc02j2w7qqcqfkg5qxsz0vmu5)
 - [Persistence](https://explorer.posthuman.digital/persistence/staking/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw)
