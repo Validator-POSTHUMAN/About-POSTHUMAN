@@ -13,6 +13,7 @@
 - [Beezee](https://explorer.posthuman.digital/beezee/staking/bzevaloper1xq38qxad2eumdaytrejnmypqaay8dtmukz72re)
 - [Chihuahua](https://explorer.posthuman.digital/chihuahua/staking/chihuahuavaloper1fm68jvjpk0g7dvdq75czjynyszeaduxt5lc0a8)
 - [Cosmos Network](https://explorer.posthuman.digital/cosmos/staking/cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv)
+- [Cronos POS](https://cronos-pos.org/explorer/validator/crocncl1hyhmsjr83segu3fmrc7z6uqu4lspztkc3kup2g)
 - [Cyber](https://cyb.ai/network/bostrom/hero/bostromvaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zt56fhc)
 - [Dymension](https://www.mintscan.io/dymension/validators/dymvaloper1lsjs7pwll7pqm40namkyx3e5qdwg0v0swrshud)
 - [Dungeon Chain](https://explorer.posthuman.digital/dungeon/staking/dungeonvaloper1umkse9yx2w9aw5qam0gffatfht3yerllxcque3)
