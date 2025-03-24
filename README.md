@@ -52,7 +52,7 @@
 - [Starknet](https://voyager.online/staking?validator=0x0327478b645a0c6889e995fe22b1298fae420dba24cc42422f0c066763d08dc9)
 - [Stride](https://www.mintscan.io/stride/ics-validators/stridevaloper157v7tczs40axfgejp2m43kwuzqe0wsy0xxh5gk)
 - [UX](https://explorer.posthuman.digital/umee/staking/umeevaloper1qa5gkv8a4rzpncgkguv2szh5s83kh69l082zz3)
-- [Xion](https://explorer.posthuman.digital/xion/staking/xionvaloper1crq50flkuw2tkahagwvddzptcdfeq45j3m6yhf) inactive
+- [Xion](https://explorer.posthuman.digital/xion/staking/xionvaloper1crq50flkuw2tkahagwvddzptcdfeq45j3m6yhf)
 - [ZetaChain](https://explorer.posthuman.digital/zetachain/staking/zetavaloper1mj5uvv4703fwvna0t622yj9386cfwavr2hl6q4)
 
 ## POSTHUMAN validate several different test-nets (list is not full and always changes)
