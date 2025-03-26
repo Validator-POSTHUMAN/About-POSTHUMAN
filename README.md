@@ -2,11 +2,12 @@
 
 [Web-page](https://posthuman.digital) | [History](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/history.md) <br />
 
-## POSTHUMAN validate 44 different Main-nets
+## POSTHUMAN validate 45 different Main-nets
 
 - [Agoric](https://explorer.posthuman.digital/agoric/staking/agoricvaloper13yy5mk8ek8p5kk3e8nleucw003nt2vmzxrdx36)
 - [Akash Network](https://explorer.posthuman.digital/akash/staking/akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk)
 - [AssetMantle](https://explorer.posthuman.digital/assetmantle/staking/mantlevaloper1xrvhlxasg3duvmz82gn5gggpc8wwry7luclvx9)
+- [Atom One](https://www.mintscan.io/atomone/validators/atonevaloper1vcp7pkg8sk0n8ylhezxxs8qqrnwfld4dsv2sew)
 - [Aura Network](https://explorer.posthuman.digital/aura/staking/auravaloper15pzl0s6ym85qx4yeq29rflp702wtx3dntle05a)
 - [Avalanche](https://avascan.info/staking/validator/NodeID-5uYQ6R4WF7kmGfraM9LtsUJG2CDmh78Lf)
 - [Axelar](https://explorer.posthuman.digital/axelar/staking/axelarvaloper1ftqma496np33y054x6gjeh2maxy00e00p2nl9l)
