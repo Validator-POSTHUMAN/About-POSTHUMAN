@@ -12,6 +12,7 @@
 - [Avalanche](https://avascan.info/staking/validator/NodeID-5uYQ6R4WF7kmGfraM9LtsUJG2CDmh78Lf)
 - [Axelar](https://explorer.posthuman.digital/axelar/staking/axelarvaloper1ftqma496np33y054x6gjeh2maxy00e00p2nl9l)
 - [Beezee](https://explorer.posthuman.digital/beezee/staking/bzevaloper1xq38qxad2eumdaytrejnmypqaay8dtmukz72re)
+- [Celestia](https://www.mintscan.io/celestia/validators/celestiavaloper1snun9qqk9eussvyhkqm03lz6f265ekhnnlw043)
 - [Chihuahua](https://explorer.posthuman.digital/chihuahua/staking/chihuahuavaloper1fm68jvjpk0g7dvdq75czjynyszeaduxt5lc0a8)
 - [Cosmos Network](https://explorer.posthuman.digital/cosmos/staking/cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv)
 - [Cronos POS](https://cronos-pos.org/explorer/validator/crocncl1hyhmsjr83segu3fmrc7z6uqu4lspztkc3kup2g)
