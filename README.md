@@ -2,7 +2,7 @@
 
 [Web-page](https://posthuman.digital) | [History](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/history.md) <br />
 
-## POSTHUMAN validate 51 different Main-nets
+## POSTHUMAN validate 50 different Main-nets
 
 - [Agoric](https://explorer.posthuman.digital/agoric/staking/agoricvaloper13yy5mk8ek8p5kk3e8nleucw003nt2vmzxrdx36)
 - [Akash Network](https://explorer.posthuman.digital/akash/staking/akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk)
@@ -39,7 +39,6 @@
 - [Nillion](https://www.mintscan.io/nillion/validators/nillionvaloper17lsgxjnzkp0gm6wt8zudsr09hw2y95aht46p78)
 - [Nolus Protocol](https://explorer.posthuman.digital/nolus/staking/nolusvaloper108wunsvlzm7l6pf456ntw9e84gp3zkv23mydme)
 - [Nomic](https://app.nomic.io/staking?validator=nomic19k66uuramzvll98f6r4ayqmvugats3e5l6zxj8&modal=info)
-- [Migaloo](https://explorer.posthuman.digital/migaloo/staking/migaloovaloper13wargdgtlflxrw2ad4ydy7zrq37crl6f47w6uh)
 - [Odin Protocol](https://explorer.posthuman.digital/odin/staking/odinvaloper1wuwhanclwh9ckpe6z6480t3pjjpk7dsj2trk9p)
 - [OmniFlix](https://explorer.posthuman.digital/omniflixhub/staking/omniflixvaloper1s3achxs70ysg8pf9xqyytu0m4had60khpuccxl)
 - [Oraichain](https://scan.orai.io/validators/oraivaloper1gvk3caqtdnwhff60ndm29tp0m7p8e57zgx588h)
@@ -96,6 +95,7 @@
 - [Solana](https://stakewiz.com/validator/F1emDGY23U6YpJj4H4af2CHcHUmiDGgAWs2xvWYZHWdR) - we stoped to validate at 14th of February because validator reward does not cover the voting fee
 - [Starname](https://www.mintscan.io/starname/validators/starvaloper1euslp8c2qadgs6jy6klwv6f332mj426qje6vsn) - on the maintenance
 - [Tgrade](https://tgrade.provable.dev/tgrade/staking/tgrade1kcdne83mkvygg7guueswnfyfwtsdmewywvnq5q) - we stoped to validate TGrade at 28th of September 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A49)
+- [Migaloo](https://explorer.posthuman.digital/migaloo/staking/migaloovaloper13wargdgtlflxrw2ad4ydy7zrq37crl6f47w6uh) - we stoped to validate Migaloo on 15th of April 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A55)
 
 
 ## Archive of Test-nets
