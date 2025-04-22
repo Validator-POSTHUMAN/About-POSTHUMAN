@@ -14,6 +14,10 @@ We provide reliable, secure, and production-ready infrastructure for Cosmos SDK-
 
 ### Basic Support
 
+> **📡 EXPANDING THE POSTHUMAN HUB**  
+> _Discover more about how we're scaling infrastructure access and validator support across ecosystems._  
+> 👉 **[Details](https://x.com/POSTHUMAN_DVS/status/1914331522603356322)**
+
 Here's our dashboard – [https://nodes.posthuman.digital/](https://nodes.posthuman.digital/)
 
 - Validator node setup and maintenance 🛠  
