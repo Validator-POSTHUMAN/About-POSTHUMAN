@@ -2,7 +2,7 @@
 
 [Web-page](https://posthuman.digital) | [History](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/history.md) <br />
 
-## POSTHUMAN validate 50 different Main-nets
+## POSTHUMAN validate 49 different Main-nets
 
 - [Agoric](https://explorer.posthuman.digital/agoric/staking/agoricvaloper13yy5mk8ek8p5kk3e8nleucw003nt2vmzxrdx36)
 - [Akash Network](https://explorer.posthuman.digital/akash/staking/akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk)
@@ -41,7 +41,6 @@
 - [Nillion](https://www.mintscan.io/nillion/validators/nillionvaloper17lsgxjnzkp0gm6wt8zudsr09hw2y95aht46p78)
 - [Nolus Protocol](https://explorer.posthuman.digital/nolus/staking/nolusvaloper108wunsvlzm7l6pf456ntw9e84gp3zkv23mydme)
 - [Nomic](https://app.nomic.io/staking?validator=nomic19k66uuramzvll98f6r4ayqmvugats3e5l6zxj8&modal=info)
-- [Odin Protocol](https://explorer.posthuman.digital/odin/staking/odinvaloper1wuwhanclwh9ckpe6z6480t3pjjpk7dsj2trk9p)
 - [OmniFlix](https://explorer.posthuman.digital/omniflixhub/staking/omniflixvaloper1s3achxs70ysg8pf9xqyytu0m4had60khpuccxl)
 - [Oraichain](https://explorer.posthuman.digital/oraichain/staking/oraivaloper1gvk3caqtdnwhff60ndm29tp0m7p8e57zgx588h)
 - [Osmosis](https://explorer.posthuman.digital/osmosis/staking/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam)
@@ -83,7 +82,7 @@
 - [Comdex](https://www.mintscan.io/comdex/validators/comdexvaloper1963hcznh439kspqmjj5hv5h4nk2kphvats5ujk) - we stoped to validate Comdex on 28th of September 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A50)
 - [Crescent Network](https://www.mintscan.io/crescent/validators/crevaloper12yudzhed4cqjpwkv52hwut7a5xn8h7j97gqhaq) - network was halt by the proposal in Crescent Network
 - [Gravity Bridge](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1epfpvqsc34sfserdx8x4t3aszdkar3w684fwr6) - we stoped to validate Gravity Bridge on 20th of September 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A44)
-- [HoneyWood]() -  we stoped to validate Honeywood on 17th of September 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A45)
+- [HoneyWood]() - we stoped to validate Honeywood on 17th of September 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A45)
 - [Ki Chain](https://www.mintscan.io/ki-chain/validators/kivaloper1g2sr6x8hrtwwsaaqu8p8r7dzdfugdcsal08gq8) - we stoped to validate KiChain on 6th of October 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A52)
 - [Lambda Network](https://mainnet.manticore.team/lambda/staking/lambvaloper15kvgg5y9v2dwhnssjmye2nq966jksjq82phkn5) migrated to own Ethereum L2
 - [LikeCoin](https://ping.pub/likecoin/staking/likevaloper13shmgwhlhw36sv6yfqz9llpcynu7pkqngh9sqk) - we stoped to validate LikeCoin on 28th of September 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A48)
@@ -95,6 +94,7 @@
 - [Solana](https://stakewiz.com/validator/F1emDGY23U6YpJj4H4af2CHcHUmiDGgAWs2xvWYZHWdR) - we stoped to validate on 14th of February because validator reward does not cover the voting fee
 - [Starname](https://www.mintscan.io/starname/validators/starvaloper1euslp8c2qadgs6jy6klwv6f332mj426qje6vsn) - we stoped to validate Starname on 3rd of March 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A54)
 - [Tgrade](https://tgrade.provable.dev/tgrade/staking/tgrade1kcdne83mkvygg7guueswnfyfwtsdmewywvnq5q) - we stoped to validate TGrade on 28th of September 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A49)
+- [Odin Protocol](https://explorer.posthuman.digital/odin/staking/odinvaloper1wuwhanclwh9ckpe6z6480t3pjjpk7dsj2trk9p) - we stoped to validate Odin Protocol on 6th of May 2025, because of [Official Announcement: ODIN Protocol is Closing Operations](https://x.com/odinprotocol/status/1919352164196995442)
 
 
 
