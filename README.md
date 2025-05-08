@@ -86,12 +86,13 @@
 - [Lum Network](https://www.mintscan.io/lum/validators/lumvaloper1z7ss5slnpjfkceahl323ag9tkf3a6yrs88h4ng) - we stoped to validate LUM Network on 28th of September 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A47)
 - [MediBloc](https://www.mintscan.io/medibloc/validators/panaceavaloper190njxj69lmwdwjhhp0fw5kqsxsu6g876hzgp6z) - we stoped to validate Mediblock on 13th of March 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A35)
 - [Migaloo](https://explorer.posthuman.digital/migaloo/staking/migaloovaloper13wargdgtlflxrw2ad4ydy7zrq37crl6f47w6uh) - we stoped to validate Migaloo on 15th of April 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A55)
+- [Odin Protocol](https://explorer.posthuman.digital/odin/staking/odinvaloper1wuwhanclwh9ckpe6z6480t3pjjpk7dsj2trk9p) - we stoped to validate Odin Protocol on 6th of May 2025, because of [Official Announcement: ODIN Protocol is Closing Operations](https://x.com/odinprotocol/status/1919352164196995442)
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1ckcup3mdvztrps2m788lpytxey47fyn9gkqhfw) - we stoped to validate Rizon on 13th of March 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A34)
 - [SifChain](https://atomscan.com/sifchain/validators/sifvaloper1lkctf0y8stlvshdkhra0lqcafd5hsq9aad35nm) - we stoped to validate SifChain on 28th of September 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A51)
 - [Solana](https://stakewiz.com/validator/F1emDGY23U6YpJj4H4af2CHcHUmiDGgAWs2xvWYZHWdR) - we stoped to validate on 14th of February because validator reward does not cover the voting fee
 - [Starname](https://www.mintscan.io/starname/validators/starvaloper1euslp8c2qadgs6jy6klwv6f332mj426qje6vsn) - we stoped to validate Starname on 3rd of March 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A54)
 - [Tgrade](https://tgrade.provable.dev/tgrade/staking/tgrade1kcdne83mkvygg7guueswnfyfwtsdmewywvnq5q) - we stoped to validate TGrade on 28th of September 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A49)
-- [Odin Protocol](https://explorer.posthuman.digital/odin/staking/odinvaloper1wuwhanclwh9ckpe6z6480t3pjjpk7dsj2trk9p) - we stoped to validate Odin Protocol on 6th of May 2025, because of [Official Announcement: ODIN Protocol is Closing Operations](https://x.com/odinprotocol/status/1919352164196995442)
+
 
 
 
