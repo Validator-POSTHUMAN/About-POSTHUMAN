@@ -46,7 +46,7 @@
 - [Osmosis](https://explorer.posthuman.digital/osmosis/staking/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam)
 - [Penumbra](https://penumbra.today/validator/penumbravalid1lt6083d99s0phj44wd45stgu2juasu582sc02j2w7qqcqfkg5qxsz0vmu5)
 - [Persistence](https://explorer.posthuman.digital/persistence/staking/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw)
-- [Planq](https://ping.pub/planq/tx/6E2B2CDC3696E8998B6A54A112D2F9B4E4C76405F9846C9BCE1390FBE5163CA4)
+- [Planq](https://ping.pub/planq/staking/plqvaloper16td3fn39hv0a0haaayfzl28rgfdfn8yt08jg38)
 - [QuickSilver](https://explorer.posthuman.digital/quicksilver/staking/quickvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fe7umkd)
 - [Qwoyn](https://ping.pub/qwoyn/staking/qwoynvaloper107f9lr00cnsn7tl0v7mvqqrygwqtqw3le8uyra)
 - [Secret Network](https://explorer.posthuman.digital/secretnetwork/staking/secretvaloper1f8chr3y3s9h8g4vc5pg8wvzzhfy3hcxm0re5zc)
