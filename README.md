@@ -100,4 +100,26 @@
 
 ## Archive of Test-nets
 
-[0G](https://testnet.0g.explorers.guru/validator/0gvaloper1559d4r6kdjj4unqaz8stsx7lqryu34nmf6aqse) | [0G storage node](https://chainscan-newton.0g.ai/address/0xa50ada8f566ca55e4c1d11e0b81bdf00c9c8d67b) | [Allora](https://testnet.allora.explorers.guru/validator/allovaloper1vndxm2lgkkdn3wnadzcy0v8agauz7fpcv73hap) | [Fiamma](),[Galactica](https://explorer.nodestake.org/galactica-testnet/staking/galavaloper18e8zes2y0n33esjhz0y7uqwurl83phht7r7fhn) | [Initia](https://scan.testnet.initia.xyz/initiation-1/validators/initvaloper1kzs47dd6jhkx68wcjquv5z4g3wn2x5rhv3kz7v) | [LidoxObol](https://operators-holesky.testnet.fi/module/2/23) | [Nesa](https://node.nesa.ai/nodes/X49iGTpnivAwb1cG8q9nSx53Aby1T1YeQCwmpU1Lqkv) | [Nillion](https://testnet.nillion.explorers.guru/account/nillion19tp8h2789nd6kl620f6ghsfxxhuefs3vzf23rj) | [Nubit](), [Redbelly]() | [Soarchain](https://explorer.soarchain.com/soarchain/staking/soarvaloper1fdwdehgnqeyz5kxak7ga0xgtwrpsad759zgn09) | [Solana](https://www.validators.app/validators/HZX4MWsSDzRerGuV6kgtj5sGM3dcX9doaiN7qr5y9MAw?locale=en&network=testnet) | [Story](https://testnet.storyscan.app/validators/storyvaloper1daxk0lukad4950ga6t2nc939gjvpwranre5dd4) | [Vana](https://moksha.vanascan.io/token/0x14e7F5C7B85A3C76184f6bdc749B027DD6e8c70a)
+[0G](https://testnet.0g.explorers.guru/validator/0gvaloper1559d4r6kdjj4unqaz8stsx7lqryu34nmf6aqse) | [0G storage node](https://chainscan-newton.0g.ai/address/0xa50ada8f566ca55e4c1d11e0b81bdf00c9c8d67b) | [Allora](https://testnet.allora.explorers.guru/validator/allovaloper1vndxm2lgkkdn3wnadzcy0v8agauz7fpcv73hap) | [Fiamma]() | [Galactica](https://explorer.nodestake.org/galactica-testnet/staking/galavaloper18e8zes2y0n33esjhz0y7uqwurl83phht7r7fhn) | [Initia](https://scan.testnet.initia.xyz/initiation-1/validators/initvaloper1kzs47dd6jhkx68wcjquv5z4g3wn2x5rhv3kz7v) | [LidoxObol](https://operators-holesky.testnet.fi/module/2/23) | [Nesa](https://node.nesa.ai/nodes/X49iGTpnivAwb1cG8q9nSx53Aby1T1YeQCwmpU1Lqkv) | [Nillion](https://testnet.nillion.explorers.guru/account/nillion19tp8h2789nd6kl620f6ghsfxxhuefs3vzf23rj) | [Nubit](), [Redbelly]() | [Soarchain](https://explorer.soarchain.com/soarchain/staking/soarvaloper1fdwdehgnqeyz5kxak7ga0xgtwrpsad759zgn09) | [Solana](https://www.validators.app/validators/HZX4MWsSDzRerGuV6kgtj5sGM3dcX9doaiN7qr5y9MAw?locale=en&network=testnet) | [Story](https://testnet.storyscan.app/validators/storyvaloper1daxk0lukad4950ga6t2nc939gjvpwranre5dd4) | [Vana](https://moksha.vanascan.io/token/0x14e7F5C7B85A3C76184f6bdc749B027DD6e8c70a)
+
+Before joining Posthuman, our team members participated in various testnet programs:
+
+- Aleo - Tetnet 2, Testnet 3
+- Algorand - Relayer Program
+- Aptos - AIT1, AIT2, AIT3
+- Avalanche - Denali Incentivized testnet 
+- Casper - Zug 500 testnet
+- Everscale - FreeTON Magister Ludi testnet
+- Everclear - Connext Router Program
+- Mantra - Incentivized testnet Phase 1
+- Moonbeam - Orbiter Program
+- Moonriver - Orbiter Pogram
+- Near - Stake Wars 2, Stake Wars 3
+- Sei - Atlantic testnet
+- Solana - Tour de SOL 
+- Stacks -  STX mining challenge
+- Sui - Wave 1, Wave 2
+- Taiko - Testnets A2, A3, A4, A5, A6
+- TheGraph - Curator Program, MIPs Program
+- XX Network - BetaNet
+ ... and [many](https://github.com/web3validator) [others](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/cyberG.md).
