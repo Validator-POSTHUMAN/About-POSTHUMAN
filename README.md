@@ -112,7 +112,7 @@
 - [Story](https://testnet.storyscan.app/validators/storyvaloper1daxk0lukad4950ga6t2nc939gjvpwranre5dd4)
 - [Vana](https://moksha.vanascan.io/token/0x14e7F5C7B85A3C76184f6bdc749B027DD6e8c70a)
 
-Before joining Posthuman, our team members participated in various testnet programs:
+Our team members participated in various testnet programs:
 
 - Aleo - Tetnet 2, Testnet 3
 - Algorand - Relayer Program
