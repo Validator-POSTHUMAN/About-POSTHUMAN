@@ -26,7 +26,6 @@
 - [Fetch.ai](https://explorer.posthuman.digital/fetchhub/staking/fetchvaloper1y02hlwucl6csz4z02ksn46gzdkmref927l4mug)
 - [FirmaChain](https://explorer.posthuman.digital/firmachain/staking/firmavaloper143v9wpr870kt22gmtxgl7tc72twkd6z48h5yaj)
 - [Fuel](https://fuel-seq.simplystaking.xyz/fuel-mainnet/staking/fuelsequencervaloper1w8wrpz8n2z08625r63jdc4snznj6h8lxru5lcz)
-- [Govgen](https://www.mintscan.io/govgen/validators/govgenvaloper17hkyrkexpzrd2u3erplve4z5am6e0yvhsuyzcn)
 - [Humans.ai](https://explorer.posthuman.digital/humans/staking/humanvaloper1ndnf0cd75nvz56feqy23um3mq22nlhe9ggu0uh)
 - [Initia](https://scan.initia.xyz/interwoven-1/validators/initvaloper14d8l6xj7hww6ccp6vr50amq392pgch4w0xthpa)
 - [Juno Network](https://explorer.chainroot.io/juno/validators/junovaloper1e8238v24qccht9mqc2w0r4luq462yxttjzn7qt)
@@ -38,6 +37,7 @@
 - [LidoxSSV](https://explorer.ssv.network/operators/618)
 - [Mina](https://minascan.io/mainnet/validator/B62qrnPdz8HpsDJfGHirDLpVrN2VeyeitdaTKBaccWtHpeVW9Hgwi75/delegations)
 - [Namada](https://namada.valopers.com/validators/tnam1q8azt2cpqmc6tr2gvg5v62e4jr0t9327yupaf595)
+- [Neutron](https://www.mintscan.io/neutron/validators/neutronvaloper1md0k6m8y58w8u98x82kjah7r5zcajw7c5v5ypa)
 - [Nibiru](https://nibiru.explorers.guru/validator/nibivaloper1wsx2xrz86lsq585f4002uq3xwlla88y5dw38t6)
 - [Nillion](https://www.mintscan.io/nillion/validators/nillionvaloper17lsgxjnzkp0gm6wt8zudsr09hw2y95aht46p78)
 - [Nolus Protocol](https://explorer.posthuman.digital/nolus/staking/nolusvaloper108wunsvlzm7l6pf456ntw9e84gp3zkv23mydme)
@@ -95,6 +95,7 @@
 - [Odin Protocol](https://explorer.posthuman.digital/odin/staking/odinvaloper1wuwhanclwh9ckpe6z6480t3pjjpk7dsj2trk9p) - we stoped to validate Odin Protocol on 6th of May 2025, because of [Official Announcement: ODIN Protocol is Closing Operations](https://x.com/odinprotocol/status/1919352164196995442)
 - [UX](https://explorer.posthuman.digital/umee/staking/umeevaloper1qa5gkv8a4rzpncgkguv2szh5s83kh69l082zz3) - we stoped to validate UX (ex-Umee) on 20th of May 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A56)
 - [Injective](https://explorer.posthuman.digital/injective/staking/injvaloper1e84fr6cxgcflv3fc9ey6n8425au7zx6wsztrle) - we stop to validate Injective after [Proposal #529](https://www.mintscan.io/injective/proposals/529)
+- [Govgen](https://www.mintscan.io/govgen/validators/govgenvaloper17hkyrkexpzrd2u3erplve4z5am6e0yvhsuyzcn) - we stop to validate GovGen after [Proposal #10](https://app.govgen.io/proposals/10)
 
 ## Archive of Test-nets
 
