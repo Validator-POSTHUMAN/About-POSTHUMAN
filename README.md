@@ -60,11 +60,11 @@
 
 ## POSTHUMAN validate several different test-nets (list is not full and always changes)
 
-- [Babylon](https://explorer.posthuman.digital/babylon-testnet/staking/bbnvaloper1hvx5j97cwyvnpztpynk2d9m7jqqax46qks8us5)
+- [Babylon](https://testnet.itrocket.net/babylon/staking/bbnvaloper1hvx5j97cwyvnpztpynk2d9m7jqqax46qks8us5)
 - [Cosmos Network](https://www.mintscan.io/ics-testnet-provider/validators/cosmosvaloper1qp4y2esacc2jmepxcqlw440p6xas8j6t9g438v)
 - [Celestia](https://testnet.celestia.explorers.guru/validator/celestiavaloper1sa5mgyskjzpx6znnd6jxkn59g02hm6c4p8a59v)
 - [Dill](https://alps.dill.xyz/validators?p=20&ps=25&pubkey=0xb1e8c3611a36ea3ad69c8e7831c95284ced4d27f6ea7d28037b63214d9004a5303ea19c3767ed3d95307c7d4e7212142)
-- [Elys](https://explorer.stavr.tech/Elys-Testnet/staking/elysvaloper1w6phv0xwya5p2sql4qzlh7h2hdeszf49d9t2gr)
+- [Elys](https://testnet.itrocket.net/elys/staking/elysvaloper1w6phv0xwya5p2sql4qzlh7h2hdeszf49d9t2gr)
 - [Lava](https://explorer.kjnodes.com/lava-testnet/staking/lava@valoper1a6jlhfkm6ry53v2pn8kjq9ftvc656hegl9e3s0)
 - [Pell Network](https://testnet.itrocket.net/pell/staking/pellvaloper1mcstdyw9hwvwwgtxcmpmke6hf8ufes0xkh3wm2)
 - [Story](https://aeneid.staking.story.foundation/validators/0x47189c6843022ab991d438d0d604547a8b2cc7c7)
@@ -90,11 +90,11 @@
 - [Lambda Network](https://mainnet.manticore.team/lambda/staking/lambvaloper15kvgg5y9v2dwhnssjmye2nq966jksjq82phkn5) migrated to own Ethereum L2
 - [Starname](https://www.mintscan.io/starname/validators/starvaloper1euslp8c2qadgs6jy6klwv6f332mj426qje6vsn) - we stoped to validate Starname on 3rd of March 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A54)
 - [Solana](https://stakewiz.com/validator/F1emDGY23U6YpJj4H4af2CHcHUmiDGgAWs2xvWYZHWdR) - we stoped to validate on 14th of February because validator reward does not cover the voting fee
-- [Source Protocol](https://explorer.posthuman.digital/source/staking/oraivaloper1gvk3caqtdnwhff60ndm29tp0m7p8e57zgx588h) - we stoped to validate Source Protocol on 20th of May 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A57)
-- [Migaloo](https://explorer.posthuman.digital/migaloo/staking/migaloovaloper13wargdgtlflxrw2ad4ydy7zrq37crl6f47w6uh) - we stoped to validate Migaloo on 15th of April 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A55)
+- [Source Protocol](https://source.explorers.guru/validator/sourcevaloper1srwjhdup98l35vruhyagvmyqpu6cgrhmqystgp) - we stoped to validate Source Protocol on 20th of May 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A57)
+- [Migaloo](https://migaloo.explorers.guru/validator/migaloovaloper13wargdgtlflxrw2ad4ydy7zrq37crl6f47w6uh) - we stoped to validate Migaloo on 15th of April 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A55)
 - [Odin Protocol](https://explorer.posthuman.digital/odin/staking/odinvaloper1wuwhanclwh9ckpe6z6480t3pjjpk7dsj2trk9p) - we stoped to validate Odin Protocol on 6th of May 2025, because of [Official Announcement: ODIN Protocol is Closing Operations](https://x.com/odinprotocol/status/1919352164196995442)
-- [UX](https://explorer.posthuman.digital/umee/staking/umeevaloper1qa5gkv8a4rzpncgkguv2szh5s83kh69l082zz3) - we stoped to validate UX (ex-Umee) on 20th of May 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A56)
-- [Injective](https://explorer.posthuman.digital/injective/staking/injvaloper1e84fr6cxgcflv3fc9ey6n8425au7zx6wsztrle) - we stop to validate Injective after [Proposal #529](https://www.mintscan.io/injective/proposals/529)
+- [UX](https://ping.pub/umee/staking/umeevaloper1qa5gkv8a4rzpncgkguv2szh5s83kh69l082zz3) - we stoped to validate UX (ex-Umee) on 20th of May 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A56)
+- [Injective](https://www.mintscan.io/injective/validators/injvaloper1e84fr6cxgcflv3fc9ey6n8425au7zx6wsztrle) - we stop to validate Injective after [Proposal #529](https://www.mintscan.io/injective/proposals/529)
 - [Govgen](https://www.mintscan.io/govgen/validators/govgenvaloper17hkyrkexpzrd2u3erplve4z5am6e0yvhsuyzcn) - we stop to validate GovGen after [Proposal #10](https://app.govgen.io/proposals/10)
 
 ## Archive of Test-nets
