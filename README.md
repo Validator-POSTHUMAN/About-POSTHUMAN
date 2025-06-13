@@ -63,15 +63,11 @@
 - [Babylon](https://testnet.itrocket.net/babylon/staking/bbnvaloper1hvx5j97cwyvnpztpynk2d9m7jqqax46qks8us5)
 - [Cosmos Network](https://www.mintscan.io/ics-testnet-provider/validators/cosmosvaloper1qp4y2esacc2jmepxcqlw440p6xas8j6t9g438v)
 - [Celestia](https://testnet.celestia.explorers.guru/validator/celestiavaloper1sa5mgyskjzpx6znnd6jxkn59g02hm6c4p8a59v)
-- [Dill](https://alps.dill.xyz/validators?p=20&ps=25&pubkey=0xb1e8c3611a36ea3ad69c8e7831c95284ced4d27f6ea7d28037b63214d9004a5303ea19c3767ed3d95307c7d4e7212142)
 - [Elys](https://testnet.itrocket.net/elys/staking/elysvaloper1w6phv0xwya5p2sql4qzlh7h2hdeszf49d9t2gr)
-- [Lava](https://explorer.kjnodes.com/lava-testnet/staking/lava@valoper1a6jlhfkm6ry53v2pn8kjq9ftvc656hegl9e3s0)
 - [Neutron](https://www.mintscan.io/neutron-testnet/validators/neutronvaloper1g0xlsmw83rtfla5khhrksa3tnmr5mdwu4aj5ue)
 - [Pell Network](https://testnet.itrocket.net/pell/staking/pellvaloper1mcstdyw9hwvwwgtxcmpmke6hf8ufes0xkh3wm2)
 - [Story](https://aeneid.staking.story.foundation/validators/0x47189c6843022ab991d438d0d604547a8b2cc7c7)
-- [Sunrise](https://explorer.nodestake.org/sunrise-testnet/staking/sunrisevaloper1a5t392uyw8x0dmul48lfrt6n7emvmzt0svc82e)
 - [Warden](https://testnet.itrocket.net/warden/staking/wardenvaloper12de4mzezcvhauqxcszrhkdagwv8lwqs9uvla75)
-- [ZetaChain](https://testnet.itrocket.net/zetachain/staking/zetavaloper15lshcgxztgmtyg8uv93827ywtswf7jg8qu2upq)
 
 ## Archive of Main-nets
 
@@ -103,9 +99,11 @@
 - [0G](https://testnet.0g.explorers.guru/validator/0gvaloper1559d4r6kdjj4unqaz8stsx7lqryu34nmf6aqse)
 - [0G storage node](https://chainscan-newton.0g.ai/address/0xa50ada8f566ca55e4c1d11e0b81bdf00c9c8d67b)
 - [Allora](https://testnet.allora.explorers.guru/validator/allovaloper1vndxm2lgkkdn3wnadzcy0v8agauz7fpcv73hap)
+- [Dill](https://alps.dill.xyz/validators?p=20&ps=25&pubkey=0xb1e8c3611a36ea3ad69c8e7831c95284ced4d27f6ea7d28037b63214d9004a5303ea19c3767ed3d95307c7d4e7212142)
 - [Fiamma]()
 - [Galactica](https://explorer.nodestake.org/galactica-testnet/staking/galavaloper18e8zes2y0n33esjhz0y7uqwurl83phht7r7fhn)
 - [Initia](https://scan.testnet.initia.xyz/initiation-1/validators/initvaloper1kzs47dd6jhkx68wcjquv5z4g3wn2x5rhv3kz7v)
+- [Lava](https://explorer.kjnodes.com/lava-testnet/staking/lava@valoper1a6jlhfkm6ry53v2pn8kjq9ftvc656hegl9e3s0)
 - [LidoxObol](https://operators-holesky.testnet.fi/module/2/23)
 - [Nesa](https://node.nesa.ai/nodes/X49iGTpnivAwb1cG8q9nSx53Aby1T1YeQCwmpU1Lqkv)
 - [Nillion](https://testnet.nillion.explorers.guru/account/nillion19tp8h2789nd6kl620f6ghsfxxhuefs3vzf23rj)
@@ -114,7 +112,9 @@
 - [Soarchain](https://explorer.soarchain.com/soarchain/staking/soarvaloper1fdwdehgnqeyz5kxak7ga0xgtwrpsad759zgn09)
 - [Solana](https://www.validators.app/validators/HZX4MWsSDzRerGuV6kgtj5sGM3dcX9doaiN7qr5y9MAw?locale=en&network=testnet)
 - [Story](https://testnet.storyscan.app/validators/storyvaloper1daxk0lukad4950ga6t2nc939gjvpwranre5dd4)
+- [Sunrise](https://explorer.nodestake.org/sunrise-testnet/staking/sunrisevaloper1a5t392uyw8x0dmul48lfrt6n7emvmzt0svc82e)
 - [Vana](https://moksha.vanascan.io/token/0x14e7F5C7B85A3C76184f6bdc749B027DD6e8c70a)
+- [ZetaChain](https://testnet.itrocket.net/zetachain/staking/zetavaloper15lshcgxztgmtyg8uv93827ywtswf7jg8qu2upq)
 
 Our team members participated in various testnet programs:
 
