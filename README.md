@@ -55,6 +55,7 @@
 - [Stargaze](https://ping.pub/stargaze/staking/starsvaloper14ftwwcfvhnp3qvxawesjan5duh8rmrkrzdvquy)
 - [Starknet](https://voyager.online/staking?validator=0x0327478b645a0c6889e995fe22b1298fae420dba24cc42422f0c066763d08dc9)
 - [Stride](https://www.mintscan.io/stride/ics-validators/stridevaloper157v7tczs40axfgejp2m43kwuzqe0wsy0xxh5gk)
+- [Symphony](https://ping.pub/symphony/staking/symphonyvaloper16fw8awm5pnyg5fssqgnn35w2fp9tuzsk6fu6fu)
 - [Xion](https://explorer.burnt.com/xion-mainnet-1/staking/xionvaloper1crq50flkuw2tkahagwvddzptcdfeq45j3m6yhf)
 - [ZetaChain](https://explorer.zetachain.com/address/0xDca9c632Be7c52E64faF5E94a248B13Eb0977583)
 
