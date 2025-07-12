@@ -43,7 +43,8 @@
 - [Nillion](https://www.mintscan.io/nillion/validators/nillionvaloper17lsgxjnzkp0gm6wt8zudsr09hw2y95aht46p78)
 - [Nolus Protocol](https://ping.pub/nolus/staking/nolusvaloper108wunsvlzm7l6pf456ntw9e84gp3zkv23mydme)
 - [Nomic](https://app.nomic.io/staking?validator=nomic19k66uuramzvll98f6r4ayqmvugats3e5l6zxj8&modal=info)
-- [OmniFlix](https://www.mintscan.io/omniflix/validators/omniflixvaloper1s3achxs70ysg8pf9xqyytu0m4had60khpuccxl/)
+- [OmniFlix](https://www.mintscan.io/omniflix/validators/omniflixvaloper1s3achxs70ysg8pf9xqyytu0m4had60khpuccxl)
+- [OmniFlix](https://omniflix.market/medianodes/mnd0f2f9c2c6ea7c86d02ad6dc8b912cf8) Media node
 - [Oraichain](https://scan.orai.io/validators/oraivaloper1gvk3caqtdnwhff60ndm29tp0m7p8e57zgx588h)
 - [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam/)
 - [Penumbra](https://explorer.penumbra.zone/validator/penumbravalid1lt6083d99s0phj44wd45stgu2juasu582sc02j2w7qqcqfkg5qxsz0vmu5)
