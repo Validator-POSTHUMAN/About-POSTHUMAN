@@ -16,7 +16,6 @@
 - [Beezee](https://ping.pub/beezee/staking/bzevaloper1xq38qxad2eumdaytrejnmypqaay8dtmukz72re)
 - [Celestia](https://www.mintscan.io/celestia/validators/celestiavaloper1snun9qqk9eussvyhkqm03lz6f265ekhnnlw043)
 - [Cosmos Network](https://www.mintscan.io/cosmos/validators/cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv)
-- [Cronos POS](https://cronos-pos.org/explorer/validator/crocncl1hyhmsjr83segu3fmrc7z6uqu4lspztkc3kup2g)
 - [Cyber](https://cyb.ai/network/bostrom/hero/bostromvaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zt56fhc)
 - [Dungeon Chain](https://ping.pub/Dungeonchain/staking/dungeonvaloper1umkse9yx2w9aw5qam0gffatfht3yerllxcque3)
 - [Dymension](https://www.mintscan.io/dymension/validators/dymvaloper1lsjs7pwll7pqm40namkyx3e5qdwg0v0swrshud/)
@@ -57,7 +56,6 @@
 - [Stride](https://www.mintscan.io/stride/ics-validators/stridevaloper157v7tczs40axfgejp2m43kwuzqe0wsy0xxh5gk)
 - [Symphony](https://ping.pub/symphony/staking/symphonyvaloper16fw8awm5pnyg5fssqgnn35w2fp9tuzsk6fu6fu)
 - [TheGraph](https://thegraph.com/explorer/profile/0x0874e792462406dc12ee96b75e52a3bdbba3a123?view=Overview&chain=arbitrum-one)
-- [Xion](https://explorer.burnt.com/xion-mainnet-1/staking/xionvaloper1crq50flkuw2tkahagwvddzptcdfeq45j3m6yhf)
 - [ZetaChain](https://explorer.zetachain.com/address/0xDca9c632Be7c52E64faF5E94a248B13Eb0977583)
 
 ## POSTHUMAN validate several different test-nets (list is not full and always changes)
