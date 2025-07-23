@@ -98,6 +98,8 @@
 - [UX](https://ping.pub/umee/staking/umeevaloper1qa5gkv8a4rzpncgkguv2szh5s83kh69l082zz3) - we stoped to validate UX (ex-Umee) on 20th of May 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A56)
 - [Injective](https://www.mintscan.io/injective/validators/injvaloper1e84fr6cxgcflv3fc9ey6n8425au7zx6wsztrle) - we stop to validate Injective after [Proposal #529](https://www.mintscan.io/injective/proposals/529)
 - [Govgen](https://www.mintscan.io/govgen/validators/govgenvaloper17hkyrkexpzrd2u3erplve4z5am6e0yvhsuyzcn) - we stop to validate GovGen after [Proposal #10](https://app.govgen.io/proposals/10)
+- [Chihuahua](https://www.mintscan.io/chihuahua/validators/chihuahuavaloper1fm68jvjpk0g7dvdq75czjynyszeaduxt5lc0a8) - we stoped to validate Chihuahua on 15th of July 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A61)
+- [Kopi](https://ping.pub/kopi/staking/kopivaloper1d8xl72r2yw2th9z39nz7kwt89eqhtxfatgy88a) - we stoped to validate Kopi on 23th of July 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A64)
 
 ## Archive of Test-nets
 
