@@ -15,7 +15,6 @@
 - [Babylon](https://www.mintscan.io/babylon/validators/bbnvaloper1q3m4m0zmrhkw7zdldehcu8raxsmdpxp0npp52s)
 - [Beezee](https://ping.pub/beezee/staking/bzevaloper1xq38qxad2eumdaytrejnmypqaay8dtmukz72re)
 - [Celestia](https://www.mintscan.io/celestia/validators/celestiavaloper1snun9qqk9eussvyhkqm03lz6f265ekhnnlw043)
-- [Chihuahua](https://www.mintscan.io/chihuahua/validators/chihuahuavaloper1fm68jvjpk0g7dvdq75czjynyszeaduxt5lc0a8)
 - [Cosmos Network](https://www.mintscan.io/cosmos/validators/cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv)
 - [Cronos POS](https://cronos-pos.org/explorer/validator/crocncl1hyhmsjr83segu3fmrc7z6uqu4lspztkc3kup2g)
 - [Cyber](https://cyb.ai/network/bostrom/hero/bostromvaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zt56fhc)
@@ -30,7 +29,6 @@
 - [Humans.ai](https://www.mintscan.io/humans/validators/humanvaloper1ndnf0cd75nvz56feqy23um3mq22nlhe9ggu0uh)
 - [Initia](https://scan.initia.xyz/interwoven-1/validators/initvaloper14d8l6xj7hww6ccp6vr50amq392pgch4w0xthpa)
 - [Juno Network](https://explorer.chainroot.io/juno/validators/junovaloper1e8238v24qccht9mqc2w0r4luq462yxttjzn7qt)
-- [Kopi](https://ping.pub/kopi/staking/kopivaloper1d8xl72r2yw2th9z39nz7kwt89eqhtxfatgy88a)
 - [KYVE Network](https://explorer.kyve.network/kyve/staking/kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7)
 - [KYVE Network](https://app.kyve.network/#/validators/kyve16hnse4c852xg4vxjnqhx648e02z32n72d26nzu) Protocol node
 - [Lava Network](https://lava.explorers.guru/validator/lava@valoper1kwk34225f9eq3sklaf7xws8mc9lhu6sxhh57pj)
