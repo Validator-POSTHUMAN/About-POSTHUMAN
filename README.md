@@ -18,7 +18,7 @@
 - [Cosmos Network](https://www.mintscan.io/cosmos/validators/cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv)
 - [Cyber](https://cyb.ai/network/bostrom/hero/bostromvaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zt56fhc)
 - [Dungeon Chain](https://ping.pub/Dungeonchain/staking/dungeonvaloper1umkse9yx2w9aw5qam0gffatfht3yerllxcque3)
-- [Dymension](https://www.mintscan.io/dymension/validators/dymvaloper1lsjs7pwll7pqm40namkyx3e5qdwg0v0swrshud/)
+- [Dymension](https://dymension.explorers.guru/validator/dymvaloper1lsjs7pwll7pqm40namkyx3e5qdwg0v0swrshud)
 - [Elixir](https://www.elixir.xyz/validators/search/0x1d372E100375C83C8C2D0093f3aD51A0d93b9592)
 - [Elys Network](https://ping.pub/elys/staking/elysvaloper1w6phv0xwya5p2sql4qzlh7h2hdeszf49d9t2gr)
 - [Evmos](https://www.mintscan.io/evmos/validators/evmosvaloper1jk7umxyky5m5dul46t8nxneavlg7eysjr6lfj7)
