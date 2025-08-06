@@ -29,6 +29,10 @@ At the moment, the POSTHUMAN core team consists of 16 people: <br />
 - Lucky 13th member of POSTHUMAN core-team is [Asa](https://twitter.com/AsankaKasum) - community developer, who is responsible for english-speaking community development <br />
 - In August 2024, Evgen left the core-tem, but [Olim](https://github.com/olimdzhon) and [Ann](https://github.com/mobius080) joined the core-team
 - In January 2025, [Marina](https://github.com/gingertigra) and [Misha](https://github.com/mr-vseznaika) became 15th and 16th members of POSTHUMAN core-team
+- On April 18, 2025, Misha [left core-team](https://daodao.zone/dao/juno1mptmak8ecmzwghtd4mep82jdkmdt0n6d8ggcd5hjmrfxasjc0epstkvwha/proposals/A18) by his own wish
+- On August 4, 2025, Ekaterina [left core-team](https://daodao.zone/dao/juno1mptmak8ecmzwghtd4mep82jdkmdt0n6d8ggcd5hjmrfxasjc0epstkvwha/proposals/A20) by her own wish
+
+[The full list of core-team members for the moment](https://github.com/Validator-POSTHUMAN/core-team)
 
 Throughout its history, the POSTHUMAN validator has been actively involved in the development of networks and communities, making its contribution both in technical and humanitarian terms. <br />
 The POSTHUMAN team creates educational video content in English and Russian, organizes events, creates and develops communities, and provides information and technical support for projects at all levels. From the numerous list of contributions, we would like to highlight the following: <br />
@@ -43,9 +47,10 @@ You can get acquainted with already made contributions [here](https://github.com
 In addition to the development of specific networks and communities, the POSTHUMAN validator is involved in the development of Web3 in general, and is one of the initiators and co-founders of [Distributed Validators Synctems](https://github.com/Distributed-Validators-Synctems/Self-Identity), [Validators Schools](https://github.com/Distributed-Validators-Synctems/Validator-School) and [Ambassadors Schools](https://ambassadors.school/) <br />
 
 The POSTHUMAN validator is actively involved in decentralized governance, and is also engaged in the research and development of decentralized governance models. <br />
-You can read a research on the problems of decentralized governance in PoS-networks [here](https://github.com/Antropocosmist/research). <br />
-You can watch POSTHUMAN's speech at the Validator Commons meeting [here](https://youtu.be/YFO_sVo7F64?si=KtRVtxFK7fMxQ3EC) <br />
-You can watch POSTHUMAN's speech on the evolution of decentralized governance [here](https://youtu.be/delHKrRYZJA?si=vbCD0rpaHBHUI5G-) <br />
+- [Research on the problems of decentralized governance in PoS-networks](https://github.com/Antropocosmist/research). <br />
+- [Speech at the Validator Commons meeting](https://youtu.be/YFO_sVo7F64?si=KtRVtxFK7fMxQ3EC) <br />
+- [Speech on the evolution of decentralized governance](https://youtu.be/delHKrRYZJA?si=vbCD0rpaHBHUI5G-) <br />
+- [Speach on the nature of decentralized governance](https://youtu.be/6tJqa9B213s?si=uTAvZLlSScqI207X)
 
 Also, the POSTHUMAN validator is actively involved in developing its own community: <br />
 - [English-speaking community in Telegram](https://t.me/posthumanchat)
