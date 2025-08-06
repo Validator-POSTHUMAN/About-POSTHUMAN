@@ -55,7 +55,7 @@
 - [Starknet](https://voyager.online/staking?validator=0x0327478b645a0c6889e995fe22b1298fae420dba24cc42422f0c066763d08dc9)
 - [Stride](https://www.mintscan.io/stride/ics-validators/stridevaloper157v7tczs40axfgejp2m43kwuzqe0wsy0xxh5gk)
 - [Symphony](https://ping.pub/symphony/staking/symphonyvaloper16fw8awm5pnyg5fssqgnn35w2fp9tuzsk6fu6fu)
-- [Sunrise](https://explorer.nodestake.org/sunrise/staking/sunrisevaloper1a5t392uyw8x0dmul48lfrt6n7emvmzt0svc82e)
+- [Sunrise](https://explorer.nodestake.org/sunrise/staking/sunrisevaloper1a5t392uyw8x0dmul48lfrt6n7emvmzt0svc82e) - NO SLASHING PROTECTION and NO SLASHING REWARDS for this network, until slashing parametrs will be changed
 - [TAC](https://explorer.nodestake.org/tac/staking/tacvaloper1qzck6kuhmnk57v59mwefu5gpc9e9cr6qfr5un2)
 - [TheGraph](https://thegraph.com/explorer/profile/0x0874e792462406dc12ee96b75e52a3bdbba3a123?view=Overview&chain=arbitrum-one)
 - [ZetaChain](https://explorer.zetachain.com/address/0xDca9c632Be7c52E64faF5E94a248B13Eb0977583)
