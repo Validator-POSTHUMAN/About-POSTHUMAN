@@ -41,7 +41,7 @@ The POSTHUMAN team creates educational video content in English and Russian, org
 - Hosting weekly community video meetings that have been running for over 80 weeks! All recordings can be found [here](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G&si=mYej3AHwTx6460dt) <br />
 - Creation of a video educational course [Cosmos Academy](https://youtube.com/playlist?list=PLgQFzABJoJYwqcsFHZx0icgcYOZRgao3d&si=Y3fHWvpW8rokK5cq) <br />
 
-A list of services that the POSTHUMAN validator provides to networks can be found [here](https://posthuman.digital/contributions). <br />
+A list of services that the POSTHUMAN validator provides to networks can be found [here](https://posthuman.digital/contributions) <br />
 You can get acquainted with already made contributions [here](https://github.com/Validator-POSTHUMAN/contributions) (this list is constantly updated). <br />
 
 In addition to the development of specific networks and communities, the POSTHUMAN validator is involved in the development of Web3 in general, and is one of the initiators and co-founders of [Distributed Validators Synctems](https://github.com/Distributed-Validators-Synctems/Self-Identity), [Validators Schools](https://github.com/Distributed-Validators-Synctems/Validator-School) and [Ambassadors Schools](https://ambassadors.school/) <br />
@@ -52,9 +52,10 @@ The POSTHUMAN validator is actively involved in decentralized governance, and is
 - [Speech on the evolution of decentralized governance](https://youtu.be/delHKrRYZJA?si=vbCD0rpaHBHUI5G-) <br />
 - [Speach on the nature of decentralized governance](https://youtu.be/6tJqa9B213s?si=uTAvZLlSScqI207X)
 
-Also, the POSTHUMAN validator is actively involved in developing its own community: <br />
+Also, the POSTHUMAN validator is actively involved in the developing of its own community: <br />
 - [English-speaking community in Telegram](https://t.me/posthumanchat)
 - [Russian-speaking community in Telegram](https://t.me/Crypto_Base_Chat)
+- [POSTHUMAN Decentralized Autonomous Synchronization](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/home)
 - [Twitter](https://twitter.com/POSTHUMAN_DVS)
 - [Discord](https://discord.gg/zZJXWnzKnP)
 - [Medium](https://medium.com/@anthropocosmist)
