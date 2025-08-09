@@ -62,6 +62,8 @@
 
 ## POSTHUMAN validate several different test-nets (list is not full and always changes)
 
+- [0G]()
+- [0G storage node]()
 - [Babylon](https://testnet.itrocket.net/babylon/staking/bbnvaloper1hvx5j97cwyvnpztpynk2d9m7jqqax46qks8us5)
 - [Cosmos Network](https://www.mintscan.io/ics-testnet-provider/validators/cosmosvaloper1qp4y2esacc2jmepxcqlw440p6xas8j6t9g438v)
 - [Celestia](https://testnet.celestia.explorers.guru/validator/celestiavaloper1sa5mgyskjzpx6znnd6jxkn59g02hm6c4p8a59v)
@@ -102,8 +104,7 @@
 
 ## Archive of Test-nets
 
-- [0G](https://testnet.0g.explorers.guru/validator/0gvaloper1559d4r6kdjj4unqaz8stsx7lqryu34nmf6aqse)
-- [0G storage node](https://chainscan-newton.0g.ai/address/0xa50ada8f566ca55e4c1d11e0b81bdf00c9c8d67b)
+
 - [Allora](https://testnet.allora.explorers.guru/validator/allovaloper1vndxm2lgkkdn3wnadzcy0v8agauz7fpcv73hap)
 - [Dill](https://alps.dill.xyz/validators?p=20&ps=25&pubkey=0xb1e8c3611a36ea3ad69c8e7831c95284ced4d27f6ea7d28037b63214d9004a5303ea19c3767ed3d95307c7d4e7212142)
 - [Fiamma]()
