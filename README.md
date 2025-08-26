@@ -61,7 +61,7 @@
 
 ## POSTHUMAN validate several different test-nets (list is not full and always changes)
 
-- [0G]()
+- [0G](https://0g.astrostake.xyz/validators/0x36ba6550beef755faf96e2765c2f973be7d290cd)
 - [0G storage node]()
 - [Aztec](https://dashtec.xyz/validators/0x3387eb8b4fe2f3bfb5e048889f18719201c63da0)
 - [Babylon](https://testnet.itrocket.net/babylon/staking/bbnvaloper1hvx5j97cwyvnpztpynk2d9m7jqqax46qks8us5)
