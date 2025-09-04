@@ -31,6 +31,7 @@ At the moment, the POSTHUMAN core team consists of 16 people: <br />
 - In January 2025, [Marina](https://github.com/gingertigra) and [Misha](https://github.com/mr-vseznaika) became 15th and 16th members of POSTHUMAN core-team
 - On April 18, 2025, Misha [left core-team](https://daodao.zone/dao/juno1mptmak8ecmzwghtd4mep82jdkmdt0n6d8ggcd5hjmrfxasjc0epstkvwha/proposals/A18) by his own wish
 - On August 4, 2025, Ekaterina [left core-team](https://daodao.zone/dao/juno1mptmak8ecmzwghtd4mep82jdkmdt0n6d8ggcd5hjmrfxasjc0epstkvwha/proposals/A20) by her own wish
+- On September 4, 2025. [Kromsten](https://github.com/kromsten) joined the team as full-staak developer, who is responsible for tooling and dApps
 
 [The full list of core-team members for the moment](https://github.com/Validator-POSTHUMAN/core-team)
 
