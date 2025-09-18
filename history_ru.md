@@ -31,6 +31,9 @@
 - В Январе 2025, [Марина](https://github.com/gingertigra) и [Миша](https://github.com/mr-vseznaika) стали 15ой и 16ым участниками основной ккоманды POSTHUMAN
 - 18 апреля 2025, Миша [покинул основную команду](https://daodao.zone/dao/juno1mptmak8ecmzwghtd4mep82jdkmdt0n6d8ggcd5hjmrfxasjc0epstkvwha/proposals/A18) по собственному желанию
 - 4 августа 2025, Екатерина [покинула основную команду](https://daodao.zone/dao/juno1mptmak8ecmzwghtd4mep82jdkmdt0n6d8ggcd5hjmrfxasjc0epstkvwha/proposals/A20) по собственному желанию
+- 4 сентября 2025. [Кромстен](https://github.com/kromsten) присоеденился к команде в качестве фул-стэк разработчика, отвечающего за инструменты и dApps
+- 15 сентября 2025, Валентин [покинул основную команду](https://daodao.zone/dao/juno1mptmak8ecmzwghtd4mep82jdkmdt0n6d8ggcd5hjmrfxasjc0epstkvwha/proposals/A23) по собственному желанию
+- 19 сентября 2025, Данил [покинул основную команду](https://daodao.zone/dao/juno1mptmak8ecmzwghtd4mep82jdkmdt0n6d8ggcd5hjmrfxasjc0epstkvwha/proposals/A24) по собственному желанию
 
 На протяжении всей истории существования, валидатор POSTHUMAN принимает активное участие в развитии сетей и сообществ, делая свой вклад как в техническом, так и в гуманитарном плане. <br />
 Команда POSTHUMAN создаёт образовательный видео-контент на английском и русском языке, занимается проведением мероприятий, созданием и развитием сообществ, а также осуществляет информационную и техническую поддержку проектов на всех уровнях. Из многочисленного списка контрибьюций, хотелось бы выделить следующие: <br />
