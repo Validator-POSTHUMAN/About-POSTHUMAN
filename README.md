@@ -2,7 +2,7 @@
 
 [Web-page](https://posthuman.digital) | [History](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/history.md) <br />
 
-## POSTHUMAN responsible 55 different main-net validators
+## POSTHUMAN responsible 54 different main-net validators
 
 - [Agoric](https://www.mintscan.io/agoric/validators/agoricvaloper13yy5mk8ek8p5kk3e8nleucw003nt2vmzxrdx36/)
 - [Akash Network](https://www.mintscan.io/akash/validators/akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk/)
@@ -86,7 +86,6 @@
 - [Crescent Network](https://www.mintscan.io/crescent/validators/crevaloper12yudzhed4cqjpwkv52hwut7a5xn8h7j97gqhaq) - network was halt by the proposal in Crescent Network
 - [Furya](https://explorer.posthuman.digital/furya/staking/furyavaloper1efptgq00hngrlgz2gc66g53jslw5eqknd55m02) - we stoped to validate Furya on 20th of May 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A58)
 - [SifChain](https://atomscan.com/sifchain/validators/sifvaloper1lkctf0y8stlvshdkhra0lqcafd5hsq9aad35nm) - we stoped to validate SifChain on 28th of September 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A51)
-- [Stride](https://www.mintscan.io/stride/ics-validators/stridevaloper157v7tczs40axfgejp2m43kwuzqe0wsy0xxh5gk) - we stop to validate Stride after [proposal 1014](https://www.mintscan.io/cosmos/proposals/1014)
 - [Ki Chain](https://www.mintscan.io/ki-chain/validators/kivaloper1g2sr6x8hrtwwsaaqu8p8r7dzdfugdcsal08gq8) - we stoped to validate KiChain on 6th of October 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A52)
 - [Lambda Network](https://mainnet.manticore.team/lambda/staking/lambvaloper15kvgg5y9v2dwhnssjmye2nq966jksjq82phkn5) migrated to own Ethereum L2
 - [Starname](https://www.mintscan.io/starname/validators/starvaloper1euslp8c2qadgs6jy6klwv6f332mj426qje6vsn) - we stoped to validate Starname on 3rd of March 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A54)
@@ -101,6 +100,7 @@
 - [Kopi](https://ping.pub/kopi/staking/kopivaloper1d8xl72r2yw2th9z39nz7kwt89eqhtxfatgy88a) - we stoped to validate Kopi on 23rd of July 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A64)
 - [Qwoyn](https://explorer.stavr.tech/Qwoyn-Mainnet/staking/qwoynvaloper107f9lr00cnsn7tl0v7mvqqrygwqtqw3le8uyra) - we stoped to validate Qwoyn on 24th of September 2025, by the [wish of the community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A68)
 - [Evmos](https://ping.pub/evmos/staking/evmosvaloper1jk7umxyky5m5dul46t8nxneavlg7eysjr6lfj7) - we stoped to validate Evmos on 24th of September 2025, by the [wish of the community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A68)
+- [Stride](https://www.mintscan.io/stride/ics-validators/stridevaloper157v7tczs40axfgejp2m43kwuzqe0wsy0xxh5gk) - we stop to validate Stride after [proposal 1014](https://www.mintscan.io/cosmos/proposals/1014)
 
 ## Archive of Test-nets
 
