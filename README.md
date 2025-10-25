@@ -50,7 +50,7 @@
 - [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw)
 - [Planq](https://ping.pub/planq/staking/plqvaloper16td3fn39hv0a0haaayfzl28rgfdfn8yt08jg38)
 - [QuickSilver](https://explorer.quicksilver.zone/validators/quickvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fe7umkd)
-- [Secret Network](https://www.mintscan.io/secret/validators/secretvaloper1f8chr3y3s9h8g4vc5pg8wvzzhfy3hcxm0re5zc)
+- [Secret Network](https://zonescan.io/secret/validators/secretvaloper1f8chr3y3s9h8g4vc5pg8wvzzhfy3hcxm0re5zc)
 - [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper14ftwwcfvhnp3qvxawesjan5duh8rmrkrzdvquy)
 - [Starknet](https://voyager.online/staking?validator=0x0327478b645a0c6889e995fe22b1298fae420dba24cc42422f0c066763d08dc9)
 - [Symphony](https://ping.pub/symphony/staking/symphonyvaloper16fw8awm5pnyg5fssqgnn35w2fp9tuzsk6fu6fu)
