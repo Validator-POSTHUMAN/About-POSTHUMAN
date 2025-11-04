@@ -34,6 +34,7 @@ At the moment, the POSTHUMAN core team consists of 16 people: <br />
 - On September 4, 2025. [Kromsten](https://github.com/kromsten) joined the team as full-staak developer, who is responsible for tooling and dApps
 - On September 15, 2025, Valentin [left core-team](https://daodao.zone/dao/juno1mptmak8ecmzwghtd4mep82jdkmdt0n6d8ggcd5hjmrfxasjc0epstkvwha/proposals/A23) by his own wish
 - On September 19, 2025, Danil [left core-team](https://daodao.zone/dao/juno1mptmak8ecmzwghtd4mep82jdkmdt0n6d8ggcd5hjmrfxasjc0epstkvwha/proposals/A24) by his own wish
+- On November 4, 2025, Vova [left core-team](https://daodao.zone/dao/juno1mptmak8ecmzwghtd4mep82jdkmdt0n6d8ggcd5hjmrfxasjc0epstkvwha/proposals/A25) by his own wish
 
 [The full list of core-team members for the moment](https://github.com/Validator-POSTHUMAN/core-team)
 
