@@ -26,7 +26,6 @@
 - [FirmaChain](https://explorer.firmachain.dev/validators/firmavaloper143v9wpr870kt22gmtxgl7tc72twkd6z48h5yaj)
 - [Fuel](https://fuel-seq.simplystaking.xyz/fuel-mainnet/staking/fuelsequencervaloper1w8wrpz8n2z08625r63jdc4snznj6h8lxru5lcz)
 - [Humans.ai](https://www.mintscan.io/humans/validators/humanvaloper1ndnf0cd75nvz56feqy23um3mq22nlhe9ggu0uh)
-- [Initia](https://scan.initia.xyz/interwoven-1/validators/initvaloper14d8l6xj7hww6ccp6vr50amq392pgch4w0xthpa)
 - [Intento](https://explorer.nodestake.org/intento/staking/intovaloper1a6qyup7zgyj53r43tq2ngqrrvx70fqhycucrmn)
 - [IoTeX](https://stake.iotex.io/delegate/posthuman)
 - [Juno Network](https://explorer.chainroot.io/juno/validators/junovaloper1e8238v24qccht9mqc2w0r4luq462yxttjzn7qt)
@@ -73,7 +72,7 @@
 - [Warden](https://testnet.itrocket.net/warden/staking/wardenvaloper12de4mzezcvhauqxcszrhkdagwv8lwqs9uvla75)
 
 ## Archive of Main-nets
-
+- [Initia](https://scan.initia.xyz/interwoven-1/validators/initvaloper14d8l6xj7hww6ccp6vr50amq392pgch4w0xthpa) - we stop to validate Initia after [Proposal #60](https://scan.initia.xyz/interwoven-1/proposals/60)
 - [Archway](https://www.mintscan.io/archway/validators/archwayvaloper1jy9kqql29lefyddmha9xla39qwqv8zxdzep27p) - we stop to validate Archway after [Proposal #51](https://www.mintscan.io/archway/proposals/51)
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1ckcup3mdvztrps2m788lpytxey47fyn9gkqhfw) - we stoped to validate Rizon on 13th of March 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A34)
 - [MediBloc](https://www.mintscan.io/medibloc/validators/panaceavaloper190njxj69lmwdwjhhp0fw5kqsxsu6g876hzgp6z) - we stoped to validate Mediblock on 13th of March 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A35)
