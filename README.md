@@ -72,7 +72,6 @@
 - [Warden](https://testnet.itrocket.net/warden/staking/wardenvaloper12de4mzezcvhauqxcszrhkdagwv8lwqs9uvla75)
 
 ## Archive of Main-nets
-- [Initia](https://scan.initia.xyz/interwoven-1/validators/initvaloper14d8l6xj7hww6ccp6vr50amq392pgch4w0xthpa) - we stop to validate Initia after [Proposal #60](https://scan.initia.xyz/interwoven-1/proposals/60)
 - [Archway](https://www.mintscan.io/archway/validators/archwayvaloper1jy9kqql29lefyddmha9xla39qwqv8zxdzep27p) - we stop to validate Archway after [Proposal #51](https://www.mintscan.io/archway/proposals/51)
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1ckcup3mdvztrps2m788lpytxey47fyn9gkqhfw) - we stoped to validate Rizon on 13th of March 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A34)
 - [MediBloc](https://www.mintscan.io/medibloc/validators/panaceavaloper190njxj69lmwdwjhhp0fw5kqsxsu6g876hzgp6z) - we stoped to validate Mediblock on 13th of March 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A35)
@@ -93,6 +92,7 @@
 - [Migaloo](https://migaloo.explorers.guru/validator/migaloovaloper13wargdgtlflxrw2ad4ydy7zrq37crl6f47w6uh) - we stoped to validate Migaloo on 15th of April 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A55)
 - [Odin Protocol](https://explorer.posthuman.digital/odin/staking/odinvaloper1wuwhanclwh9ckpe6z6480t3pjjpk7dsj2trk9p) - we stoped to validate Odin Protocol on 6th of May 2025, because of [Official Announcement: ODIN Protocol is Closing Operations](https://x.com/odinprotocol/status/1919352164196995442)
 - [UX](https://ping.pub/umee/staking/umeevaloper1qa5gkv8a4rzpncgkguv2szh5s83kh69l082zz3) - we stoped to validate UX (ex-Umee) on 20th of May 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A56)
+- [Initia](https://scan.initia.xyz/interwoven-1/validators/initvaloper14d8l6xj7hww6ccp6vr50amq392pgch4w0xthpa) - we stop to validate Initia after [Proposal #60](https://scan.initia.xyz/interwoven-1/proposals/60)
 - [Injective](https://www.mintscan.io/injective/validators/injvaloper1e84fr6cxgcflv3fc9ey6n8425au7zx6wsztrle) - we stop to validate Injective after [Proposal #529](https://www.mintscan.io/injective/proposals/529)
 - [Govgen](https://www.mintscan.io/govgen/validators/govgenvaloper17hkyrkexpzrd2u3erplve4z5am6e0yvhsuyzcn) - we stop to validate GovGen after [Proposal #10](https://app.govgen.io/proposals/10)
 - [Chihuahua](https://www.mintscan.io/chihuahua/validators/chihuahuavaloper1fm68jvjpk0g7dvdq75czjynyszeaduxt5lc0a8) - we stoped to validate Chihuahua on 15th of July 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A61)
