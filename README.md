@@ -2,7 +2,7 @@
 
 [Web-page](https://posthuman.digital) | [History](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/history.md) <br />
 
-## POSTHUMAN responsible 54 different main-net validators
+## POSTHUMAN responsible 52 different main-net validators
 
 - [Agoric](https://www.mintscan.io/agoric/validators/agoricvaloper13yy5mk8ek8p5kk3e8nleucw003nt2vmzxrdx36/)
 - [Akash Network](https://www.mintscan.io/akash/validators/akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk/)
@@ -20,7 +20,6 @@
 - [Cyber](https://cyb.ai/network/bostrom/hero/bostromvaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zt56fhc)
 - [Dungeon Chain](https://ping.pub/Dungeonchain/staking/dungeonvaloper1umkse9yx2w9aw5qam0gffatfht3yerllxcque3)
 - [Dymension](https://dymension.explorers.guru/validator/dymvaloper1lsjs7pwll7pqm40namkyx3e5qdwg0v0swrshud)
-- [Elixir](https://www.elixir.xyz/validators/search/0x1d372E100375C83C8C2D0093f3aD51A0d93b9592)
 - [Elys Network](https://ping.pub/elys/staking/elysvaloper1w6phv0xwya5p2sql4qzlh7h2hdeszf49d9t2gr)
 - [Fetch.ai](https://www.mintscan.io/fetchai/validators/fetchvaloper1y02hlwucl6csz4z02ksn46gzdkmref927l4mug)
 - [FirmaChain](https://explorer.firmachain.dev/validators/firmavaloper143v9wpr870kt22gmtxgl7tc72twkd6z48h5yaj)
