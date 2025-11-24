@@ -4,7 +4,7 @@ The POSTHUMAN validator began its history in 2019, with the validation of the [C
 Initially, the validator was called Immortal, but after the first jail, it became clear that validator was still far away from immortality, and the Immortal validator was renamed POSTHUMAN. <br />
 
 On January 21, 2021, the POSTHUMAN validator began validating the main network [Starname](https://www.mintscan.io/starname/transactions/1749AB38438428ED84346EFBF488DCB15C1729CAC6B8072EAB4486B36D1D6C9C) <br />
-At the moment (September 2023), POSTHUMAN validates 40+ networks, and is one of the leading validators in terms of the number of individual delegators. <br />
+At the moment (November 2025), POSTHUMAN validates 50+ networks, and is one of the leading validators in terms of the number of individual delegators. <br />
 The full list of networks is listed [here](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN) <br />
 
 At the moment, the POSTHUMAN validator is under the decentralized governance of the POSTHUMAN delegator community. <br />
