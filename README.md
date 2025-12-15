@@ -63,10 +63,11 @@
 ## POSTHUMAN validate several different test-nets (list is not full and always changes)
 
 - [Atom One](https://testnet.explorer.allinbits.services/atomone-testnet-1/staking/atonevaloper15az4z86h2er3twzgy64h6ys7nr5726lwhy7nrj)
-- [Aztec](https://dashtec.xyz/validators/0x3387eb8b4fe2f3bfb5e048889f18719201c63da0)
 - [Babylon](https://testnet.itrocket.net/babylon/staking/bbnvaloper1hvx5j97cwyvnpztpynk2d9m7jqqax46qks8us5)
-- [Cosmos Network](https://www.mintscan.io/ics-testnet-provider/validators/cosmosvaloper1qp4y2esacc2jmepxcqlw440p6xas8j6t9g438v)
+- [Canton](https://lighthouse.devnet.cantonloop.com/validators/POSTHUMAN%3A%3A12202ef3444efcdad0cc4a25c458235d0a24c34765b0ec5beb543d94c4f063583636) Devnet
+- [Canton](https://lighthouse.testnet.cantonloop.com/validators/POSTHUMAN%3A%3A122085c0a9d210389c49e8c3d104905179cb703e0840a9ce0b84632c22324dd36697) Testnet
 - [Celestia](https://www.mintscan.io/celestia-testnet/validators/celestiavaloper1sa5mgyskjzpx6znnd6jxkn59g02hm6c4p8a59v)
+- [Cosmos Network](https://www.mintscan.io/ics-testnet-provider/validators/cosmosvaloper1qp4y2esacc2jmepxcqlw440p6xas8j6t9g438v)
 - [Elys](https://testnet.itrocket.net/elys/staking/elysvaloper1w6phv0xwya5p2sql4qzlh7h2hdeszf49d9t2gr)
 - [LidoxSSV](https://hoodi.explorer.ssv.network/operators/243)
 - [Neutron](https://www.mintscan.io/neutron-testnet/validators/neutronvaloper1g0xlsmw83rtfla5khhrksa3tnmr5mdwu4aj5ue)
@@ -108,6 +109,7 @@
 - [0G](https://0g.astrostake.xyz/validators/0x36ba6550beef755faf96e2765c2f973be7d290cd)
 - [0G storage node]()
 - [Allora](https://testnet.allora.explorers.guru/validator/allovaloper1vndxm2lgkkdn3wnadzcy0v8agauz7fpcv73hap)
+- [Aztec](https://dashtec.xyz/validators/0x3387eb8b4fe2f3bfb5e048889f18719201c63da0)
 - [Dill](https://alps.dill.xyz/validators?p=20&ps=25&pubkey=0xb1e8c3611a36ea3ad69c8e7831c95284ced4d27f6ea7d28037b63214d9004a5303ea19c3767ed3d95307c7d4e7212142)
 - [Fiamma]()
 - [Galactica](https://explorer.nodestake.org/galactica-testnet/staking/galavaloper18e8zes2y0n33esjhz0y7uqwurl83phht7r7fhn)
