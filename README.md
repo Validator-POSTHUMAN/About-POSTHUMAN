@@ -70,6 +70,7 @@
 - [Cosmos Network](https://www.mintscan.io/ics-testnet-provider/validators/cosmosvaloper1qp4y2esacc2jmepxcqlw440p6xas8j6t9g438v)
 - [Elys](https://testnet.itrocket.net/elys/staking/elysvaloper1w6phv0xwya5p2sql4qzlh7h2hdeszf49d9t2gr)
 - [LidoxSSV](https://hoodi.explorer.ssv.network/operators/243)
+- [Lumen](https://explorer.mekonglabs.tech/lumen-mainnet/staking/lmnvaloper1m574sszvqxqpxwyf7huqdft54gu2897hprtder)
 - [Neutron](https://www.mintscan.io/neutron-testnet/validators/neutronvaloper1g0xlsmw83rtfla5khhrksa3tnmr5mdwu4aj5ue)
 - [Odiseo](https://explorer.nodestake.org/odiseo-testnet/staking/odiseovaloper1kmngk7yul4q66hxx6gg9x6p55kj0drcay7qhu4)
 - [Warden](https://testnet.itrocket.net/warden/staking/wardenvaloper12de4mzezcvhauqxcszrhkdagwv8lwqs9uvla75)
