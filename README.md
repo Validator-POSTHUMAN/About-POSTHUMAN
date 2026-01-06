@@ -33,6 +33,7 @@
 - [Lava Network](https://lava.explorers.guru/validator/lava@valoper1kwk34225f9eq3sklaf7xws8mc9lhu6sxhh57pj)
 - [Lava Network](https://info-mainnet.lavanet.xyz/provider/lava@1tq00pyf4z324rsmv7yawlf0750la8wnj5znm5m#health) RPC provider
 - [LidoxSSV](https://explorer.ssv.network/operators/618)
+- [Lumen](https://explorer.mekonglabs.tech/lumen-mainnet/staking/lmnvaloper1m574sszvqxqpxwyf7huqdft54gu2897hprtder)
 - [Mina](https://minascan.io/mainnet/validator/B62qrnPdz8HpsDJfGHirDLpVrN2VeyeitdaTKBaccWtHpeVW9Hgwi75/delegations)
 - [Namada](https://namada.valopers.com/validators/tnam1q8azt2cpqmc6tr2gvg5v62e4jr0t9327yupaf595)
 - [Neutron](https://www.mintscan.io/neutron/validators/neutronvaloper1md0k6m8y58w8u98x82kjah7r5zcajw7c5v5ypa)
@@ -70,7 +71,6 @@
 - [Cosmos Network](https://www.mintscan.io/ics-testnet-provider/validators/cosmosvaloper1qp4y2esacc2jmepxcqlw440p6xas8j6t9g438v)
 - [Elys](https://testnet.itrocket.net/elys/staking/elysvaloper1w6phv0xwya5p2sql4qzlh7h2hdeszf49d9t2gr)
 - [LidoxSSV](https://hoodi.explorer.ssv.network/operators/243)
-- [Lumen](https://explorer.mekonglabs.tech/lumen-mainnet/staking/lmnvaloper1m574sszvqxqpxwyf7huqdft54gu2897hprtder)
 - [Neutron](https://www.mintscan.io/neutron-testnet/validators/neutronvaloper1g0xlsmw83rtfla5khhrksa3tnmr5mdwu4aj5ue)
 - [Odiseo](https://explorer.nodestake.org/odiseo-testnet/staking/odiseovaloper1kmngk7yul4q66hxx6gg9x6p55kj0drcay7qhu4)
 - [Warden](https://testnet.itrocket.net/warden/staking/wardenvaloper12de4mzezcvhauqxcszrhkdagwv8lwqs9uvla75)
