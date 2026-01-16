@@ -2,11 +2,10 @@
 
 [Web-page](https://posthuman.digital) | [History](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/history.md) <br />
 
-## POSTHUMAN responsible 51 different main-net validators
+## POSTHUMAN responsible 48 different main-net validators
 
 - [Agoric](https://www.mintscan.io/agoric/validators/agoricvaloper13yy5mk8ek8p5kk3e8nleucw003nt2vmzxrdx36/)
 - [Akash Network](https://www.mintscan.io/akash/validators/akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk/)
-- [AssetMantle](https://explorer.assetmantle.one/validators/mantlevaloper1xrvhlxasg3duvmz82gn5gggpc8wwry7luclvx9)
 - [Atom One](https://www.mintscan.io/atomone/validators/atonevaloper1vcp7pkg8sk0n8ylhezxxs8qqrnwfld4dsv2sew)
 - [Aura Network](https://ping.pub/aura/staking/auravaloper15pzl0s6ym85qx4yeq29rflp702wtx3dntle05a)
 - [Avalanche](https://avascan.info/staking/validator/NodeID-5uYQ6R4WF7kmGfraM9LtsUJG2CDmh78Lf)
@@ -36,7 +35,6 @@
 - [Mina](https://minascan.io/mainnet/validator/B62qrnPdz8HpsDJfGHirDLpVrN2VeyeitdaTKBaccWtHpeVW9Hgwi75/delegations)
 - [Namada](https://namada.valopers.com/validators/tnam1q8azt2cpqmc6tr2gvg5v62e4jr0t9327yupaf595)
 - [Neutron](https://www.mintscan.io/neutron/validators/neutronvaloper1md0k6m8y58w8u98x82kjah7r5zcajw7c5v5ypa)
-- [Nibiru](https://explorer.nibiru.fi/cataclysm-1/staking/nibivaloper1wsx2xrz86lsq585f4002uq3xwlla88y5dw38t6)
 - [Nolus Protocol](https://ping.pub/nolus/staking/nolusvaloper108wunsvlzm7l6pf456ntw9e84gp3zkv23mydme)
 - [Nomic](https://app.nomic.io/staking?validator=nomic19k66uuramzvll98f6r4ayqmvugats3e5l6zxj8&modal=info)
 - [OmniFlix](https://ping.pub/omniflixhub/staking/omniflixvaloper1s3achxs70ysg8pf9xqyytu0m4had60khpuccxl)
@@ -45,7 +43,6 @@
 - [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam/)
 - [Penumbra](https://explorer.penumbra.zone/validator/penumbravalid1lt6083d99s0phj44wd45stgu2juasu582sc02j2w7qqcqfkg5qxsz0vmu5)
 - [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw)
-- [Planq](https://ping.pub/planq/staking/plqvaloper16td3fn39hv0a0haaayfzl28rgfdfn8yt08jg38)
 - [Provenance](https://explorer.provenance.io/validator/pbvaloper1fvsqqncjknzhmq0j6z0a3e8rjgudc3uw2xulnt)
 - [QuickSilver](https://explorer.quicksilver.zone/validators/quickvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fe7umkd)
 - [Secret Network](https://zonescan.io/secret/validators/secretvaloper1f8chr3y3s9h8g4vc5pg8wvzzhfy3hcxm0re5zc)
@@ -104,6 +101,9 @@
 - [Stride](https://www.mintscan.io/stride/ics-validators/stridevaloper157v7tczs40axfgejp2m43kwuzqe0wsy0xxh5gk) - we stop to validate Stride after [proposal 1014](https://www.mintscan.io/cosmos/proposals/1014)
 - [Nillion](https://www.mintscan.io/nillion/validators/nillionvaloper17lsgxjnzkp0gm6wt8zudsr09hw2y95aht46p78) - we stoped to validate Nillion, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A71)
 - [Elys Network](https://ping.pub/elys/staking/elysvaloper1w6phv0xwya5p2sql4qzlh7h2hdeszf49d9t2gr) - we stoped to validate Elys Network, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A72)
+- [Planq Network](https://ping.pub/planq/staking/plqvaloper16td3fn39hv0a0haaayfzl28rgfdfn8yt08jg38) - we stoped to validate Planq Network, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A73)
+- [Nibiru](https://explorer.nibiru.fi/cataclysm-1/staking/nibivaloper1wsx2xrz86lsq585f4002uq3xwlla88y5dw38t6) - we stoped to validate Nibiru, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A74)
+- [AssetMantle](https://explorer.assetmantle.one/validators/mantlevaloper1xrvhlxasg3duvmz82gn5gggpc8wwry7luclvx9)  - we stoped to validate AssetMantle, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A75)
 
 ## Archive of Test-nets
 
