@@ -2,7 +2,7 @@
 
 [Web-page](https://posthuman.digital) | [History](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/history.md) <br />
 
-## POSTHUMAN responsible 48 different main-net validators
+## POSTHUMAN responsible 47 different main-net validators
 
 - [Agoric](https://www.mintscan.io/agoric/validators/agoricvaloper13yy5mk8ek8p5kk3e8nleucw003nt2vmzxrdx36/)
 - [Akash Network](https://www.mintscan.io/akash/validators/akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk/)
@@ -37,8 +37,6 @@
 - [Neutron](https://www.mintscan.io/neutron/validators/neutronvaloper1md0k6m8y58w8u98x82kjah7r5zcajw7c5v5ypa)
 - [Nolus Protocol](https://ping.pub/nolus/staking/nolusvaloper108wunsvlzm7l6pf456ntw9e84gp3zkv23mydme)
 - [Nomic](https://app.nomic.io/staking?validator=nomic19k66uuramzvll98f6r4ayqmvugats3e5l6zxj8&modal=info)
-- [OmniFlix](https://ping.pub/omniflixhub/staking/omniflixvaloper1s3achxs70ysg8pf9xqyytu0m4had60khpuccxl)
-- [OmniFlix](https://omniflix.market/medianodes/mnd0f2f9c2c6ea7c86d02ad6dc8b912cf8) Media node
 - [Oraichain](https://scan.orai.io/validators/oraivaloper1gvk3caqtdnwhff60ndm29tp0m7p8e57zgx588h)
 - [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam/)
 - [Penumbra](https://explorer.penumbra.zone/validator/penumbravalid1lt6083d99s0phj44wd45stgu2juasu582sc02j2w7qqcqfkg5qxsz0vmu5)
@@ -103,6 +101,8 @@
 - [Planq Network](https://ping.pub/planq/staking/plqvaloper16td3fn39hv0a0haaayfzl28rgfdfn8yt08jg38) - we stoped to validate Planq Network, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A73)
 - [Nibiru](https://explorer.nibiru.fi/cataclysm-1/staking/nibivaloper1wsx2xrz86lsq585f4002uq3xwlla88y5dw38t6) - we stoped to validate Nibiru, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A74)
 - [AssetMantle](https://explorer.assetmantle.one/validators/mantlevaloper1xrvhlxasg3duvmz82gn5gggpc8wwry7luclvx9)  - we stoped to validate AssetMantle, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A75)
+- [OmniFlix](https://ping.pub/omniflixhub/staking/omniflixvaloper1s3achxs70ysg8pf9xqyytu0m4had60khpuccxl) - migration to EVM
+- [OmniFlix](https://omniflix.market/medianodes/mnd0f2f9c2c6ea7c86d02ad6dc8b912cf8) Media node - migration to EVM
 
 ## Archive of Test-nets
 
