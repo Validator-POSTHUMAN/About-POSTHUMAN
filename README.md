@@ -2,7 +2,7 @@
 
 [Web-page](https://posthuman.digital) | [History](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/history.md) <br />
 
-## POSTHUMAN responsible 47 different main-net validators
+## POSTHUMAN responsible 48 different main-net validators
 
 - [Agoric](https://www.mintscan.io/agoric/validators/agoricvaloper13yy5mk8ek8p5kk3e8nleucw003nt2vmzxrdx36/)
 - [Akash Network](https://www.mintscan.io/akash/validators/akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk/)
@@ -14,6 +14,7 @@
 - [Babylon](https://www.mintscan.io/babylon/validators/bbnvaloper1q3m4m0zmrhkw7zdldehcu8raxsmdpxp0npp52s)
 - [Beezee](https://ping.pub/beezee/staking/bzevaloper1xq38qxad2eumdaytrejnmypqaay8dtmukz72re)
 - [Bitway](https://mainnet.itrocket.net/bitway/staking/bitwayvaloper1qqwp68scpqz3qrq3ru8p5rsuzsy3w9caqgqp2zchpqf32zsdqgt3znlg0ax)
+- [Canton Network](https://www.cantonscan.com/party/POSTHUMAN-validator-1%3A%3A1220c96e07336860952d541206b74e38779ecfa2271b48de6df6015bdb1e285d53c1)
 - [Celestia](https://www.mintscan.io/celestia/validators/celestiavaloper1snun9qqk9eussvyhkqm03lz6f265ekhnnlw043)
 - [Cosmos Network](https://www.mintscan.io/cosmos/validators/cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv)
 - [Cyber](https://cyb.ai/network/bostrom/hero/bostromvaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zt56fhc)
