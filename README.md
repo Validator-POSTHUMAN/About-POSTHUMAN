@@ -66,7 +66,7 @@
 - [LidoxSSV](https://hoodi.explorer.ssv.network/operators/243)
 - [Neutron](https://www.mintscan.io/neutron-testnet/validators/neutronvaloper1g0xlsmw83rtfla5khhrksa3tnmr5mdwu4aj5ue)
 - [Odiseo](https://explorer.nodestake.org/odiseo-testnet/staking/odiseovaloper1kmngk7yul4q66hxx6gg9x6p55kj0drcay7qhu4)
-- [Solana](https://www.validators.app/validators/M7Pcv3j8KpX8ZAkeSsvJnexgKrZbBAaMEcRTvf6t2Em)
+- [Solana](https://www.validators.app/validators/M7Pcv3j8KpX8ZAkeSsvJnexgKrZbBAaMEcRTvf6t2Em?locale=en&network=testnet&order=&refresh=)
 - [Warden](https://testnet.itrocket.net/warden/staking/wardenvaloper12de4mzezcvhauqxcszrhkdagwv8lwqs9uvla75)
 
 ## Archive of Main-nets
