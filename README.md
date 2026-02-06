@@ -44,6 +44,7 @@
 - [Provenance](https://explorer.provenance.io/validator/pbvaloper1fvsqqncjknzhmq0j6z0a3e8rjgudc3uw2xulnt)
 - [QuickSilver](https://explorer.quicksilver.zone/validators/quickvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fe7umkd)
 - [Secret Network](https://zonescan.io/secret/validators/secretvaloper1f8chr3y3s9h8g4vc5pg8wvzzhfy3hcxm0re5zc)
+- [Solana](https://stakewiz.com/validator/ENVaKoD7ytn58xJ8s5htFfQ8hqQt1G9dcPUDqbSwVcgB)
 - [Shentu](https://www.mintscan.io/shentu/validators/shentuvaloper1qqrw7v5xcyxpp3f0gelp08td9q95ayfdugecw0)
 - [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper14ftwwcfvhnp3qvxawesjan5duh8rmrkrzdvquy)
 - [Starknet](https://voyager.online/staking?validator=0x0327478b645a0c6889e995fe22b1298fae420dba24cc42422f0c066763d08dc9)
@@ -83,7 +84,6 @@
 - [Ki Chain](https://www.mintscan.io/ki-chain/validators/kivaloper1g2sr6x8hrtwwsaaqu8p8r7dzdfugdcsal08gq8) - we stoped to validate KiChain on 6th of October 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A52)
 - [Lambda Network](https://mainnet.manticore.team/lambda/staking/lambvaloper15kvgg5y9v2dwhnssjmye2nq966jksjq82phkn5) migrated to own Ethereum L2
 - [Starname](https://www.mintscan.io/starname/validators/starvaloper1euslp8c2qadgs6jy6klwv6f332mj426qje6vsn) - we stoped to validate Starname on 3rd of March 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A54)
-- [Solana](https://stakewiz.com/validator/F1emDGY23U6YpJj4H4af2CHcHUmiDGgAWs2xvWYZHWdR) - we stoped to validate on 14th of February because validator reward does not cover the voting fee
 - [Source Protocol](https://source.explorers.guru/validator/sourcevaloper1srwjhdup98l35vruhyagvmyqpu6cgrhmqystgp) - we stoped to validate Source Protocol on 20th of May 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A57)
 - [Migaloo](https://migaloo.explorers.guru/validator/migaloovaloper13wargdgtlflxrw2ad4ydy7zrq37crl6f47w6uh) - we stoped to validate Migaloo on 15th of April 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A55)
 - [Odin Protocol](https://explorer.posthuman.digital/odin/staking/odinvaloper1wuwhanclwh9ckpe6z6480t3pjjpk7dsj2trk9p) - we stoped to validate Odin Protocol on 6th of May 2025, because of [Official Announcement: ODIN Protocol is Closing Operations](https://x.com/odinprotocol/status/1919352164196995442)
