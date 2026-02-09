@@ -101,10 +101,10 @@
 - [AssetMantle](https://explorer.assetmantle.one/validators/mantlevaloper1xrvhlxasg3duvmz82gn5gggpc8wwry7luclvx9)  - we stoped to validate AssetMantle, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A75)
 - [OmniFlix](https://ping.pub/omniflixhub/staking/omniflixvaloper1s3achxs70ysg8pf9xqyytu0m4had60khpuccxl) - migration to EVM
 - [OmniFlix](https://omniflix.market/medianodes/mnd0f2f9c2c6ea7c86d02ad6dc8b912cf8) Media node - migration to EVM
-- [QuickSilver](https://explorer.quicksilver.zone/validators/quickvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fe7umkd) - we stoped to validate AssetMantle, by the [wish of community]
-- [Penumbra](https://explorer.penumbra.zone/validator/penumbravalid1lt6083d99s0phj44wd45stgu2juasu582sc02j2w7qqcqfkg5qxsz0vmu5) - we stoped to validate AssetMantle, by the [wish of community]
-- [Symphony](https://ping.pub/symphony/staking/symphonyvaloper16fw8awm5pnyg5fssqgnn35w2fp9tuzsk6fu6fu) - we stoped to validate AssetMantle, by the [wish of community]
-- [KYVE Network](https://app.kyve.network/#/validators/kyve16hnse4c852xg4vxjnqhx648e02z32n72d26nzu) - protocol node was shut down due to low profitability.
+- [QuickSilver](https://explorer.quicksilver.zone/validators/quickvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fe7umkd) - we stoped to Quicksilver, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A76)
+- [Penumbra](https://explorer.penumbra.zone/validator/penumbravalid1lt6083d99s0phj44wd45stgu2juasu582sc02j2w7qqcqfkg5qxsz0vmu5) - we stoped to Penumbra, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A78)
+- [Symphony](https://ping.pub/symphony/staking/symphonyvaloper16fw8awm5pnyg5fssqgnn35w2fp9tuzsk6fu6fu) - we stoped to validate Symphony, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A77)
+- [KYVE Network](https://app.kyve.network/#/validators/kyve16hnse4c852xg4vxjnqhx648e02z32n72d26nzu) Protocol node - was shut down due to low profitability.
   
 
 ## Archive of Test-nets
