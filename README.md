@@ -2,7 +2,7 @@
 
 [Web-page](https://posthuman.digital) | [History](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/history.md) <br />
 
-## POSTHUMAN responsible 48 different main-net validators
+## POSTHUMAN responsible 46 different main-net validators
 
 - [Agoric](https://www.mintscan.io/agoric/validators/agoricvaloper13yy5mk8ek8p5kk3e8nleucw003nt2vmzxrdx36/)
 - [Akash Network](https://www.mintscan.io/akash/validators/akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk/)
@@ -104,9 +104,7 @@
 - [QuickSilver](https://explorer.quicksilver.zone/validators/quickvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fe7umkd) - we stoped to Quicksilver, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A76)
 - [Penumbra](https://explorer.penumbra.zone/validator/penumbravalid1lt6083d99s0phj44wd45stgu2juasu582sc02j2w7qqcqfkg5qxsz0vmu5) - we stoped to Penumbra, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A78)
 - [Symphony](https://ping.pub/symphony/staking/symphonyvaloper16fw8awm5pnyg5fssqgnn35w2fp9tuzsk6fu6fu) - we stoped to validate Symphony, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A77)
-- [KYVE Network](https://app.kyve.network/#/validators/kyve16hnse4c852xg4vxjnqhx648e02z32n72d26nzu) Protocol node - was shut down due to low profitability.
   
-
 ## Archive of Test-nets
 
 - [0G](https://0g.astrostake.xyz/validators/0x36ba6550beef755faf96e2765c2f973be7d290cd)
