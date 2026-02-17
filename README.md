@@ -57,7 +57,7 @@
 - [Atom One](https://testnet.explorer.allinbits.services/atomone-testnet-1/staking/atonevaloper15az4z86h2er3twzgy64h6ys7nr5726lwhy7nrj)
 - [Babylon](https://testnet.itrocket.net/babylon/staking/bbnvaloper1hvx5j97cwyvnpztpynk2d9m7jqqax46qks8us5)
 - [Canton](https://lighthouse.devnet.cantonloop.com/validators/POSTHUMAN%3A%3A12202ef3444efcdad0cc4a25c458235d0a24c34765b0ec5beb543d94c4f063583636) Devnet
-- [Canton](https://lighthouse.testnet.cantonloop.com/validators/POSTHUMAN%3A%3A122085c0a9d210389c49e8c3d104905179cb703e0840a9ce0b84632c22324dd36697) Testnet
+- [Canton](https://lighthouse.testnet.cantonloop.com/validators/POSTHUMAN-TestNet-1%3A%3A1220156e39ac451d48b6338e05a2f7ad5d540299c19c776147d701b977712468d9e1) Testnet
 - [Celestia](https://www.mintscan.io/celestia-testnet/validators/celestiavaloper1sa5mgyskjzpx6znnd6jxkn59g02hm6c4p8a59v)
 - [Cosmos Network](https://www.mintscan.io/ics-testnet-provider/validators/cosmosvaloper1qp4y2esacc2jmepxcqlw440p6xas8j6t9g438v)
 - [LidoxSSV](https://hoodi.explorer.ssv.network/operators/243)
