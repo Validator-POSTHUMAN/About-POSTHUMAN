@@ -60,6 +60,7 @@
 - [Canton](https://lighthouse.testnet.cantonloop.com/validators/POSTHUMAN-TestNet-1%3A%3A1220156e39ac451d48b6338e05a2f7ad5d540299c19c776147d701b977712468d9e1) Testnet
 - [Celestia](https://www.mintscan.io/celestia-testnet/validators/celestiavaloper1sa5mgyskjzpx6znnd6jxkn59g02hm6c4p8a59v)
 - [Cosmos Network](https://www.mintscan.io/ics-testnet-provider/validators/cosmosvaloper1qp4y2esacc2jmepxcqlw440p6xas8j6t9g438v)
+- [Gnoland](https://test11.testnets.gno.land/r/demo/profile:u/g1geep7yqmgcvexukkfxe982pvyu98mtcj0wrhp4)
 - [LidoxSSV](https://hoodi.explorer.ssv.network/operators/243)
 - [Monad](https://testnet.monadvision.com/validator/0xbd16d773a57C2C3ebD6E439ea95a60adfB2a0BcB)
 - [Neutron](https://www.mintscan.io/neutron-testnet/validators/neutronvaloper1g0xlsmw83rtfla5khhrksa3tnmr5mdwu4aj5ue)
