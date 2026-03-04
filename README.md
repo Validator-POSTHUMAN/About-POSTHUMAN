@@ -116,6 +116,7 @@
 - [Aztec](https://dashtec.xyz/validators/0x3387eb8b4fe2f3bfb5e048889f18719201c63da0)
 - [Babylon](https://testnet.itrocket.net/babylon/staking/bbnvaloper1hvx5j97cwyvnpztpynk2d9m7jqqax46qks8us5)
 - [Dill](https://alps.dill.xyz/validators?p=20&ps=25&pubkey=0xb1e8c3611a36ea3ad69c8e7831c95284ced4d27f6ea7d28037b63214d9004a5303ea19c3767ed3d95307c7d4e7212142)
+- [Elixir](https://www.elixir.xyz/validators/)
 - [Elys Network](https://testnet.itrocket.net/elys/staking/elysvaloper1w6phv0xwya5p2sql4qzlh7h2hdeszf49d9t2gr)
 - [Fiamma]()
 - [Galactica](https://explorer.nodestake.org/galactica-testnet/staking/galavaloper18e8zes2y0n33esjhz0y7uqwurl83phht7r7fhn)
