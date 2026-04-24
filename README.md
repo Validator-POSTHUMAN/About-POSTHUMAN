@@ -2,7 +2,7 @@
 
 [Web-page](https://posthuman.digital) | [History](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/history.md) <br />
 
-## POSTHUMAN responsible 45 different main-net validators
+## POSTHUMAN responsible 39 different main-net validators
 
 - [Agoric](https://www.mintscan.io/agoric/validators/agoricvaloper13yy5mk8ek8p5kk3e8nleucw003nt2vmzxrdx36/)
 - [Akash Network](https://www.mintscan.io/akash/validators/akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk/)
@@ -27,32 +27,27 @@
 - [Injective](https://www.mintscan.io/injective/validators/injvaloper1e84fr6cxgcflv3fc9ey6n8425au7zx6wsztrle)
 - [Intento](https://explorer.nodestake.org/intento/staking/intovaloper1a6qyup7zgyj53r43tq2ngqrrvx70fqhycucrmn)
 - [Juno Network](https://explorer.chainroot.io/juno/validators/junovaloper1e8238v24qccht9mqc2w0r4luq462yxttjzn7qt)
-- [KYVE Network](https://explorer.kyve.network/kyve/staking/kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7)
 - [Lava Network](https://lava.explorers.guru/validator/lava@valoper1kwk34225f9eq3sklaf7xws8mc9lhu6sxhh57pj)
 - [Lava Network](https://info-mainnet.lavanet.xyz/provider/lava@1tq00pyf4z324rsmv7yawlf0750la8wnj5znm5m#health) RPC provider
 - [LidoxSSV](https://explorer.ssv.network/operators/618)
 - [Lumen](https://explorer.mekonglabs.tech/lumen-mainnet/staking/lmnvaloper1m574sszvqxqpxwyf7huqdft54gu2897hprtder)
 - [Mina](https://minascan.io/mainnet/validator/B62qrnPdz8HpsDJfGHirDLpVrN2VeyeitdaTKBaccWtHpeVW9Hgwi75/delegations)
 - [Monad](https://monadvision.com/validator/0xAED164187A9D6314591Ae581A922380A63a1Bd67)
-- [Namada](https://namada.valopers.com/validators/tnam1q8azt2cpqmc6tr2gvg5v62e4jr0t9327yupaf595)
 - [Near](https://nearblocks.io/node-explorer/posthuman.poolv1.near)
 - [Neutron](https://www.mintscan.io/neutron/validators/neutronvaloper1md0k6m8y58w8u98x82kjah7r5zcajw7c5v5ypa)
-- [Nolus Protocol](https://ping.pub/nolus/staking/nolusvaloper108wunsvlzm7l6pf456ntw9e84gp3zkv23mydme)
 - [Nomic](https://app.nomic.io/staking?validator=nomic19k66uuramzvll98f6r4ayqmvugats3e5l6zxj8&modal=info)
 - [Oraichain](https://scan.orai.io/validators/oraivaloper1gvk3caqtdnwhff60ndm29tp0m7p8e57zgx588h)
 - [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam/)
-- [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw)
 - [Provenance](https://explorer.provenance.io/validator/pbvaloper1fvsqqncjknzhmq0j6z0a3e8rjgudc3uw2xulnt)
 - [Secret Network](https://zonescan.io/secret/validators/secretvaloper1f8chr3y3s9h8g4vc5pg8wvzzhfy3hcxm0re5zc)
 - [Solana](https://stakewiz.com/validator/ENVaKoD7ytn58xJ8s5htFfQ8hqQt1G9dcPUDqbSwVcgB)
 - [Shentu](https://www.mintscan.io/shentu/validators/shentuvaloper1qqrw7v5xcyxpp3f0gelp08td9q95ayfdugecw0)
 - [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper14ftwwcfvhnp3qvxawesjan5duh8rmrkrzdvquy)
 - [Starknet](https://voyager.online/staking?validator=0x0327478b645a0c6889e995fe22b1298fae420dba24cc42422f0c066763d08dc9)
-- [Sunrise](https://explorer.nodestake.org/sunrise/staking/sunrisevaloper1a5t392uyw8x0dmul48lfrt6n7emvmzt0svc82e)
 - [TheGraph](https://thegraph.com/explorer/profile/0x0874e792462406dc12ee96b75e52a3bdbba3a123?view=Overview&chain=arbitrum-one)
 - [Union](https://explorer.union.build/union/staking/unionvaloper1pv6tkf95cwzxr0dynqv0h52zdk3x0q4ser5shs)
 - [Warden](https://mainnet.itrocket.net/warden/staking/wardenvaloper12de4mzezcvhauqxcszrhkdagwv8lwqs9uvla75)
-- [ZetaChain](https://zetachain.explorers.guru/validator/zetavaloper1mj5uvv4703fwvna0t622yj9386cfwavr2hl6q4)
+
 
 ## POSTHUMAN validate several different test-nets (list is not full and always changes)
 
@@ -109,7 +104,13 @@
 - [Penumbra](https://explorer.penumbra.zone/validator/penumbravalid1lt6083d99s0phj44wd45stgu2juasu582sc02j2w7qqcqfkg5qxsz0vmu5) - we stoped to Penumbra, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A78)
 - [Symphony](https://ping.pub/symphony/staking/symphonyvaloper16fw8awm5pnyg5fssqgnn35w2fp9tuzsk6fu6fu) - we stoped to validate Symphony, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A77)
 - [Aura Network](https://ping.pub/aura/staking/auravaloper15pzl0s6ym85qx4yeq29rflp702wtx3dntle05a) - we stoped to validate Aura Network, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A80)
-  
+- [ZetaChain](https://zetachain.explorers.guru/validator/zetavaloper1mj5uvv4703fwvna0t622yj9386cfwavr2hl6q4) - we stoped to validate ZetaChain, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A81)
+- [Sunrise](https://explorer.nodestake.org/sunrise/staking/sunrisevaloper1a5t392uyw8x0dmul48lfrt6n7emvmzt0svc82e) - we stoped to validate Sunrise, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A82)
+- [Nolus Protocol](https://ping.pub/nolus/staking/nolusvaloper108wunsvlzm7l6pf456ntw9e84gp3zkv23mydme) - we stoped to validate Nolus Protocol, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A83)
+- [Namada](https://namada.valopers.com/validators/tnam1q8azt2cpqmc6tr2gvg5v62e4jr0t9327yupaf595) - we stoped to validate Namada, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A84)
+- [KYVE Network](https://explorer.kyve.network/kyve/staking/kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7) - we stoped to validate KYVE Network, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A85)
+- [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw) - we stoped to validate Persistence, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A86)
+
 ## Archive of Test-nets
 
 - [0G](https://0g.astrostake.xyz/validators/0x36ba6550beef755faf96e2765c2f973be7d290cd)
