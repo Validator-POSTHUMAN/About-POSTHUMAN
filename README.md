@@ -28,7 +28,6 @@
 - [Intento](https://explorer.nodestake.org/intento/staking/intovaloper1a6qyup7zgyj53r43tq2ngqrrvx70fqhycucrmn)
 - [Juno Network](https://explorer.chainroot.io/juno/validators/junovaloper1e8238v24qccht9mqc2w0r4luq462yxttjzn7qt)
 - [Lava Network](https://lava.explorers.guru/validator/lava@valoper1kwk34225f9eq3sklaf7xws8mc9lhu6sxhh57pj)
-- [Lava Network](https://info-mainnet.lavanet.xyz/provider/lava@1tq00pyf4z324rsmv7yawlf0750la8wnj5znm5m#health) RPC provider
 - [LidoxSSV](https://explorer.ssv.network/operators/618)
 - [Lumen](https://explorer.mekonglabs.tech/lumen-mainnet/staking/lmnvaloper1m574sszvqxqpxwyf7huqdft54gu2897hprtder)
 - [Mina](https://minascan.io/mainnet/validator/B62qrnPdz8HpsDJfGHirDLpVrN2VeyeitdaTKBaccWtHpeVW9Hgwi75/delegations)
