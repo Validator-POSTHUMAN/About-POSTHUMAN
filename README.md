@@ -34,7 +34,7 @@
 - [Monad](https://monadvision.com/validator/0xAED164187A9D6314591Ae581A922380A63a1Bd67)
 - [Near](https://nearblocks.io/node-explorer/posthuman.poolv1.near)
 - [Neutron](https://www.mintscan.io/neutron/validators/neutronvaloper1md0k6m8y58w8u98x82kjah7r5zcajw7c5v5ypa)
-- [Nomic](https://app.nomic.io/staking?validator=nomic19k66uuramzvll98f6r4ayqmvugats3e5l6zxj8&modal=info)
+- [Nomic](https://explorer.chaintools.tech/nomic/staking/nomic19k66uuramzvll98f6r4ayqmvugats3e5l6zxj8)
 - [Oraichain](https://scan.orai.io/validators/oraivaloper1gvk3caqtdnwhff60ndm29tp0m7p8e57zgx588h)
 - [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam/)
 - [Provenance](https://explorer.provenance.io/validator/pbvaloper1fvsqqncjknzhmq0j6z0a3e8rjgudc3uw2xulnt)
