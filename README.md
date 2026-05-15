@@ -37,7 +37,7 @@
 - [Nomic](https://explorer.chaintools.tech/nomic/staking/nomic19k66uuramzvll98f6r4ayqmvugats3e5l6zxj8)
 - [Oraichain](https://scan.orai.io/validators/oraivaloper1gvk3caqtdnwhff60ndm29tp0m7p8e57zgx588h)
 - [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam/)
-- [Provenance](https://explorer.provenance.io/validator/pbvaloper1fvsqqncjknzhmq0j6z0a3e8rjgudc3uw2xulnt)
+- [Provenance](https://zonescan.io/provenance/validators/pbvaloper1fvsqqncjknzhmq0j6z0a3e8rjgudc3uw2xulnt)
 - [Secret Network](https://zonescan.io/secret/validators/secretvaloper1f8chr3y3s9h8g4vc5pg8wvzzhfy3hcxm0re5zc)
 - [Solana](https://stakewiz.com/validator/ENVaKoD7ytn58xJ8s5htFfQ8hqQt1G9dcPUDqbSwVcgB)
 - [Shentu](https://www.mintscan.io/shentu/validators/shentuvaloper1qqrw7v5xcyxpp3f0gelp08td9q95ayfdugecw0)
