@@ -24,8 +24,6 @@
 - [FirmaChain](https://explorer.firmachain.dev/validators/firmavaloper143v9wpr870kt22gmtxgl7tc72twkd6z48h5yaj)
 - [Fuel](https://fuel-seq.simplystaking.xyz/fuel-mainnet/staking/fuelsequencervaloper1w8wrpz8n2z08625r63jdc4snznj6h8lxru5lcz)
 - [Humans.ai](https://www.mintscan.io/humans/validators/humanvaloper1ndnf0cd75nvz56feqy23um3mq22nlhe9ggu0uh)
-- [Injective](https://www.mintscan.io/injective/validators/injvaloper1e84fr6cxgcflv3fc9ey6n8425au7zx6wsztrle)
-- [Intento](https://explorer.nodestake.org/intento/staking/intovaloper1a6qyup7zgyj53r43tq2ngqrrvx70fqhycucrmn)
 - [Juno Network](https://explorer.chainroot.io/juno/validators/junovaloper1e8238v24qccht9mqc2w0r4luq462yxttjzn7qt)
 - [Lava Network](https://lava.explorers.guru/validator/lava@valoper1kwk34225f9eq3sklaf7xws8mc9lhu6sxhh57pj)
 - [LidoxSSV](https://explorer.ssv.network/mainnet/operator/618)
@@ -85,7 +83,7 @@
 - [Odin Protocol](https://explorer.posthuman.digital/odin/staking/odinvaloper1wuwhanclwh9ckpe6z6480t3pjjpk7dsj2trk9p) - we stoped to validate Odin Protocol on 6th of May 2025, because of [Official Announcement: ODIN Protocol is Closing Operations](https://x.com/odinprotocol/status/1919352164196995442)
 - [UX](https://ping.pub/umee/staking/umeevaloper1qa5gkv8a4rzpncgkguv2szh5s83kh69l082zz3) - we stoped to validate UX (ex-Umee) on 20th of May 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A56)
 - [Initia](https://scan.initia.xyz/interwoven-1/validators/initvaloper14d8l6xj7hww6ccp6vr50amq392pgch4w0xthpa) - we stop to validate Initia after [Proposal #60](https://scan.initia.xyz/interwoven-1/proposals/60)
-- [Injective](https://www.mintscan.io/injective/validators/injvaloper1e84fr6cxgcflv3fc9ey6n8425au7zx6wsztrle) - we stop to validate Injective after [Proposal #529](https://www.mintscan.io/injective/proposals/529)
+- [Injective](https://www.mintscan.io/injective/validators/injvaloper1e84fr6cxgcflv3fc9ey6n8425au7zx6wsztrle) - we stop to validate Injective after [Proposal #529](https://www.mintscan.io/injective/proposals/529) and [Proposal #529](https://www.mintscan.io/injective/proposals/529) and [Proposal #662](https://www.mintscan.io/injective/proposals/662)
 - [Govgen](https://www.mintscan.io/govgen/validators/govgenvaloper17hkyrkexpzrd2u3erplve4z5am6e0yvhsuyzcn) - we stop to validate GovGen after [Proposal #10](https://app.govgen.io/proposals/10)
 - [Chihuahua](https://www.mintscan.io/chihuahua/validators/chihuahuavaloper1fm68jvjpk0g7dvdq75czjynyszeaduxt5lc0a8) - we stoped to validate Chihuahua on 15th of July 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A61)
 - [Kopi](https://ping.pub/kopi/staking/kopivaloper1d8xl72r2yw2th9z39nz7kwt89eqhtxfatgy88a) - we stoped to validate Kopi on 23rd of July 2025, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A64)
@@ -109,7 +107,9 @@
 - [Namada](https://namada.valopers.com/validators/tnam1q8azt2cpqmc6tr2gvg5v62e4jr0t9327yupaf595) - we stoped to validate Namada, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A84)
 - [KYVE Network](https://explorer.kyve.network/kyve/staking/kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7) - we stoped to validate KYVE Network, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A85)
 - [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw) - we stoped to validate Persistence, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A86)
+- [Intento](https://explorer.nodestake.org/intento/staking/intovaloper1a6qyup7zgyj53r43tq2ngqrrvx70fqhycucrmn) - we stoped to validate Intento after the project had been suspended.
 - [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper14ftwwcfvhnp3qvxawesjan5duh8rmrkrzdvquy) - we stop to validate Stargaze after [Proposal #351](https://www.mintscan.io/stargaze/proposals/351)
+- 
 
 ## Archive of Test-nets
 
