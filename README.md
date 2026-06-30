@@ -55,11 +55,13 @@
 - [Canton](https://lighthouse.testnet.cantonloop.com/validators/POSTHUMAN-TestNet-1%3A%3A1220156e39ac451d48b6338e05a2f7ad5d540299c19c776147d701b977712468d9e1) Testnet
 - [Celestia](https://www.mintscan.io/celestia-testnet/validators/celestiavaloper1sa5mgyskjzpx6znnd6jxkn59g02hm6c4p8a59v)
 - [Cosmos Network](https://www.mintscan.io/ics-testnet-provider/validators/cosmosvaloper1qp4y2esacc2jmepxcqlw440p6xas8j6t9g438v)
+- [Espresso](https://claim.espresso.foundation/stake/)
 - [Gnoland](https://explorer-gnoland.oshvank.xyz/?v=g1cn7pq5uu0vp3wgsgj552emz6jnf47l42k22wpq)
 - [LidoxSSV](https://hoodi.explorer.ssv.network/operators/243)
+- [Logos]()
 - [Monad](https://testnet.monadvision.com/validator/0xbd16d773a57C2C3ebD6E439ea95a60adfB2a0BcB)
-- [Neutron](https://www.mintscan.io/neutron-testnet/validators/neutronvaloper1g0xlsmw83rtfla5khhrksa3tnmr5mdwu4aj5ue)
 - [Push Chain](https://testnet.itrocket.net/push/staking/pushvaloper1h2pf0579ggfu05mmjxp5dq2ha37sz3gj45sx7v)
+- [Starknet]()
 - [Solana](https://www.validators.app/validators/M7Pcv3j8KpX8ZAkeSsvJnexgKrZbBAaMEcRTvf6t2Em?locale=en&network=testnet&order=&refresh=)
 - [Warden](https://testnet.itrocket.net/warden/staking/wardenvaloper12de4mzezcvhauqxcszrhkdagwv8lwqs9uvla75)
 
@@ -126,6 +128,7 @@
 - [Lava](https://explorer.kjnodes.com/lava-testnet/staking/lava@valoper1a6jlhfkm6ry53v2pn8kjq9ftvc656hegl9e3s0)
 - [LidoxObol](https://operators-holesky.testnet.fi/module/2/23)
 - [Nesa](https://node.nesa.ai/nodes/X49iGTpnivAwb1cG8q9nSx53Aby1T1YeQCwmpU1Lqkv)
+- [Neutron](https://www.mintscan.io/neutron-testnet/validators/neutronvaloper1g0xlsmw83rtfla5khhrksa3tnmr5mdwu4aj5ue)
 - [Nillion](https://testnet.nillion.explorers.guru/account/nillion19tp8h2789nd6kl620f6ghsfxxhuefs3vzf23rj)
 - [Nubit]()
 - [Odiseo](https://explorer.nodestake.org/odiseo-testnet/staking/odiseovaloper1kmngk7yul4q66hxx6gg9x6p55kj0drcay7qhu4)
