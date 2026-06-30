@@ -106,7 +106,7 @@
 - [Namada](https://namada.valopers.com/validators/tnam1q8azt2cpqmc6tr2gvg5v62e4jr0t9327yupaf595) - we stoped to validate Namada, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A84)
 - [KYVE Network](https://explorer.kyve.network/kyve/staking/kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7) - we stoped to validate KYVE Network, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A85)
 - [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw) - we stoped to validate Persistence, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A86)
-- [Intento](https://explorer.nodestake.org/intento/staking/intovaloper1a6qyup7zgyj53r43tq2ngqrrvx70fqhycucrmn) - we stoped to validate Intento after the project had been suspended.
+- [Intento](https://explorer.nodestake.org/intento/staking/intovaloper1a6qyup7zgyj53r43tq2ngqrrvx70fqhycucrmn) - we stoped to validate Intento after the project had been suspended
 - [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper14ftwwcfvhnp3qvxawesjan5duh8rmrkrzdvquy) - we stop to validate Stargaze after [Proposal #351](https://www.mintscan.io/stargaze/proposals/351)
 - [LidoxSSV](https://explorer.ssv.network/mainnet/operator/618) - we stop to validate LidoxSSV after [Wind Down the Simple DVT Module Regular Clusters](https://research.lido.fi/t/proposal-wind-down-the-simple-dvt-module-regular-clusters/11571)
 
