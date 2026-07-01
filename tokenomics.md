@@ -1,3 +1,22 @@
+# Deprecated PHMN Tokenomics Archive
+
+This page is historical. It describes the original PHMN tokenomics for the old
+Juno CW20 PHMN token.
+
+The old PHMN token is deprecated and no longer represents the active POSTHUMAN
+PHMN governance token.
+
+Current PHMN references:
+
+- New PHMN migration rules and snapshot data: https://github.com/Validator-POSTHUMAN/new-phmn
+- Official PHMN migration statement: https://github.com/Validator-POSTHUMAN/new-dao-structure/blob/main/docs/official-phmn-migration-statement.md
+- New PHMN TokenFactory denom: `factory/cosmos146s5j3t7gh2g37ywm47dp8avhesu2htvjjaxq7z55e7xj0rq0k8q5qnjjy/PHMN`
+- New POSTHUMAN DAS: https://daodao.zone/dao/cosmos1lj6knrgumqr5a9jxmkqeag476gmzgn24mv0w3548tyw6a5ryr7ms6xl599
+
+The content below is kept only for historical context.
+
+---
+
 # $PHMN — Tokenomics and more!
 ***POSTHUMAN validator issues $PHMN token***
 
