@@ -1,19 +1,21 @@
-# Monad Liquid Staking Pool Research for Validators
+# Monad Liquid Staking Pools: Validator Integration Research
 
 Last updated: 2026-07-01
 
-This research is for Monad validators evaluating liquid staking integrations,
-validator delegation routes, and MEV / priority-fee opportunities across Monad
-LST protocols.
+This public research brief is for Monad validators, LST teams, and ecosystem
+partners evaluating validator integrations, delegation routes, and MEV /
+priority-fee opportunities across Monad liquid staking protocols.
 
-It is written from a validator-operator perspective: what is the validator
-onboarding path, what public documentation exists, what operational changes may
-be required, and how clear the delegation mechanism is.
+It is written from a validator-operator perspective and focuses on reusable
+questions: what the validator onboarding path looks like, what public
+documentation exists, which operational changes may be required, and how clear
+the delegation mechanism is.
 
-POSTHUMAN validator details are included as a practical field note because
-POSTHUMAN is actively onboarding with several Monad LST teams.
+POSTHUMAN examples are included only as field notes from one active Monad
+validator. The main purpose is to help other validators prepare better
+questions and help LST teams make validator onboarding easier to evaluate.
 
-## Quick Ranking
+## Validator Priority Snapshot
 
 | Protocol | Token | Validator onboarding signal | Priority | Notes for validators |
 | --- | --- | --- | --- | --- |
@@ -25,8 +27,8 @@ POSTHUMAN is actively onboarding with several Monad LST teams.
 
 ## Scoring Method
 
-Scores are qualitative and intended for validator prioritization, not
-investment advice.
+Scores are qualitative and intended for validator integration prioritization,
+not investment advice or a final judgment on any protocol.
 
 - 5 = actionable now, clear validator path, good response, material expected value.
 - 3 = worth tracking or continuing outreach, but blocked by timing,
@@ -88,8 +90,8 @@ FastLane's onboarding material describes:
   Foundation-approved.
 - Revenue starts flowing from the next epoch after setup, approximately 5.5
   hours.
-- FastLane stated that 118 validators were already running the sidecar at the
-  time of POSTHUMAN onboarding.
+- FastLane stated during onboarding that 118 validators were already running
+  the sidecar.
 
 ### Validator Considerations
 
@@ -98,13 +100,13 @@ FastLane's onboarding material describes:
 - The sidecar should be monitored independently from the core node services.
 - Validators should document rollback steps before changing production config.
 
-### POSTHUMAN Field Note
+### Example Field Note
 
-POSTHUMAN contacted FastLane / shMonad, was accepted, received onboarding
-instructions, and installed the FastLane MEV sidecar for its Monad mainnet
-validator.
+One active Monad validator, POSTHUMAN, contacted FastLane / shMonad, was
+accepted, received onboarding instructions, and installed the FastLane MEV
+sidecar for its Monad mainnet validator.
 
-POSTHUMAN validator profile used for onboarding:
+Example validator profile used during onboarding:
 
 - Validator ID: 197
 - Location: Tokyo, Japan
@@ -163,10 +165,11 @@ Validators should clarify:
   treating the opportunity as production-ready.
 - Validators may need a communication plan, not only node-side changes.
 
-### POSTHUMAN Field Note
+### Example Field Note
 
-Kintsu replied positively to POSTHUMAN and said POSTHUMAN will be taken into
-onboarding. The process is still in progress.
+Kintsu replied positively to POSTHUMAN and indicated that onboarding can
+continue. The process is still in progress, so exact requirements should be
+confirmed directly with the Kintsu team.
 
 ### Sources
 
@@ -217,9 +220,11 @@ Validators should prepare:
 - The practical route is direct team contact and waiting for the next validator
   batch / whitelist window.
 
-### POSTHUMAN Field Note
+### Example Field Note
 
-POSTHUMAN contacted Magma. The team response was to wait for the next batch.
+Magma's team response to POSTHUMAN was to wait for the next validator batch.
+This supports the current assumption that validator inclusion is batch-based or
+curated rather than fully self-serve.
 
 ### Sources
 
@@ -262,11 +267,13 @@ Validators should verify:
 - Validators should avoid relying on unofficial or unstable community routes
   until an official channel is confirmed.
 
-### POSTHUMAN Field Note
+### Example Field Note
 
-POSTHUMAN observed friction in the outreach path: ticket creation did not work
-cleanly, and the visible server/channel route later became unavailable. This is
-treated as a process-risk signal, not as a conclusion about the protocol.
+Validator outreach friction was observed during POSTHUMAN's attempt to contact
+aPriori: ticket creation did not work cleanly, and a visible server/channel
+route later became unavailable. This is treated as a process-risk signal for
+validator onboarding clarity, not as a conclusion about the protocol or product
+quality.
 
 ### Sources
 
@@ -304,10 +311,11 @@ Moonmace docs describe validator scoring based on:
 - Validators should monitor passively until community activity and onboarding
   process become clearer.
 
-### POSTHUMAN Field Note
+### Example Field Note
 
-POSTHUMAN did not receive a useful response, and the community looked thin at
-review time.
+POSTHUMAN did not receive a useful onboarding response at review time, and
+public validator-facing signal appeared limited. Validators may still track the
+project, but should wait for a clearer process before prioritizing integration.
 
 ### Sources
 
@@ -335,10 +343,10 @@ Before integrating with any Monad LST pool:
 8. Keep public validator profile, commission, uptime, and region information
    ready for future LST teams.
 
-## POSTHUMAN Validator Profile
+## Example Validator Profile: POSTHUMAN
 
 This profile is included as an example of the information an LST team may ask
-from a validator:
+from any validator during onboarding:
 
 - Validator: POSTHUMAN
 - Monad mainnet validator ID: 197
