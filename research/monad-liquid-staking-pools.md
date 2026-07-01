@@ -1,41 +1,39 @@
-# Monad Liquid Staking Pool Research
+# Monad Liquid Staking Pool Research for Validators
 
 Last updated: 2026-07-01
 
-This note tracks liquid staking and validator-delegation opportunities for the
-POSTHUMAN Monad mainnet validator.
+This research is for Monad validators evaluating liquid staking integrations,
+validator delegation routes, and MEV / priority-fee opportunities across Monad
+LST protocols.
 
-- Validator: POSTHUMAN
-- Monad mainnet validator ID: 197
-- Validator page:
-  https://monadvision.com/validator/0xAED164187A9D6314591Ae581A922380A63a1Bd67
-- Current commission: 15%
+It is written from a validator-operator perspective: what is the validator
+onboarding path, what public documentation exists, what operational changes may
+be required, and how clear the delegation mechanism is.
 
-The goal is practical: identify which Monad liquid staking protocols can route
-stake to POSTHUMAN, what each protocol needs from a validator, how responsive
-the team is, and where POSTHUMAN should spend onboarding effort.
+POSTHUMAN validator details are included as a practical field note because
+POSTHUMAN is actively onboarding with several Monad LST teams.
 
-## Executive Summary
+## Quick Ranking
 
-| Protocol | Token | Current POSTHUMAN status | Priority | Rationale |
+| Protocol | Token | Validator onboarding signal | Priority | Notes for validators |
 | --- | --- | --- | --- | --- |
-| shMonad / FastLane | shMON | Accepted and onboarded. FastLane instructions were received and the MEV sidecar has been installed. | Very high | Clear validator path, direct team response, deterministic on-chain stake allocation, MEV/priority-fee revenue can increase delegation. |
-| Kintsu | sMON | Team replied positively and POSTHUMAN is in onboarding. | High | DAO-driven validator curation and a clear Monad LST product. Requires follow-through on onboarding and registry/delegation mechanics. |
-| Magma | gMON | Team said to wait for the next batch. | Medium-high | Serious protocol and gVault model, but validator inclusion appears batch/whitelist-based. |
-| aPriori | aprMON | Outreach path looks unreliable so far. Tickets did not work cleanly; after direct messages, the server later disappeared from the visible list. | Low-medium | Strong protocol narrative, but validator onboarding path is opaque and current communication friction is high. |
-| Moonmace | mcMON | Outreach got no useful response; community looked thin at review time. | Low | Public docs mention a validator scoring matrix, but there is no clear onboarding path and weak observable community signal. |
+| shMonad / FastLane | shMON | Clear public validator docs and direct onboarding path. | Very high | Best documented validator path. Delegation is tied to revenue generation and on-chain stake allocation. Requires beneficiary / coinbase flow, dedicated fullnodes, and MEV sidecar. |
+| Kintsu | sMON | Positive team response and DAO / registry-based validator curation. | High | Promising route for validators that can participate in a registry / governance-driven delegation process. Exact operational requirements should be confirmed during onboarding. |
+| Magma | gMON | Batch / whitelist style validator inclusion. | Medium-high | Strong LST product and gVault concept. Validators should prepare a profile and wait for the next inclusion batch or whitelist review. |
+| aPriori | aprMON | Product is strong, validator onboarding path is not clear from public docs. | Low-medium | Worth tracking, but validators should verify official contact channels before relying on this route. |
+| Moonmace | mcMON | Public scoring model exists, but onboarding and community signal are weak. | Low | Useful as a watchlist item. Needs clearer validator process and stronger execution signal. |
 
 ## Scoring Method
 
-Scores are qualitative and intended for operator prioritization, not investment
-advice.
+Scores are qualitative and intended for validator prioritization, not
+investment advice.
 
-- 5 = actionable now, clear path, good response, material expected value.
+- 5 = actionable now, clear validator path, good response, material expected value.
 - 3 = worth tracking or continuing outreach, but blocked by timing,
   governance, unclear rules, or team response.
 - 1 = no clear path or weak signal.
 
-| Protocol | Onboarding clarity | Team response | Delegation upside | Operational fit | Overall |
+| Protocol | Onboarding clarity | Team / channel signal | Delegation upside | Operational fit | Overall |
 | --- | ---: | ---: | ---: | ---: | ---: |
 | shMonad / FastLane | 5 | 5 | 5 | 4 | 5 |
 | Kintsu | 4 | 4 | 4 | 3 | 4 |
@@ -43,15 +41,43 @@ advice.
 | aPriori | 1 | 2 | 4 | 2 | 2 |
 | Moonmace | 2 | 1 | 2 | 3 | 1.5 |
 
+## Validator Questions to Ask Any Monad LST Team
+
+- Is validator onboarding currently open?
+- Is the validator set permissionless, curated, batch-based, or DAO-governed?
+- What are the exact validator inclusion criteria?
+- Is there a public application form, registry, or direct team process?
+- What performance window is reviewed?
+- How are uptime, commission, MEV revenue, and priority-fee capture measured?
+- Are there stake caps, concentration limits, or region / provider constraints?
+- What validator-side configuration changes are required?
+- Does the protocol require a sidecar, beneficiary change, coinbase contract,
+  fullnode peers, collateral, governance votes, or smart-contract interaction?
+- How can a validator verify received delegation and revenue after onboarding?
+
 ## shMonad / FastLane
 
-shMonad is the clearest current opportunity. FastLane provides a validator
-onboarding flow that connects validator revenue generation with shMonad stake
+shMonad / FastLane currently has the clearest validator-facing route.
+The protocol connects validator revenue generation with shMonad stake
 allocation.
 
-### What FastLane Offered
+### Validator Path
 
-FastLane's onboarding message for POSTHUMAN described:
+The validator onboarding flow includes:
+
+1. shMonad / FastLane deploys a validator-specific coinbase contract.
+2. The validator sets that coinbase contract as beneficiary in node.toml.
+3. The validator restarts monad-bft; RPC / execution restart is not required
+   for the beneficiary change.
+4. The validator connects FastLane dedicated fullnodes, with peer information
+   selected by validator location.
+5. The validator runs the MEV sidecar.
+6. The validator monitors revenue, commission, donation settings, and stake
+   allocation.
+
+### Delegation / Revenue Model
+
+FastLane's onboarding material describes:
 
 - 90% of MEV auction revenue goes to the validator's coinbase contract.
 - Priority fee distribution depends on validator commission, configurable by
@@ -63,32 +89,28 @@ FastLane's onboarding message for POSTHUMAN described:
 - Revenue starts flowing from the next epoch after setup, approximately 5.5
   hours.
 - FastLane stated that 118 validators were already running the sidecar at the
-  time of onboarding.
+  time of POSTHUMAN onboarding.
 
-### POSTHUMAN Status
+### Validator Considerations
 
-POSTHUMAN contacted FastLane/shMonad, was accepted, and received onboarding
-instructions. The requested validator details were provided:
+- This is an operational integration, not only a listing request.
+- Changing beneficiary / coinbase flow affects validator revenue routing.
+- The sidecar should be monitored independently from the core node services.
+- Validators should document rollback steps before changing production config.
 
-- validator ID: 197
-- validator location: Tokyo, Japan
-- validator peer details: provided directly to FastLane
+### POSTHUMAN Field Note
 
-The FastLane MEV sidecar has been installed for the POSTHUMAN Monad mainnet
+POSTHUMAN contacted FastLane / shMonad, was accepted, received onboarding
+instructions, and installed the FastLane MEV sidecar for its Monad mainnet
 validator.
 
-### Validator-Side Requirements
+POSTHUMAN validator profile used for onboarding:
 
-The onboarding flow includes:
-
-1. shMonad/FastLane deploys a validator-specific coinbase contract.
-2. Validator sets that coinbase contract as beneficiary in node.toml.
-3. Validator restarts monad-bft; RPC/execution restart is not required for
-   the beneficiary change.
-4. Validator connects FastLane dedicated fullnodes, with peer information
-   selected by validator location.
-5. Validator runs the MEV sidecar.
-6. Validator monitors revenue and commission/donation settings.
+- Validator ID: 197
+- Location: Tokyo, Japan
+- Commission: 15%
+- Validator page:
+  https://monadvision.com/validator/0xAED164187A9D6314591Ae581A922380A63a1Bd67
 
 ### Sources
 
@@ -114,78 +136,37 @@ The onboarding flow includes:
 - FastLane X: https://x.com/0xFastLane
 - FastLane Discord: https://discord.fastlane.xyz
 
-## Magma
-
-Magma is a liquid staking protocol on Monad that issues gMON. Its docs describe
-liquid staking, gVaults, and MEV-boosted yield.
-
-### POSTHUMAN Status
-
-POSTHUMAN contacted Magma. The response was to wait for the next validator
-batch.
-
-This makes Magma a strong follow-up target, but not an immediate integration.
-The practical path is to keep contact warm and prepare a validator profile for
-the next inclusion window.
-
-### Validator Fit
-
-Magma appears relevant for POSTHUMAN because:
-
-- gMON is backed by staked MON.
-- Magma describes gVaults as validator-specific staking vaults.
-- Magma emphasizes MEV-boosted yield.
-- gVaults can let users choose a validator while still receiving the fungible
-  gMON asset.
-
-The open blocker is validator inclusion: public docs do not currently provide a
-simple self-serve validator onboarding form.
-
-### Sources
-
-- Magma site: https://www.magmastaking.xyz/
-- Magma docs: https://docs.hydrogenlabs.xyz/magma
-- Magma liquid staking:
-  https://docs.hydrogenlabs.xyz/magma/liquid-staking-gmon.md
-- gVaults docs: https://docs.hydrogenlabs.xyz/magma/gvaults.md
-- gVaults app: https://gvaults.magmastaking.xyz/
-- gVaults launch article:
-  https://blog.magmastaking.xyz/p/gvaults-are-live-staking-vaults-built
-- Magma audits:
-  https://docs.hydrogenlabs.xyz/magma/developers/audits
-- Magma GitHub:
-  https://github.com/magmastaking/contracts-public
-- Magma X: https://x.com/magmastaking
-- Magma Discord: https://discord.com/invite/magmastaking
-
 ## Kintsu
 
 Kintsu is a Monad liquid staking protocol that issues sMON and uses a
 DAO-driven validator registry / delegation marketplace.
 
-### POSTHUMAN Status
+### Validator Path
 
-Kintsu replied positively and said POSTHUMAN will be taken into onboarding.
-POSTHUMAN is currently in process.
+Public Kintsu documentation describes a decentralized validator registry
+controlled by the DAO. Validators should expect a more governance-oriented
+onboarding process than a simple whitelist form.
 
-This is the second strongest target after shMonad/FastLane. The important next
-step is to clarify exact registry, collateral, voting, and delegation mechanics
-for POSTHUMAN.
+Validators should clarify:
 
-### Validator Fit
+- whether validator registry onboarding is open;
+- whether collateral is required;
+- whether governance / voting weight affects delegation;
+- how validator performance is measured;
+- how stake targets are updated.
 
-Kintsu is relevant because:
+### Validator Considerations
 
-- It is explicitly built for Monad liquid staking.
-- It uses sMON as the liquid version of MON.
-- Its public docs describe a decentralized registry of validators controlled by
-  the DAO.
-- Delegation is expected to be community/DAO-curated rather than a simple
-  private whitelist.
+- Kintsu appears promising for validators willing to engage with DAO / registry
+  mechanics.
+- The technical and governance requirements should be confirmed directly before
+  treating the opportunity as production-ready.
+- Validators may need a communication plan, not only node-side changes.
 
-Operationally, this may require more than technical setup. POSTHUMAN should
-expect governance/community work and should confirm whether collateral,
-registry staking, or other validator commitments are required.
+### POSTHUMAN Field Note
+
+Kintsu replied positively to POSTHUMAN and said POSTHUMAN will be taken into
+onboarding. The process is still in progress.
 
 ### Sources
 
@@ -208,32 +189,84 @@ registry staking, or other validator commitments are required.
 - Kintsu Discord: https://discord.gg/kintsu
 - Kintsu Medium: https://medium.com/@kintsu_xyz
 
+## Magma
+
+Magma is a liquid staking protocol on Monad that issues gMON. Its docs describe
+liquid staking, gVaults, and MEV-boosted yield.
+
+### Validator Path
+
+Magma appears to use a curated or batch-based validator inclusion process.
+Its gVault model is especially relevant for validators because it can let users
+choose a validator-specific route while still receiving fungible gMON.
+
+Validators should prepare:
+
+- validator ID and public validator page;
+- uptime and performance history;
+- commission;
+- infrastructure region / provider profile;
+- MEV and priority-fee readiness;
+- monitoring and alerting summary.
+
+### Validator Considerations
+
+- Strong product direction and useful gVault structure.
+- Public docs do not currently expose a simple self-serve validator onboarding
+  form.
+- The practical route is direct team contact and waiting for the next validator
+  batch / whitelist window.
+
+### POSTHUMAN Field Note
+
+POSTHUMAN contacted Magma. The team response was to wait for the next batch.
+
+### Sources
+
+- Magma site: https://www.magmastaking.xyz/
+- Magma docs: https://docs.hydrogenlabs.xyz/magma
+- Magma liquid staking:
+  https://docs.hydrogenlabs.xyz/magma/liquid-staking-gmon.md
+- gVaults docs: https://docs.hydrogenlabs.xyz/magma/gvaults.md
+- gVaults app: https://gvaults.magmastaking.xyz/
+- gVaults launch article:
+  https://blog.magmastaking.xyz/p/gvaults-are-live-staking-vaults-built
+- Magma audits:
+  https://docs.hydrogenlabs.xyz/magma/developers/audits
+- Magma GitHub:
+  https://github.com/magmastaking/contracts-public
+- Magma X: https://x.com/magmastaking
+- Magma Discord: https://discord.com/invite/magmastaking
+
 ## aPriori
 
-aPriori has a strong Monad MEV/liquid staking narrative and aprMON is positioned
+aPriori has a strong Monad MEV / liquid staking narrative. aprMON is positioned
 as a liquid staking token that accrues staking and MEV revenue.
 
-### POSTHUMAN Status
+### Validator Path
 
-POSTHUMAN outreach has been problematic so far:
+Public docs explain the product and staking yield, but they do not currently
+make the validator onboarding route clear.
 
-- Ticket creation did not work cleanly.
-- After direct messages, the server later disappeared from the visible list.
+Validators should verify:
 
-This does not mean aPriori is a bad protocol. It means POSTHUMAN currently does
-not have a reliable validator onboarding route and should not count on this path
-until contact is re-established through a confirmed official channel.
+- whether new validators can join the aprMON delegation set;
+- whether the set is curated, automated, or governance-controlled;
+- which official contact path should be used;
+- whether MEV infrastructure integration is required.
 
-### Validator Fit
+### Validator Considerations
 
-aPriori remains worth tracking because:
+- Protocol narrative is strong.
+- Validator inclusion path is opaque from public docs.
+- Validators should avoid relying on unofficial or unstable community routes
+  until an official channel is confirmed.
 
-- aprMON combines staking and MEV revenue.
-- aPriori focuses on MEV infrastructure and trade execution.
-- The protocol may have a curated validator set.
+### POSTHUMAN Field Note
 
-The blocker is process opacity: public docs explain the product, but not a
-clear validator application path.
+POSTHUMAN observed friction in the outreach path: ticket creation did not work
+cleanly, and the visible server/channel route later became unavailable. This is
+treated as a process-risk signal, not as a conclusion about the protocol.
 
 ### Sources
 
@@ -252,29 +285,29 @@ clear validator application path.
 ## Moonmace
 
 Moonmace is a smaller Monad liquid staking project with mcMON. Public docs
-describe a validator selection matrix, but the observable onboarding signal is
-weak.
+describe a validator selection matrix, but the practical validator onboarding
+route is not yet clear.
 
-### POSTHUMAN Status
+### Validator Path
 
-POSTHUMAN did not receive a useful response. The community looked empty or very
-thin at review time.
+Moonmace docs describe validator scoring based on:
 
-Moonmace should stay on the watchlist, but it should not consume much operator
-time unless the project becomes more active or publishes a clear onboarding
-route.
+- performance / reliability;
+- MEV or priority-fee efficiency;
+- centralization risk;
+- stake caps and concentration-aware penalties.
 
-### Validator Fit
+### Validator Considerations
 
-Moonmace's public validator strategy is conceptually relevant:
+- The scoring model is relevant for validators.
+- Current observable signal is weaker than the other reviewed protocols.
+- Validators should monitor passively until community activity and onboarding
+  process become clearer.
 
-- validators are scored on performance / reliability;
-- MEV or priority-fee efficiency matters;
-- centralization risk is penalized;
-- stake caps are used to reduce concentration.
+### POSTHUMAN Field Note
 
-The problem is not the scoring model. The problem is weak current execution
-signal and no clear practical path for POSTHUMAN.
+POSTHUMAN did not receive a useful response, and the community looked thin at
+review time.
 
 ### Sources
 
@@ -287,24 +320,25 @@ signal and no clear practical path for POSTHUMAN.
   https://moonmace.gitbook.io/moonmace-docs/system-architecture.md
 - Moonmace X: https://x.com/moonmace_ai
 
-## Recommended Next Actions
+## Practical Checklist for Validators
 
-1. shMonad / FastLane: monitor revenue, sidecar health, commission, donation
-   settings, and stake allocation. Keep the coinbase/beneficiary configuration
-   documented internally.
-2. Kintsu: continue onboarding. Ask for exact validator registry mechanics,
-   collateral requirements, voting/delegation rules, and expected timeline.
-3. Magma: prepare a short POSTHUMAN validator profile for the next batch:
-   validator ID, validator page, uptime, commission, region, MEV readiness, and
-   monitoring setup.
-4. aPriori: retry only through a verified official contact. Do not spend
-   significant time until the onboarding path is clear.
-5. Moonmace: monitor passively. Revisit only if community activity and
-   validator onboarding become credible.
+Before integrating with any Monad LST pool:
 
-## POSTHUMAN Validator Profile for Outreach
+1. Confirm the official onboarding channel.
+2. Confirm whether the process is open, curated, batch-based, or DAO-governed.
+3. Ask for all validator-side changes in writing.
+4. Back up node configuration before changing beneficiary, peers, or sidecars.
+5. Define rollback steps before restarting production services.
+6. Monitor the LST-specific sidecar / revenue path separately from core Monad
+   node health.
+7. Verify delegation and revenue after the next epoch.
+8. Keep public validator profile, commission, uptime, and region information
+   ready for future LST teams.
 
-Use this compact profile when contacting Monad LST teams:
+## POSTHUMAN Validator Profile
+
+This profile is included as an example of the information an LST team may ask
+from a validator:
 
 - Validator: POSTHUMAN
 - Monad mainnet validator ID: 197
