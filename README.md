@@ -2,7 +2,7 @@
 
 [Web-page](https://posthuman.digital) | [History](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/history.md) | [Monad LST research](https://github.com/Validator-POSTHUMAN/contributions/blob/main/research/monad-liquid-staking-pools.md) <br />
 
-## POSTHUMAN responsible 38 different main-net validators
+## POSTHUMAN responsible 40 different main-net validators
 
 - [Agoric](https://www.mintscan.io/agoric/validators/agoricvaloper13yy5mk8ek8p5kk3e8nleucw003nt2vmzxrdx36/)
 - [Akash Network](https://www.mintscan.io/akash/validators/akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk/)
@@ -27,6 +27,7 @@
 - [Juno Network](https://explorer.chainroot.io/juno/validators/junovaloper1e8238v24qccht9mqc2w0r4luq462yxttjzn7qt)
 - [Lava Network](https://lava.explorers.guru/validator/lava@valoper1kwk34225f9eq3sklaf7xws8mc9lhu6sxhh57pj)
 - [Lumen](https://explorer.mekonglabs.tech/lumen-mainnet/staking/lmnvaloper1m574sszvqxqpxwyf7huqdft54gu2897hprtder)
+- [MANTRA](https://explorer.mantrachain.io/MANTRA/staking/mantravaloper1lh7g082k3v9r989s0w8hx4tp6jadqcj9wpn6uf)
 - [Mina](https://minascan.io/mainnet/validator/B62qrnPdz8HpsDJfGHirDLpVrN2VeyeitdaTKBaccWtHpeVW9Hgwi75/delegations)
 - [Monad](https://monadvision.com/validator/0xAED164187A9D6314591Ae581A922380A63a1Bd67)
 - [Near](https://nearblocks.io/node-explorer/posthuman.poolv1.near)
@@ -42,6 +43,7 @@
 - [TheGraph](https://thegraph.com/explorer/profile/0x0874e792462406dc12ee96b75e52a3bdbba3a123?view=Overview&chain=arbitrum-one)
 - [Union](https://explorer.union.build/union/staking/unionvaloper1pv6tkf95cwzxr0dynqv0h52zdk3x0q4ser5shs)
 - [Warden](https://mainnet.itrocket.net/warden/staking/wardenvaloper12de4mzezcvhauqxcszrhkdagwv8lwqs9uvla75)
+- [XION](https://explorer.burnt.com/verona/staking/xionvaloper1crq50flkuw2tkahagwvddzptcdfeq45j3m6yhf)
 
 
 ## POSTHUMAN validate several different test-nets (list is not full and always changes)
