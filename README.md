@@ -56,6 +56,7 @@
 - [Espresso](https://claim.espresso.foundation/stake/)
 - [Gnoland](https://explorer-gnoland.oshvank.xyz/?v=g1cn7pq5uu0vp3wgsgj552emz6jnf47l42k22wpq)
 - [LidoxSSV](https://hoodi.explorer.ssv.network/operators/243)
+- [Limonata]()
 - [Logos]()
 - [Monad](https://testnet.monadvision.com/validator/0xbd16d773a57C2C3ebD6E439ea95a60adfB2a0BcB)
 - [Push Chain](https://testnet.itrocket.net/push/staking/pushvaloper1h2pf0579ggfu05mmjxp5dq2ha37sz3gj45sx7v)
