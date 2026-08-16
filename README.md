@@ -1,8 +1,10 @@
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/hero-mobile-dark.svg">
+    <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="assets/hero-mobile-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-    <img src="assets/hero-light.svg" width="1200" height="360" alt="POSTHUMAN — decentralized validator and Web3 contributor since 2019">
+    <img src="assets/hero-light.svg" alt="POSTHUMAN — decentralized validator and Web3 contributor since 2019">
   </picture>
 </p>
 
