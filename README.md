@@ -33,7 +33,6 @@
 | [Contributions](https://github.com/Validator-POSTHUMAN/contributions) | Technical, research and ecosystem work |
 | [Validator history](history.md) | The story, team and decentralized governance context |
 | [Capabilities](superpowers.md) | Technical and community support overview |
-| [Monad LST research](https://github.com/Validator-POSTHUMAN/contributions/blob/main/research/monad-liquid-staking-pools.md) | Research on Monad liquid staking pools |
 
 ## Services & contributions
 
