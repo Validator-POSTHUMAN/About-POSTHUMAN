@@ -53,7 +53,7 @@
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
     <rect x="64" y="58" width="232" height="32" rx="16" fill="#0284c7" fill-opacity="0.08" stroke="#0284c7" stroke-opacity="0.35"/>
     <circle cx="83" cy="74" r="4" fill="#0284c7"/>
-    <text x="97" y="80" fill="#075985" font-size="14" font-weight="700" letter-spacing="2">38 MAINNET RECORDS</text>
+    <text x="97" y="80" fill="#075985" font-size="14" font-weight="700" letter-spacing="2">40 MAINNET RECORDS</text>
     <text x="60" y="177" fill="#0f172a" font-size="70" font-weight="800" letter-spacing="-4">POST<tspan fill="url(#accent)">HUMAN</tspan></text>
     <text x="64" y="216" fill="#475569" font-size="19" letter-spacing="1.4">DECENTRALIZED VALIDATOR · WEB3 CONTRIBUTOR</text>
     <line x1="64" y1="252" x2="586" y2="252" stroke="url(#accent)" stroke-width="2"/>
