@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">POSTHUMAN network hub</title>
+  <desc id="description">A dark, space-inspired banner for the POSTHUMAN decentralized validator and Web3 ecosystem contributor.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b16"/>
+      <stop offset="0.55" stop-color="#0b1222"/>
+      <stop offset="1" stop-color="#11102a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0.34"/>
+      <stop offset="0.55" stop-color="#2563eb" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#0b1222" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#dbeafe" stroke-opacity="0.045"/>
+    </pattern>
+    <filter id="soft-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+    <style>
+      .orbit { animation: orbit 18s linear infinite; }
+      .signal { animation: signal 3.2s ease-in-out infinite; }
+      @keyframes orbit { to { stroke-dashoffset: -320; } }
+      @keyframes signal { 0%, 100% { opacity: .45; } 50% { opacity: 1; } }
+      @media (prefers-reduced-motion: reduce) {
+        .orbit, .signal { animation: none; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <ellipse cx="975" cy="172" rx="360" ry="330" fill="url(#glow)"/>
+
+  <g opacity="0.95">
+    <circle cx="948" cy="180" r="116" fill="#0b1020" stroke="#67e8f9" stroke-opacity="0.22"/>
+    <circle class="orbit" cx="948" cy="180" r="142" fill="none" stroke="url(#accent)" stroke-width="2" stroke-dasharray="8 16" stroke-linecap="round"/>
+    <circle class="orbit" cx="948" cy="180" r="92" fill="none" stroke="#67e8f9" stroke-opacity="0.48" stroke-dasharray="3 18"/>
+    <path d="M848 180h200M948 80v200" stroke="#bfdbfe" stroke-opacity="0.08"/>
+    <path d="M877 109c42 23 100 23 142 0M877 251c42-23 100-23 142 0M856 144c60 24 124 24 184 0M856 216c60-24 124-24 184 0" fill="none" stroke="#93c5fd" stroke-opacity="0.16"/>
+    <path d="M948 64c-48 42-74 79-74 116s26 74 74 116M948 64c48 42 74 79 74 116s-26 74-74 116" fill="none" stroke="#93c5fd" stroke-opacity="0.16"/>
+    <circle cx="948" cy="180" r="12" fill="#67e8f9" opacity="0.18" filter="url(#soft-glow)"/>
+    <circle class="signal" cx="948" cy="180" r="4" fill="#e0f2fe"/>
+    <circle class="signal" cx="1019" cy="109" r="4" fill="#a78bfa"/>
+    <circle class="signal" cx="877" cy="251" r="4" fill="#67e8f9"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <rect x="64" y="58" width="232" height="32" rx="16" fill="#67e8f9" fill-opacity="0.09" stroke="#67e8f9" stroke-opacity="0.35"/>
+    <circle cx="83" cy="74" r="4" fill="#67e8f9"/>
+    <text x="97" y="80" fill="#a5f3fc" font-size="14" font-weight="700" letter-spacing="2">38 MAINNET RECORDS</text>
+    <text x="60" y="177" fill="#f8fafc" font-size="70" font-weight="800" letter-spacing="-4">POST<tspan fill="url(#accent)">HUMAN</tspan></text>
+    <text x="64" y="216" fill="#a9b7cb" font-size="19" letter-spacing="1.4">DECENTRALIZED VALIDATOR · WEB3 CONTRIBUTOR</text>
+    <line x1="64" y1="252" x2="586" y2="252" stroke="url(#accent)" stroke-width="2"/>
+    <text x="64" y="288" fill="#dbeafe" font-size="15" letter-spacing="1">NETWORKS  /  INFRASTRUCTURE  /  COMMUNITY</text>
+  </g>
+</svg>
