@@ -1,8 +1,54 @@
-![Logo3-512](https://user-images.githubusercontent.com/38581319/171294493-bf8b243c-94b5-4492-82bd-a1e9aed93420.png)
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/hero-mobile-dark.svg">
+    <img src="assets/hero-dark.svg" alt="POSTHUMAN — decentralized validator and Web3 contributor since 2019">
+  </picture>
+</p>
 
-[Web-page](https://posthuman.digital) | [History](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/blob/main/history.md) | [Monad LST research](https://github.com/Validator-POSTHUMAN/contributions/blob/main/research/monad-liquid-staking-pools.md) <br />
+# POSTHUMAN network hub
 
-## POSTHUMAN responsible 40 different main-net validators
+<p align="center">
+  <strong>Decentralized validator · infrastructure operator · ecosystem contributor</strong><br>
+  Supporting Proof-of-Stake networks and their communities since 2019.
+</p>
+
+<p align="center">
+  <a href="#active-mainnets">Active mainnets</a> ·
+  <a href="#active-testnets">Testnets</a> ·
+  <a href="#network-archive">Archive</a> ·
+  <a href="#services--contributions">Services</a> ·
+  <a href="#contribute--connect">Connect</a>
+</p>
+
+| **40 active mainnets listed** | **Operating since 2019** | **Technical + community support** |
+|:---:|:---:|:---:|
+| Direct links to each validator | Distributed validator history | Infrastructure, education, research |
+
+## Explore POSTHUMAN
+
+| Destination | What you will find |
+|---|---|
+| [Website](https://posthuman.digital) | POSTHUMAN's public home |
+| [Node services](https://nodes.posthuman.digital/) | RPC, REST and gRPC endpoints, snapshots, state sync and guides |
+| [Contributions](https://github.com/Validator-POSTHUMAN/contributions) | Technical, research and ecosystem work |
+| [Validator history](history.md) | The story, team and decentralized governance context |
+| [Capabilities](superpowers.md) | Technical and community support overview |
+| [Monad LST research](https://github.com/Validator-POSTHUMAN/contributions/blob/main/research/monad-liquid-staking-pools.md) | Research on Monad liquid staking pools |
+
+## Services & contributions
+
+POSTHUMAN operates validator infrastructure and supports ecosystems beyond block production. The team documents node operations, provides public network services, contributes tooling and research, creates educational content, and participates in community and governance initiatives.
+
+- **For networks:** [review POSTHUMAN services](https://posthuman.digital/contributions) and the [node-services dashboard](https://nodes.posthuman.digital/).
+- **For builders and researchers:** browse the [public contributions repository](https://github.com/Validator-POSTHUMAN/contributions).
+- **For delegators and communities:** read how [POSTHUMAN's decentralized validator model](history.md) developed.
+
+> [!NOTE]
+> Network participation changes over time. Active, testnet and archived entries are separated below; follow each linked explorer for the corresponding validator record.
+
+## Active mainnets
+
+POSTHUMAN is responsible for the 40 mainnet validators listed in this repository snapshot.
 
 - [Agoric](https://www.mintscan.io/agoric/validators/agoricvaloper13yy5mk8ek8p5kk3e8nleucw003nt2vmzxrdx36/)
 - [Akash Network](https://www.mintscan.io/akash/validators/akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk/)
@@ -46,7 +92,9 @@
 - [XION](https://explorer.burnt.com/verona/staking/xionvaloper1crq50flkuw2tkahagwvddzptcdfeq45j3m6yhf)
 
 
-## POSTHUMAN validate several different test-nets (list is not full and always changes)
+## Active testnets
+
+POSTHUMAN also validates several testnets. This list is intentionally non-exhaustive and changes frequently.
 
 - [Atom One](https://testnet.explorer.allinbits.services/atomone-testnet-1/staking/atonevaloper15az4z86h2er3twzgy64h6ys7nr5726lwhy7nrj)
 - [Canton](https://lighthouse.devnet.cantonloop.com/validators/POSTHUMAN%3A%3A12202ef3444efcdad0cc4a25c458235d0a24c34765b0ec5beb543d94c4f063583636) Devnet
@@ -56,19 +104,23 @@
 - [Espresso](https://claim.espresso.foundation/stake/)
 - [Gnoland](https://explorer-gnoland.oshvank.xyz/?v=g1cn7pq5uu0vp3wgsgj552emz6jnf47l42k22wpq)
 - [Limonata](https://nodes.posthuman.digital/chains/limonata)
-- [Logos]()
+- Logos
 - [Monad](https://testnet.monadvision.com/validator/0xbd16d773a57C2C3ebD6E439ea95a60adfB2a0BcB)
 - [Push Chain](https://testnet.itrocket.net/push/staking/pushvaloper1h2pf0579ggfu05mmjxp5dq2ha37sz3gj45sx7v)
-- [Starknet]()
+- [Starknet](https://sepolia.voyager.online/staking?validator=0x0107C8C1e8233a3e505b0C9892316F2f3b3E9070A1c68F5d17f307629fFCCdBF)
 - [Solana](https://www.validators.app/validators/M7Pcv3j8KpX8ZAkeSsvJnexgKrZbBAaMEcRTvf6t2Em?locale=en&network=testnet&order=&refresh=)
 - [Warden](https://testnet.itrocket.net/warden/staking/wardenvaloper12de4mzezcvhauqxcszrhkdagwv8lwqs9uvla75)
 
-## Archive of Main-nets
+## Network archive
+
+Historical participation is retained for transparency.
+
+### Archived mainnets
 - [Archway](https://www.mintscan.io/archway/validators/archwayvaloper1jy9kqql29lefyddmha9xla39qwqv8zxdzep27p) - we stop to validate Archway after [Proposal #51](https://www.mintscan.io/archway/proposals/51)
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1ckcup3mdvztrps2m788lpytxey47fyn9gkqhfw) - we stoped to validate Rizon on 13th of March 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A34)
 - [MediBloc](https://www.mintscan.io/medibloc/validators/panaceavaloper190njxj69lmwdwjhhp0fw5kqsxsu6g876hzgp6z) - we stoped to validate Mediblock on 13th of March 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A35)
 - [Gravity Bridge](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1epfpvqsc34sfserdx8x4t3aszdkar3w684fwr6) - we stoped to validate Gravity Bridge on 20th of September 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A44)
-- [HoneyWood]() - we stoped to validate Honeywood on 17th of September 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A45)
+- HoneyWood - we stoped to validate Honeywood on 17th of September 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A45)
 - [Lum Network](https://www.mintscan.io/lum/validators/lumvaloper1z7ss5slnpjfkceahl323ag9tkf3a6yrs88h4ng) - we stoped to validate LUM Network on 28th of September 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A47)
 - [LikeCoin](https://ping.pub/likecoin/staking/likevaloper13shmgwhlhw36sv6yfqz9llpcynu7pkqngh9sqk) - we stoped to validate LikeCoin on 28th of September 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A48)
 - [Tgrade](https://tgrade.provable.dev/tgrade/staking/tgrade1kcdne83mkvygg7guueswnfyfwtsdmewywvnq5q) - we stoped to validate TGrade on 28th of September 2024, by the [wish of community](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A49)
@@ -112,17 +164,17 @@
 - [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper14ftwwcfvhnp3qvxawesjan5duh8rmrkrzdvquy) - we stop to validate Stargaze after [Proposal #351](https://www.mintscan.io/stargaze/proposals/351)
 - [LidoxSSV](https://explorer.ssv.network/mainnet/operator/618) - we stop to validate LidoxSSV after [Wind Down the Simple DVT Module Regular Clusters](https://research.lido.fi/t/proposal-wind-down-the-simple-dvt-module-regular-clusters/11571)
 
-## Archive of Test-nets
+### Archived testnets
 
 - [0G](https://0g.astrostake.xyz/validators/0x36ba6550beef755faf96e2765c2f973be7d290cd)
-- [0G storage node]()
+- 0G storage node
 - [Allora](https://testnet.allora.explorers.guru/validator/allovaloper1vndxm2lgkkdn3wnadzcy0v8agauz7fpcv73hap)
 - [Aztec](https://dashtec.xyz/validators/0x3387eb8b4fe2f3bfb5e048889f18719201c63da0)
 - [Babylon](https://testnet.itrocket.net/babylon/staking/bbnvaloper1hvx5j97cwyvnpztpynk2d9m7jqqax46qks8us5)
 - [Dill](https://alps.dill.xyz/validators?p=20&ps=25&pubkey=0xb1e8c3611a36ea3ad69c8e7831c95284ced4d27f6ea7d28037b63214d9004a5303ea19c3767ed3d95307c7d4e7212142)
 - [Elixir](https://www.elixir.xyz/validators/)
 - [Elys Network](https://testnet.itrocket.net/elys/staking/elysvaloper1w6phv0xwya5p2sql4qzlh7h2hdeszf49d9t2gr)
-- [Fiamma]()
+- Fiamma
 - [Galactica](https://explorer.nodestake.org/galactica-testnet/staking/galavaloper18e8zes2y0n33esjhz0y7uqwurl83phht7r7fhn)
 - [Gnoland](https://test7.testnets.gno.land/r/gnoland/valopers:g1zfpe0g3pefzxh5amn75epc6lk3nqxcak3fcqj3)
 - [Initia](https://scan.testnet.initia.xyz/initiation-1/validators/initvaloper1kzs47dd6jhkx68wcjquv5z4g3wn2x5rhv3kz7v)
@@ -132,10 +184,10 @@
 - [Nesa](https://node.nesa.ai/nodes/X49iGTpnivAwb1cG8q9nSx53Aby1T1YeQCwmpU1Lqkv)
 - [Neutron](https://www.mintscan.io/neutron-testnet/validators/neutronvaloper1g0xlsmw83rtfla5khhrksa3tnmr5mdwu4aj5ue)
 - [Nillion](https://testnet.nillion.explorers.guru/account/nillion19tp8h2789nd6kl620f6ghsfxxhuefs3vzf23rj)
-- [Nubit]()
+- Nubit
 - [Odiseo](https://explorer.nodestake.org/odiseo-testnet/staking/odiseovaloper1kmngk7yul4q66hxx6gg9x6p55kj0drcay7qhu4)
 - [Pell Network](https://testnet.itrocket.net/pell/staking/pellvaloper1mcstdyw9hwvwwgtxcmpmke6hf8ufes0xkh3wm2)
-- [Redbelly]()
+- Redbelly
 - [Soarchain](https://explorer.soarchain.com/soarchain/staking/soarvaloper1fdwdehgnqeyz5kxak7ga0xgtwrpsad759zgn09)
 - [Story](https://testnet.storyscan.app/validators/storyvaloper1daxk0lukad4950ga6t2nc939gjvpwranre5dd4)
 - [Story](https://aeneid.staking.story.foundation/validators/0x47189c6843022ab991d438d0d604547a8b2cc7c7)
@@ -163,3 +215,18 @@ Our team members participated in various testnet programs:
 - TheGraph - Curator Program, MIPs Program
 - XX Network - BetaNet
  ... and [many](https://github.com/web3validator) [others](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/cyberG.md).
+
+## Contribute & connect
+
+Network records are most useful when they stay current. If an explorer URL or network status needs attention, [open an issue](https://github.com/Validator-POSTHUMAN/About-POSTHUMAN/issues) with the network name and supporting link.
+
+- **Community:** [English Telegram](https://t.me/posthumanchat) · [Russian Telegram](https://t.me/Crypto_Base_Chat)
+- **Updates:** [X / Twitter](https://twitter.com/POSTHUMAN_DVS) · [Medium](https://medium.com/@anthropocosmist)
+- **Video:** [English YouTube](https://www.youtube.com/@POSTHUMANDVS) · [Russian YouTube](https://www.youtube.com/@CRYPTOBASED)
+- **Code & research:** [Validator-POSTHUMAN on GitHub](https://github.com/Validator-POSTHUMAN)
+
+---
+
+<p align="center">
+  <sub>Verify validator addresses and current status in the linked network explorer before delegating.</sub>
+</p>
