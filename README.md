@@ -29,6 +29,8 @@
 | Destination | What you will find |
 |---|---|
 | [Website](https://posthuman.digital) | POSTHUMAN's public home |
+| [Network Hub](https://hub-preview.posthuman.digital/) | Unified network discovery, Explorer, Node Ops, public API and reviewed skills |
+| [Network Hub documentation](docs/network-hub/README.md) | Structure and practical guides for people, developers and AI agents |
 | [Node services](https://nodes.posthuman.digital/) | RPC, REST and gRPC endpoints, snapshots, state sync and guides |
 | [Contributions](https://github.com/Validator-POSTHUMAN/contributions) | Technical, research and ecosystem work |
 | [Validator history](history.md) | The story, team and decentralized governance context |
