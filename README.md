@@ -86,8 +86,8 @@ POSTHUMAN is responsible for the 39 mainnet validators listed in this repository
 - [Starknet](https://voyager.online/staking?validator=0x0327478b645a0c6889e995fe22b1298fae420dba24cc42422f0c066763d08dc9)
 - [TheGraph](https://thegraph.com/explorer/profile/0x0874e792462406dc12ee96b75e52a3bdbba3a123?view=Overview&chain=arbitrum-one)
 - [Union](https://explorer.union.build/union/staking/unionvaloper1pv6tkf95cwzxr0dynqv0h52zdk3x0q4ser5shs)
+- [Verona](https://explorer.burnt.com/verona/staking/xionvaloper1crq50flkuw2tkahagwvddzptcdfeq45j3m6yhf)
 - [Warden](https://mainnet.itrocket.net/warden/staking/wardenvaloper12de4mzezcvhauqxcszrhkdagwv8lwqs9uvla75)
-- [XION](https://explorer.burnt.com/verona/staking/xionvaloper1crq50flkuw2tkahagwvddzptcdfeq45j3m6yhf)
 
 
 ## Active testnets
