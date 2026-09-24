@@ -61,7 +61,6 @@ POSTHUMAN is responsible for the 39 mainnet validators listed in this repository
 - [Canton Network](https://www.cantonscan.com/party/POSTHUMAN-validator-1%3A%3A1220c96e07336860952d541206b74e38779ecfa2271b48de6df6015bdb1e285d53c1)
 - [Celestia](https://www.mintscan.io/celestia/validators/celestiavaloper1snun9qqk9eussvyhkqm03lz6f265ekhnnlw043)
 - [Cosmos Network](https://www.mintscan.io/cosmos/validators/cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv)
-- [Cyber](https://cyb.ai/network/bostrom/hero/bostromvaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zt56fhc)
 - [Dungeon Chain](https://ping.pub/Dungeonchain/staking/dungeonvaloper1umkse9yx2w9aw5qam0gffatfht3yerllxcque3)
 - [Dymension](https://dymension.explorers.guru/validator/dymvaloper1lsjs7pwll7pqm40namkyx3e5qdwg0v0swrshud)
 - [Espresso](https://claim.espresso.foundation/stake/)
@@ -161,6 +160,7 @@ Historical participation is retained for transparency.
 - [Intento](https://explorer.nodestake.org/intento/staking/intovaloper1a6qyup7zgyj53r43tq2ngqrrvx70fqhycucrmn) - we stoped to validate Intento after the project had been suspended
 - [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper14ftwwcfvhnp3qvxawesjan5duh8rmrkrzdvquy) - we stop to validate Stargaze after [Proposal #351](https://www.mintscan.io/stargaze/proposals/351)
 - [LidoxSSV](https://explorer.ssv.network/mainnet/operator/618) - we stop to validate LidoxSSV after [Wind Down the Simple DVT Module Regular Clusters](https://research.lido.fi/t/proposal-wind-down-the-simple-dvt-module-regular-clusters/11571)
+- [Bostrom](https://cyb.ai/network/bostrom/hero/bostromvaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zt56fhc) - we stopped to validate Bostrom, because of network [migration](https://x.com/mastercyb/status/2093302239821488250)
 
 ### Archived testnets
 
