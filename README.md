@@ -51,7 +51,7 @@ POSTHUMAN is responsible for the 39 mainnet validators listed in this repository
 
 - [Agoric](https://www.mintscan.io/agoric/validators/agoricvaloper13yy5mk8ek8p5kk3e8nleucw003nt2vmzxrdx36/)
 - [Akash Network](https://www.mintscan.io/akash/validators/akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk/)
-- [Atom One](https://www.mintscan.io/atomone/validators/atonevaloper1vcp7pkg8sk0n8ylhezxxs8qqrnwfld4dsv2sew)
+- [Atom One](https://www.mintscan.io/atomone/validators/atonevaloper1vcp7pkg8sk0n8ylhezxxs8qqrnwfld4dsv2sew) — jailed and unbonding; [incident notice](incidents/2026-09-30-atomone-double-sign.md)
 - [Avalanche](https://avascan.info/staking/validator/NodeID-5uYQ6R4WF7kmGfraM9LtsUJG2CDmh78Lf)
 - [Axelar](https://axelarscan.io/validator/axelarvaloper1ftqma496np33y054x6gjeh2maxy00e00p2nl9l)
 - [Axone](https://axone.valopers.com/validators/axonevaloper1ydnn9wtnlmw99zr66s6p9k7pg48zgjewk4pw53)
