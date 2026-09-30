@@ -4,7 +4,7 @@
 - **Network:** AtomOne mainnet (`atomone-1`)
 - **Validator:** [POSTHUMAN](https://www.mintscan.io/atomone/validators/atonevaloper1vcp7pkg8sk0n8ylhezxxs8qqrnwfld4dsv2sew) (`atonevaloper1vcp7pkg8sk0n8ylhezxxs8qqrnwfld4dsv2sew`)
 
-POSTHUMAN's AtomOne validator was jailed after the network accepted evidence of two different prevotes signed by its consensus key for the same height and round. We are publishing the verified sequence and the limits of the current investigation. **The evidence establishes double-signing by the key; it does not establish who operated the second signer, how the key became available, or whether the act was deliberate.**
+POSTHUMAN's AtomOne validator was jailed after the network accepted evidence of two different prevotes signed by its consensus key for the same height and round. We are publishing the verified sequence, the POSTHUMAN team's allegation, and the limits of the current investigation. **The on-chain evidence establishes double-signing by the key; it does not establish who operated the second signer, how the key became available, or whether the act was deliberate.**
 
 ## What happened
 
@@ -27,7 +27,13 @@ Our read-only review found that a separate AtomOne mainnet RPC process was synch
 
 The production signer's journal recorded conflicting-vote warnings. The available host logs cannot prove who signed a vote or rule out a previously running process, another key location, or a signer-state failure. We are preserving evidence and reviewing historical key custody and signing paths without disclosing or exporting secret material.
 
-A wallet mnemonic and a CometBFT consensus signing key are not interchangeable. Possession of a wallet mnemonic alone does not prove the ability to sign consensus votes. **We will not attribute the incident to a person, another validator, or a motive without evidence connecting them to the consensus key and the conflicting votes.**
+A wallet mnemonic and a CometBFT consensus signing key are not interchangeable. Possession of a wallet mnemonic alone does not prove the ability to sign consensus votes. The technical investigation has not attributed the incident to a person, another validator, or a motive.
+
+## Statement from the POSTHUMAN team
+
+On 30 September, POSTHUMAN management alleged that a former team member known as Olim, whom it associates with the validator "Chiter in Cosmos," deliberately caused the AtomOne double-sign. The team says he previously had access to a POSTHUMAN validator wallet mnemonic. The team also reports that, shortly after our validator was jailed, channels associated with "Chiter in Cosmos" urged delegators to redelegate to them.
+
+**These are the team's allegations, not independently verified findings.** We have not published records establishing Olim's access to this AtomOne consensus signing key, a connection between him or that validator and either conflicting vote, or archived links establishing the authorship and timing of the reported redelegation messages. The reported messages, even if authenticated, would not by themselves prove control of the consensus key or intent to double-sign. We invite relevant parties to provide dated, verifiable records and will correct this statement if evidence warrants it.
 
 ## Status and next steps
 
