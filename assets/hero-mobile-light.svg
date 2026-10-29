@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="750" height="420" viewBox="0 0 750 420" role="img" aria-labelledby="title description">
   <title id="title">POSTHUMAN network hub</title>
-  <desc id="description">POSTHUMAN's official circular network logo in a compact light validator network banner showing 40 mainnet records, designed for mobile screens.</desc>
+  <desc id="description">POSTHUMAN's official circular network logo in a compact light validator network banner showing 38 mainnet records, designed for mobile screens.</desc>
   <!--
     Brand provenance:
     Logo geometry: Validator-POSTHUMAN/brand-book, POSTHUMAN LOGO TRANSPARENT WHITE SVG.svg,
@@ -61,7 +61,7 @@
   <g class="copy">
     <rect x="48" y="42" width="308" height="44" rx="4" fill="#137987"/>
     <circle cx="70" cy="64" r="5" fill="#FFFFFF"/>
-    <text x="88" y="72" fill="#FFFFFF" font-size="21" font-weight="700" letter-spacing="1.5">40 MAINNET RECORDS</text>
+    <text x="88" y="72" fill="#FFFFFF" font-size="21" font-weight="700" letter-spacing="1.5">38 MAINNET RECORDS</text>
     <text class="brand" x="44" y="226" fill="#1A1A1B" font-size="76" font-weight="400" letter-spacing="-1">POSTHUMAN</text>
     <text x="48" y="276" fill="#1A1A1B" fill-opacity="0.76" font-size="25" font-weight="600" letter-spacing="1.2">DECENTRALIZED VALIDATOR</text>
     <text x="48" y="314" fill="#1A1A1B" fill-opacity="0.76" font-size="25" font-weight="600" letter-spacing="1.2">WEB3 ECOSYSTEM CONTRIBUTOR</text>

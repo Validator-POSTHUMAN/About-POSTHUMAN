@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
   <title id="title">POSTHUMAN network hub</title>
-  <desc id="description">POSTHUMAN's official circular network logo beside a light validator network banner showing 40 mainnet records.</desc>
+  <desc id="description">POSTHUMAN's official circular network logo beside a light validator network banner showing 38 mainnet records.</desc>
   <!--
     Brand provenance:
     Logo geometry: Validator-POSTHUMAN/brand-book, POSTHUMAN LOGO TRANSPARENT WHITE SVG.svg,
@@ -61,7 +61,7 @@
   <g class="copy">
     <rect x="64" y="54" width="228" height="34" rx="4" fill="#137987"/>
     <circle cx="82" cy="71" r="4" fill="#FFFFFF"/>
-    <text x="96" y="77" fill="#FFFFFF" font-size="14" font-weight="700" letter-spacing="1.5">40 MAINNET RECORDS</text>
+    <text x="96" y="77" fill="#FFFFFF" font-size="14" font-weight="700" letter-spacing="1.5">38 MAINNET RECORDS</text>
     <text class="brand" x="60" y="178" fill="#1A1A1B" font-size="74" font-weight="400" letter-spacing="-1.5">POSTHUMAN</text>
     <text x="64" y="218" fill="#1A1A1B" fill-opacity="0.72" font-size="18" font-weight="600" letter-spacing="1.4">DECENTRALIZED VALIDATOR · WEB3 CONTRIBUTOR</text>
     <line x1="64" y1="252" x2="620" y2="252" stroke="#137987" stroke-width="3"/>
