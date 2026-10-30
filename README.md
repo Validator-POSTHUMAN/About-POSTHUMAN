@@ -57,7 +57,6 @@ This registry lists 38 mainnet validator records; see the linked explorers and i
 - [Axone](https://axone.valopers.com/validators/axonevaloper1ydnn9wtnlmw99zr66s6p9k7pg48zgjewk4pw53)
 - [Babylon](https://www.mintscan.io/babylon/validators/bbnvaloper1q3m4m0zmrhkw7zdldehcu8raxsmdpxp0npp52s)
 - [Beezee](https://ping.pub/beezee/staking/bzevaloper1xq38qxad2eumdaytrejnmypqaay8dtmukz72re)
-- [Bitway](https://mainnet.itrocket.net/bitway/staking/bitwayvaloper1qqwp68scpqz3qrq3ru8p5rsuzsy3w9caqgqp2zchpqf32zsdqgt3znlg0ax)
 - [Canton Network](https://www.cantonscan.com/party/POSTHUMAN-validator-1%3A%3A1220c96e07336860952d541206b74e38779ecfa2271b48de6df6015bdb1e285d53c1)
 - [Celestia](https://www.mintscan.io/celestia/validators/celestiavaloper1snun9qqk9eussvyhkqm03lz6f265ekhnnlw043)
 - [Cosmos Network](https://www.mintscan.io/cosmos/validators/cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv)
@@ -86,7 +85,6 @@ This registry lists 38 mainnet validator records; see the linked explorers and i
 - [TheGraph](https://thegraph.com/explorer/profile/0x0874e792462406dc12ee96b75e52a3bdbba3a123?view=Overview&chain=arbitrum-one)
 - [Union](https://explorer.union.build/union/staking/unionvaloper1pv6tkf95cwzxr0dynqv0h52zdk3x0q4ser5shs)
 - [Verona](https://explorer.burnt.com/verona/staking/xionvaloper1crq50flkuw2tkahagwvddzptcdfeq45j3m6yhf)
-- [Warden](https://mainnet.itrocket.net/warden/staking/wardenvaloper12de4mzezcvhauqxcszrhkdagwv8lwqs9uvla75)
 
 
 ## Active testnets
@@ -102,11 +100,10 @@ POSTHUMAN also validates several testnets. This list is intentionally non-exhaus
 - [Gnoland](https://explorer-gnoland.oshvank.xyz/?v=g1cn7pq5uu0vp3wgsgj552emz6jnf47l42k22wpq)
 - [Limonata](https://nodes.posthuman.digital/chains/limonata)
 - Logos
-- [Monad](https://testnet.monadvision.com/validator/0xbd16d773a57C2C3ebD6E439ea95a60adfB2a0BcB)
 - [Push Chain](https://testnet.itrocket.net/push/staking/pushvaloper1h2pf0579ggfu05mmjxp5dq2ha37sz3gj45sx7v)
 - [Starknet](https://sepolia.voyager.online/staking?validator=0x0107C8C1e8233a3e505b0C9892316F2f3b3E9070A1c68F5d17f307629fFCCdBF)
 - [Solana](https://www.validators.app/validators/M7Pcv3j8KpX8ZAkeSsvJnexgKrZbBAaMEcRTvf6t2Em?locale=en&network=testnet&order=&refresh=)
-- [Warden](https://testnet.itrocket.net/warden/staking/wardenvaloper12de4mzezcvhauqxcszrhkdagwv8lwqs9uvla75)
+
 
 ## Network archive
 
@@ -161,6 +158,9 @@ Historical participation is retained for transparency.
 - [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper14ftwwcfvhnp3qvxawesjan5duh8rmrkrzdvquy) - we stop to validate Stargaze after [Proposal #351](https://www.mintscan.io/stargaze/proposals/351)
 - [LidoxSSV](https://explorer.ssv.network/mainnet/operator/618) - we stop to validate LidoxSSV after [Wind Down the Simple DVT Module Regular Clusters](https://research.lido.fi/t/proposal-wind-down-the-simple-dvt-module-regular-clusters/11571)
 - [Bostrom](https://cyb.ai/network/bostrom/hero/bostromvaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zt56fhc) - we stopped to validate Bostrom, because of network [migration](https://x.com/mastercyb/status/2093302239821488250)
+- [Bitway](https://mainnet.itrocket.net/bitway/staking/bitwayvaloper1qqwp68scpqz3qrq3ru8p5rsuzsy3w9caqgqp2zchpqf32zsdqgt3znlg0ax) - because chain was halted
+- [Warden](https://mainnet.itrocket.net/warden/staking/wardenvaloper12de4mzezcvhauqxcszrhkdagwv8lwqs9uvla75) - we stopped to validate Warden, because of token [migration](https://x.com/wardenprotocol/status/2115724727150903317)
+
 
 ### Archived testnets
 
@@ -179,6 +179,7 @@ Historical participation is retained for transparency.
 - [Lava](https://explorer.kjnodes.com/lava-testnet/staking/lava@valoper1a6jlhfkm6ry53v2pn8kjq9ftvc656hegl9e3s0)
 - [LidoxObol](https://operators-holesky.testnet.fi/module/2/23)
 - [LidoxSSV](https://hoodi.explorer.ssv.network/operators/243)
+- [Monad](https://testnet.monadvision.com/validator/0xbd16d773a57C2C3ebD6E439ea95a60adfB2a0BcB)
 - [Nesa](https://node.nesa.ai/nodes/X49iGTpnivAwb1cG8q9nSx53Aby1T1YeQCwmpU1Lqkv)
 - [Neutron](https://www.mintscan.io/neutron-testnet/validators/neutronvaloper1g0xlsmw83rtfla5khhrksa3tnmr5mdwu4aj5ue)
 - [Nillion](https://testnet.nillion.explorers.guru/account/nillion19tp8h2789nd6kl620f6ghsfxxhuefs3vzf23rj)
@@ -190,6 +191,7 @@ Historical participation is retained for transparency.
 - [Story](https://testnet.storyscan.app/validators/storyvaloper1daxk0lukad4950ga6t2nc939gjvpwranre5dd4)
 - [Story](https://aeneid.staking.story.foundation/validators/0x47189c6843022ab991d438d0d604547a8b2cc7c7)
 - [Vana](https://moksha.vanascan.io/token/0x14e7F5C7B85A3C76184f6bdc749B027DD6e8c70a)
+- [Warden](https://testnet.itrocket.net/warden/staking/wardenvaloper12de4mzezcvhauqxcszrhkdagwv8lwqs9uvla75)
 - [ZetaChain](https://testnet.itrocket.net/zetachain/staking/zetavaloper15lshcgxztgmtyg8uv93827ywtswf7jg8qu2upq)
 
 Our team members participated in various testnet programs:
