@@ -20,7 +20,7 @@
   <a href="#contribute--connect">Connect</a>
 </p>
 
-| **38 mainnet validator records** | **Operating since 2019** | **Technical + community support** |
+| **36 mainnet validator records** | **Operating since 2019** | **Technical + community support** |
 |:---:|:---:|:---:|
 | Direct links to each validator | Distributed validator history | Infrastructure, education, research |
 
@@ -47,7 +47,7 @@ POSTHUMAN operates validator infrastructure and supports ecosystems beyond block
 
 ## Active mainnets
 
-This registry lists 38 mainnet validator records; see the linked explorers and inline notes for individual status.
+This registry lists 36 mainnet validator records; see the linked explorers and inline notes for individual status.
 
 - [Agoric](https://www.mintscan.io/agoric/validators/agoricvaloper13yy5mk8ek8p5kk3e8nleucw003nt2vmzxrdx36/)
 - [Akash Network](https://www.mintscan.io/akash/validators/akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk/)
