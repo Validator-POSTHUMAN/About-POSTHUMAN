@@ -20,7 +20,7 @@
   <a href="#contribute--connect">Connect</a>
 </p>
 
-| **36 mainnet validator records** | **Operating since 2019** | **Technical + community support** |
+| **35 mainnet validator records** | **Operating since 2019** | **Technical + community support** |
 |:---:|:---:|:---:|
 | Direct links to each validator | Distributed validator history | Infrastructure, education, research |
 
@@ -47,7 +47,7 @@ POSTHUMAN operates validator infrastructure and supports ecosystems beyond block
 
 ## Active mainnets
 
-This registry lists 36 mainnet validator records; see the linked explorers and inline notes for individual status.
+This registry lists 35 mainnet validator records; see the linked explorers and inline notes for individual status.
 
 - [Agoric](https://www.mintscan.io/agoric/validators/agoricvaloper13yy5mk8ek8p5kk3e8nleucw003nt2vmzxrdx36/)
 - [Akash Network](https://www.mintscan.io/akash/validators/akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk/)
@@ -83,7 +83,6 @@ This registry lists 36 mainnet validator records; see the linked explorers and i
 - [Shentu](https://www.mintscan.io/shentu/validators/shentuvaloper1qqrw7v5xcyxpp3f0gelp08td9q95ayfdugecw0)
 - [Starknet](https://voyager.online/staking?validator=0x0327478b645a0c6889e995fe22b1298fae420dba24cc42422f0c066763d08dc9)
 - [TheGraph](https://thegraph.com/explorer/profile/0x0874e792462406dc12ee96b75e52a3bdbba3a123?view=Overview&chain=arbitrum-one)
-- [Union](https://explorer.union.build/union/staking/unionvaloper1pv6tkf95cwzxr0dynqv0h52zdk3x0q4ser5shs)
 - [Verona](https://explorer.burnt.com/verona/staking/xionvaloper1crq50flkuw2tkahagwvddzptcdfeq45j3m6yhf)
 
 
