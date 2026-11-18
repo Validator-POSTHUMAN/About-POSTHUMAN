@@ -75,7 +75,6 @@ This registry lists 36 mainnet validator records; see the linked explorers and i
 - [Monad](https://monadvision.com/validator/0xAED164187A9D6314591Ae581A922380A63a1Bd67)
 - [Near](https://nearblocks.io/node-explorer/posthuman.poolv1.near)
 - [Neutron](https://www.mintscan.io/neutron/validators/neutronvaloper1md0k6m8y58w8u98x82kjah7r5zcajw7c5v5ypa)
-- [Nomic](https://explorer.chaintools.tech/nomic/staking/nomic19k66uuramzvll98f6r4ayqmvugats3e5l6zxj8)
 - [Oraichain](https://scan.orai.io/validators/oraivaloper1gvk3caqtdnwhff60ndm29tp0m7p8e57zgx588h)
 - [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam/)
 - [Provenance](https://zonescan.io/provenance/validators/pbvaloper1fvsqqncjknzhmq0j6z0a3e8rjgudc3uw2xulnt)
@@ -83,7 +82,6 @@ This registry lists 36 mainnet validator records; see the linked explorers and i
 - [Shentu](https://www.mintscan.io/shentu/validators/shentuvaloper1qqrw7v5xcyxpp3f0gelp08td9q95ayfdugecw0)
 - [Starknet](https://voyager.online/staking?validator=0x0327478b645a0c6889e995fe22b1298fae420dba24cc42422f0c066763d08dc9)
 - [TheGraph](https://thegraph.com/explorer/profile/0x0874e792462406dc12ee96b75e52a3bdbba3a123?view=Overview&chain=arbitrum-one)
-- [Union](https://explorer.union.build/union/staking/unionvaloper1pv6tkf95cwzxr0dynqv0h52zdk3x0q4ser5shs)
 - [Verona](https://explorer.burnt.com/verona/staking/xionvaloper1crq50flkuw2tkahagwvddzptcdfeq45j3m6yhf)
 
 
@@ -160,6 +158,8 @@ Historical participation is retained for transparency.
 - [Bostrom](https://cyb.ai/network/bostrom/hero/bostromvaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zt56fhc) - we stopped to validate Bostrom, because of network [migration](https://x.com/mastercyb/status/2093302239821488250)
 - [Bitway](https://mainnet.itrocket.net/bitway/staking/bitwayvaloper1qqwp68scpqz3qrq3ru8p5rsuzsy3w9caqgqp2zchpqf32zsdqgt3znlg0ax) - because chain was halted
 - [Warden](https://mainnet.itrocket.net/warden/staking/wardenvaloper12de4mzezcvhauqxcszrhkdagwv8lwqs9uvla75) - we stopped to validate Warden, because of token [migration](https://x.com/wardenprotocol/status/2115724727150903317)
+- [Nomic](https://explorer.chaintools.tech/nomic/staking/nomic19k66uuramzvll98f6r4ayqmvugats3e5l6zxj8) - we stopper to validate Nomic because chain was halted
+- [Union](https://explorer.union.build/union/staking/unionvaloper1pv6tkf95cwzxr0dynqv0h52zdk3x0q4ser5shs) - we stopped to validate Union because of project was abandoned by team
 
 
 ### Archived testnets
